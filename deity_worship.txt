@@ -1,16 +1,16 @@
 ====== Deity worship ======
 
-SB 1.5.7, SB 1.6.21
+[[books:sb:1:5:7#purport|SB. 1.5.7]], [[books:sb:1:6:21#purport|SB. 1.6.21]]
 
-  * //ācāryas// authorize, SB 1.11.24
-  * for children, SB 1.12.30
-  * devotional service helped via, SB 1.11.24
-  * fallen souls need, SB 1.8.22
-  * forms of, SB 1.8.22
-  * for //gṛhasthas,// SB 1.13.31
-  * idol worship confused with, SB 1.11.24
-  * instructions on, SB 1.8.22
-  * as life’s perfection, <b>SB 1.11.7</b>
-  * Lord pleased by, SB 1.9.27
-  * misunderstanding of, SB 1.11.24
-  * purpose of, SB 1.12.9
+  * //ācāryas// authorize, [[books:sb:1:11:24#purport|SB. 1.11.24]]
+  * for children, [[books:sb:1:12:30#purport|SB. 1.12.30]]
+  * devotional service helped via, [[books:sb:1:11:24#purport|SB. 1.11.24]]
+  * fallen souls need, [[books:sb:1:8:22#purport|SB. 1.8.22]]
+  * forms of, [[books:sb:1:8:22#purport|SB. 1.8.22]]
+  * for //gṛhasthas,// [[books:sb:1:13:31#purport|SB. 1.13.31]]
+  * idol worship confused with, [[books:sb:1:11:24#purport|SB. 1.11.24]]
+  * instructions on, [[books:sb:1:8:22#purport|SB. 1.8.22]]
+  * as life’s perfection, **[[books:sb:1:11:7#translation|SB. 1.11.7]]**
+  * Lord pleased by, [[books:sb:1:9:27#purport|SB. 1.9.27]]
+  * misunderstanding of, [[books:sb:1:11:24#purport|SB. 1.11.24]]
+  * purpose of, [[books:sb:1:12:9#purport|SB. 1.12.9]]

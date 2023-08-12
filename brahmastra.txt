@@ -2,14 +2,14 @@
 
 SB 1.7.//<b>27-32</b>
 
-  * Aśvatthāmā discharged, <b>SB 1.8.11-16</b>, SB 1.8.11-16, <b>SB 1.12.1</b>, SB 1.12.1
-  * as atomic weapon, <b>SB 1.7.19</b>, <b>SB 1.7.27</b>, SB 1.7.30
-  * atomic weapons compared with, SB 1.8.12-13, SB 1.10.32
-  * Lord foiled, <b>SB 1.8.15</b>, SB 1.8.15
+  * Aśvatthāmā discharged, <b>[[books:sb:1:8:11#purport|SB. 1.8.11]]-16</b>, [[books:sb:1:8:11#purport|SB. 1.8.11]]-16, **[[books:sb:1:12:1#translation|SB. 1.12.1]]**, [[books:sb:1:12:1#purport|SB. 1.12.1]]
+  * as atomic weapon, **[[books:sb:1:7:19#translation|SB. 1.7.19]]**, **[[books:sb:1:7:27#translation|SB. 1.7.27]]**, [[books:sb:1:7:30#purport|SB. 1.7.30]]
+  * atomic weapons compared with, [[books:sb:1:8:12#purport|SB. 1.8.12]]-13, [[books:sb:1:10:32#purport|SB. 1.10.32]]
+  * Lord foiled, **[[books:sb:1:8:15#translation|SB. 1.8.15]]**, [[books:sb:1:8:15#purport|SB. 1.8.15]]
   * Pāṇḍavas
-    * attacked by, <b>SB 1.8.11-12</b>
-    * saved from, <b>SB 1.8.17</b>
+    * attacked by, <b>[[books:sb:1:8:11#purport|SB. 1.8.11]]-12</b>
+    * saved from, **[[books:sb:1:8:17#translation|SB. 1.8.17]]**
   * Parīkṣit
-    * attacked by, SB 1.8.11, <b>SB 1.12.7</b>, SB 1.12.16-17
-    * saved from, <b>SB 1.8.14</b>, SB 1.8.14, SB 1.8.24
-  * as science of throwing, <b>SB 1.7.20</b>, SB 1.7.27
+    * attacked by, [[books:sb:1:8:11#purport|SB. 1.8.11]], **[[books:sb:1:12:7#translation|SB. 1.12.7]]**, [[books:sb:1:12:16#purport|SB. 1.12.16]]-17
+    * saved from, **[[books:sb:1:8:14#translation|SB. 1.8.14]]**, [[books:sb:1:8:14#purport|SB. 1.8.14]], [[books:sb:1:8:24#purport|SB. 1.8.24]]
+  * as science of throwing, **[[books:sb:1:7:20#translation|SB. 1.7.20]]**, [[books:sb:1:7:27#purport|SB. 1.7.27]]

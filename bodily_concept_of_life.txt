@@ -1,16 +1,16 @@
 ====== Bodily concept of life ======
 
-SB 1.8.47
+[[books:sb:1:8:47#purport|SB. 1.8.47]]
 
-  * as basis of suffering, <b>SB 1.7.5</b>
-  * dissolved for devotees, SB 1.2.21
-  * false relativity in, SB 1.2.11
-  * fear in, SB 1.7.7
-  * as ignorance, <b>SB 1.5.27</b>, SB 1.15.31
-  * overlording in, SB 1.1.2
-  * as root of despondency, SB 1.5.5
-  * self-realisation destroys, SB 1.3.33
-  * //Śrīmad-Bhāgavatam// destroys, SB 1.7.7
-  * in Vyāsadeva, SB 1.5.2
-  * Yudhiṣṭhira shucked, <b>SB 1.15.41</b>
+  * as basis of suffering, **[[books:sb:1:7:5#translation|SB. 1.7.5]]**
+  * dissolved for devotees, [[books:sb:1:2:21#purport|SB. 1.2.21]]
+  * false relativity in, [[books:sb:1:2:11#purport|SB. 1.2.11]]
+  * fear in, [[books:sb:1:7:7#purport|SB. 1.7.7]]
+  * as ignorance, **[[books:sb:1:5:27#translation|SB. 1.5.27]]**, [[books:sb:1:15:31#purport|SB. 1.15.31]]
+  * overlording in, [[books:sb:1:1:2#purport|SB. 1.1.2]]
+  * as root of despondency, [[books:sb:1:5:5#purport|SB. 1.5.5]]
+  * self-realisation destroys, [[books:sb:1:3:33#purport|SB. 1.3.33]]
+  * //Śrīmad-Bhāgavatam// destroys, [[books:sb:1:7:7#purport|SB. 1.7.7]]
+  * in Vyāsadeva, [[books:sb:1:5:2#purport|SB. 1.5.2]]
+  * Yudhiṣṭhira shucked, **[[books:sb:1:15:41#translation|SB. 1.15.41]]**
   * //See also:// Materialism

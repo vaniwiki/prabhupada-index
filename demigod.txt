@@ -1,65 +1,65 @@
 ====== Demigod(s) ======
 
-  * administrative, SB 1.11.26
-  * afraid of Hiraṇyakaśipu, SB 1.3.28
-  * animal sacrifice to, SB 1.5.15
+  * administrative, [[books:sb:1:11:26#purport|SB. 1.11.26]]
+  * afraid of Hiraṇyakaśipu, [[books:sb:1:3:28#purport|SB. 1.3.28]]
+  * animal sacrifice to, [[books:sb:1:5:15#purport|SB. 1.5.15]]
   * Arjuna
-    * pleased, SB 1.15.12
-    * protected, <b>SB 1.15.13</b>
-  * as assistants of Lord, SB 1.2.27-29
-  * Aṣṭāvakra blessed & cursed daughters of, SB 1.15.20
-  * Bhīṣma honored by, SB 1.9.45
+    * pleased, [[books:sb:1:15:12#purport|SB. 1.15.12]]
+    * protected, **[[books:sb:1:15:13#translation|SB. 1.15.13]]**
+  * as assistants of Lord, [[books:sb:1:2:27#purport|SB. 1.2.27]]-29
+  * Aṣṭāvakra blessed & cursed daughters of, [[books:sb:1:15:20#purport|SB. 1.15.20]]
+  * Bhīṣma honored by, [[books:sb:1:9:45#purport|SB. 1.9.45]]
   * Brahmā
-    * chief among, SB 1.18.21
-    * origin of, SB 1.3.5
-  * can’t award liberation, SB 1.2.23, SB 1.2.26, SB 1.2.28-29
-  * churned sea for nectar, <b>SB 1.3.16</b>
-  * compared to managers of prison house, SB 1.2.28-29
-  * as "deathless," SB 1.17.15
-  * demons vs., SB 1.13.49, SB 1.15.34
+    * chief among, [[books:sb:1:18:21#purport|SB. 1.18.21]]
+    * origin of, [[books:sb:1:3:5#purport|SB. 1.3.5]]
+  * can’t award liberation, [[books:sb:1:2:23#purport|SB. 1.2.23]], [[books:sb:1:2:26#purport|SB. 1.2.26]], [[books:sb:1:2:28#purport|SB. 1.2.28]]-29
+  * churned sea for nectar, **[[books:sb:1:3:16#translation|SB. 1.3.16]]**
+  * compared to managers of prison house, [[books:sb:1:2:28#purport|SB. 1.2.28]]-29
+  * as "deathless," [[books:sb:1:17:15#purport|SB. 1.17.15]]
+  * demons vs., [[books:sb:1:13:49#purport|SB. 1.13.49]], [[books:sb:1:15:34#purport|SB. 1.15.34]]
   * depend on Lord, SB Intro 1, SB Intro 2
-  * devotees as, SB 1.19.34
-  * devotees of, compared with Kṛṣṇa’s devotees, SB 1.15.12
-  * devotees please, SB 1.19.18
-  * Dvākarā’s residents compared with, <b>SB 1.11.8</b>, SB 1.11.8
-  * earth visited by, SB 1.13.14, SB 1.16.3
-  * equal Lord at no time, SB 1.2.26
-  * Garbhodakaśāyī Viṣṇu source of, <b>SB 1.3.5</b>
-  * ghastly forms of, SB 1.2.26
-  * goddess of fortune sought by, <b>SB 1.18.20</b>
-  * in goodness, SB 1.15.12
-  * human beings under, SB 1.15.13, SB 1.17.15, SB 1.19.18
-  * incarnations of God as, <b>SB 1.3.27</b>
-  * intoxication by, SB 1.15.34
+  * devotees as, [[books:sb:1:19:34#purport|SB. 1.19.34]]
+  * devotees of, compared with Kṛṣṇa’s devotees, [[books:sb:1:15:12#purport|SB. 1.15.12]]
+  * devotees please, [[books:sb:1:19:18#purport|SB. 1.19.18]]
+  * Dvākarā’s residents compared with, **[[books:sb:1:11:8#translation|SB. 1.11.8]]**, [[books:sb:1:11:8#purport|SB. 1.11.8]]
+  * earth visited by, [[books:sb:1:13:14#purport|SB. 1.13.14]], [[books:sb:1:16:3#purport|SB. 1.16.3]]
+  * equal Lord at no time, [[books:sb:1:2:26#purport|SB. 1.2.26]]
+  * Garbhodakaśāyī Viṣṇu source of, **[[books:sb:1:3:5#translation|SB. 1.3.5]]**
+  * ghastly forms of, [[books:sb:1:2:26#purport|SB. 1.2.26]]
+  * goddess of fortune sought by, **[[books:sb:1:18:20#translation|SB. 1.18.20]]**
+  * in goodness, [[books:sb:1:15:12#purport|SB. 1.15.12]]
+  * human beings under, [[books:sb:1:15:13#purport|SB. 1.15.13]], [[books:sb:1:17:15#purport|SB. 1.17.15]], [[books:sb:1:19:18#purport|SB. 1.19.18]]
+  * incarnations of God as, **[[books:sb:1:3:27#translation|SB. 1.3.27]]**
+  * intoxication by, [[books:sb:1:15:34#purport|SB. 1.15.34]]
   * Kṛṣṇa
-    * above, SB 1.15.12, SB 1.17.34
-    * worshiped by, <b>SB 1.11.6</b>
-  * Kuntī summoned, SB 1.13.3-4, SB 1.15.11
+    * above, [[books:sb:1:15:12#purport|SB. 1.15.12]], [[books:sb:1:17:34#purport|SB. 1.17.34]]
+    * worshiped by, **[[books:sb:1:11:6#translation|SB. 1.11.6]]**
+  * Kuntī summoned, [[books:sb:1:13:3#purport|SB. 1.13.3]]-4, [[books:sb:1:15:11#purport|SB. 1.15.11]]
   * Lord
-    * accepts post of, SB 1.3.12
-    * comes to please, <b>SB 1.3.22</b>
-    * & devotees cooperate with, SB 1.19.18
-    * protects, SB 1.13.50, SB 1.15.34
-    * took //pārijāta// from, SB 1.14.37
-  * Lord’s eternal associates compared with, SB 1.15.49
-  * as Lord’s servants, SB 1.15.34
-  * opulence of, SB 1.3.28
-  * Pāṇḍavas as, SB 1.13.49
-  * Parīkṣit praised by, <b>SB 1.19.18</b>
-  * at Parīkṣit’s horse sacrifices, <b>SB 1.16.3</b>
-  * as part of Lord, SB 1.1.2, SB 1.1.4, SB 1.2.26
-  * powers of, SB 1.19.18
-  * priest of, SB 1.9.8, SB 1.19.9-10
-  * as prison officers, SB 1.16.20
-  * as progenitors, SB 1.3.5
-  * residences of, SB 1.9.45, SB 1.10.27
-  * sacrifice to, <b>SB 1.16.20</b>, SB 1.16.20
-  * Śiva chief among, SB 1.18.21
-  * space travel by, SB 1.16.3
-  * as theists, SB 1.19.18
-  * as transcendental, SB 1.13.49
-  * worshipers of, SB 1.12.20
+    * accepts post of, [[books:sb:1:3:12#purport|SB. 1.3.12]]
+    * comes to please, **[[books:sb:1:3:22#translation|SB. 1.3.22]]**
+    * & devotees cooperate with, [[books:sb:1:19:18#purport|SB. 1.19.18]]
+    * protects, [[books:sb:1:13:50#purport|SB. 1.13.50]], [[books:sb:1:15:34#purport|SB. 1.15.34]]
+    * took //pārijāta// from, [[books:sb:1:14:37#purport|SB. 1.14.37]]
+  * Lord’s eternal associates compared with, [[books:sb:1:15:49#purport|SB. 1.15.49]]
+  * as Lord’s servants, [[books:sb:1:15:34#purport|SB. 1.15.34]]
+  * opulence of, [[books:sb:1:3:28#purport|SB. 1.3.28]]
+  * Pāṇḍavas as, [[books:sb:1:13:49#purport|SB. 1.13.49]]
+  * Parīkṣit praised by, **[[books:sb:1:19:18#translation|SB. 1.19.18]]**
+  * at Parīkṣit’s horse sacrifices, **[[books:sb:1:16:3#translation|SB. 1.16.3]]**
+  * as part of Lord, [[books:sb:1:1:2#purport|SB. 1.1.2]], [[books:sb:1:1:4#purport|SB. 1.1.4]], [[books:sb:1:2:26#purport|SB. 1.2.26]]
+  * powers of, [[books:sb:1:19:18#purport|SB. 1.19.18]]
+  * priest of, [[books:sb:1:9:8#purport|SB. 1.9.8]], [[books:sb:1:19:9#purport|SB. 1.19.9]]-10
+  * as prison officers, [[books:sb:1:16:20#purport|SB. 1.16.20]]
+  * as progenitors, [[books:sb:1:3:5#purport|SB. 1.3.5]]
+  * residences of, [[books:sb:1:9:45#purport|SB. 1.9.45]], [[books:sb:1:10:27#purport|SB. 1.10.27]]
+  * sacrifice to, **[[books:sb:1:16:20#translation|SB. 1.16.20]]**, [[books:sb:1:16:20#purport|SB. 1.16.20]]
+  * Śiva chief among, [[books:sb:1:18:21#purport|SB. 1.18.21]]
+  * space travel by, [[books:sb:1:16:3#purport|SB. 1.16.3]]
+  * as theists, [[books:sb:1:19:18#purport|SB. 1.19.18]]
+  * as transcendental, [[books:sb:1:13:49#purport|SB. 1.13.49]]
+  * worshipers of, [[books:sb:1:12:20#purport|SB. 1.12.20]]
   * worship to. //See:// Worship, to demigod(s)
-  * in Yadu dynasty, SB 1.15.34
-  * Yudhiṣṭhira visited by, SB 1.13.14
+  * in Yadu dynasty, [[books:sb:1:15:34#purport|SB. 1.15.34]]
+  * Yudhiṣṭhira visited by, [[books:sb:1:13:14#purport|SB. 1.13.14]]
   * //See also: specific demigods//

@@ -1,14 +1,14 @@
 ====== Aśvatthāmā ======
 
-<b>SB 1.8.11</b>, SB 1.8.12-13, <b>SB 1.8.15</b>, <b>SB 1.12.1</b>, SB 1.13.16
+**[[books:sb:1:8:11#translation|SB. 1.8.11]]**, [[books:sb:1:8:12#purport|SB. 1.8.12]]-13, **[[books:sb:1:8:15#translation|SB. 1.8.15]]**, **[[books:sb:1:12:1#translation|SB. 1.12.1]]**, [[books:sb:1:13:16#purport|SB. 1.13.16]]
 
   * Arjuna. //See:// Arjuna, Aśvatthāmā & ...
-  * beheads Pāṇḍava children, <b>SB 1.7.13-14</b>
-  * as //brāhmaṇa,// unqualified, SB 1.7.16, SB 1.7.19, SB 1.7.33, SB 1.7.35, SB 1.7.42-43, SB 1.7.55
-  * //brahmāstra// of, <b>SB 1.7.19-21</b>, <b>SB 1.7.26-28</b>
-  * as degraded murderer, SB 1.7.16, SB 1.7.33, <b>SB 1.7.39-40</b>, <b>SB 1.7.42-43</b>
-  * dilemma concerning, SB 1.7.52, <b>SB 1.7.53-55</b>
-  * Draupadī’s respect for, <b>SB 1.7.42-43</b>, SB 1.7.42-43
-  * driven away, <b>SB 1.7.56</b>
-  * as Droṇācārya’s representative, <b>SB 1.7.44-45</b>
-  * silent, <b>SB 1.7.42</b>
+  * beheads Pāṇḍava children, <b>[[books:sb:1:7:13#purport|SB. 1.7.13]]-14</b>
+  * as //brāhmaṇa,// unqualified, [[books:sb:1:7:16#purport|SB. 1.7.16]], [[books:sb:1:7:19#purport|SB. 1.7.19]], [[books:sb:1:7:33#purport|SB. 1.7.33]], [[books:sb:1:7:35#purport|SB. 1.7.35]], [[books:sb:1:7:42#purport|SB. 1.7.42]]-43, [[books:sb:1:7:55#purport|SB. 1.7.55]]
+  * //brahmāstra// of, <b>[[books:sb:1:7:19#purport|SB. 1.7.19]]-21</b>, <b>[[books:sb:1:7:26#purport|SB. 1.7.26]]-28</b>
+  * as degraded murderer, [[books:sb:1:7:16#purport|SB. 1.7.16]], [[books:sb:1:7:33#purport|SB. 1.7.33]], <b>[[books:sb:1:7:39#purport|SB. 1.7.39]]-40</b>, <b>[[books:sb:1:7:42#purport|SB. 1.7.42]]-43</b>
+  * dilemma concerning, [[books:sb:1:7:52#purport|SB. 1.7.52]], <b>[[books:sb:1:7:53#purport|SB. 1.7.53]]-55</b>
+  * Draupadī’s respect for, <b>[[books:sb:1:7:42#purport|SB. 1.7.42]]-43</b>, [[books:sb:1:7:42#purport|SB. 1.7.42]]-43
+  * driven away, **[[books:sb:1:7:56#translation|SB. 1.7.56]]**
+  * as Droṇācārya’s representative, <b>[[books:sb:1:7:44#purport|SB. 1.7.44]]-45</b>
+  * silent, **[[books:sb:1:7:42#translation|SB. 1.7.42]]**
