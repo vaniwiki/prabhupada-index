@@ -9,18 +9,12 @@
 
 ====== Absolute Truth ======
 
-=== access to, devotion to Lord as, ===
-[[books:sb:1:2:12#purport|SB. 1.2.12]]
-=== all features realized in Kṛṣṇa, ===
-[[books:bg:18:78#id7|Bg. 18.78]]
-=== Ambarīṣa aware of, ===
-[[books:sb:9:5:25#purport|SB. 9.5.25]]
-=== approached by process of knowledge, ===
-[[books:bg:13:8-12#id3|Bg. 13.8-12]]
-=== approached via "dovetailing" process, ===
-[[books:sb:2:1:20#purport|SB. 2.1.20]]
-=== as //acintya-bhedābheda-tattva//, ===
-[[books:sb:7:3:32#purport|SB. 7.3.32]]
+  * access to, devotion to Lord as, [[books:sb:1:2:12#purport|SB. 1.2.12]]
+  * all features realized in Kṛṣṇa, [[books:bg:18:78#id7|Bg. 18.78]]
+  * Ambarīṣa aware of, [[books:sb:9:5:25#purport|SB. 9.5.25]]
+  * approached by process of knowledge, [[books:bg:13:8-12#id3|Bg. 13.8-12]]
+  * approached via "dovetailing" process, [[books:sb:2:1:20#purport|SB. 2.1.20]]
+  * as //acintya-bhedābheda-tattva//, [[books:sb:7:3:32#purport|SB. 7.3.32]]
   * as aim of life, [[books:bg:2:2#id10|Bg. 2.2]], [[books:sb:1:1:10#purport|SB. 1.1.10]], [[books:sb:1:2:13#purport|SB. 1.2.13-14]]
   * as all-knowing, SB Intro 2
   * as all-pervading, **[[books:sb:7:13:5#purport|SB. 7.13.5]]**
