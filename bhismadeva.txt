@@ -7,7 +7,7 @@
   * as authority, [[books:sb:1:9:16#purport|SB. 1.9.16]], [[books:sb:1:9:19#purport|SB. 1.9.19]]
   * in chivalrous //rasa,// [[books:sb:1:9:33#purport|SB. 1.9.33-34]]
   * cited. //See:// Bhīṣmadeva cited
-  * death of, **[[books:sb:1:9:30#purport|SB. 1.9.30-44]]**, [[books:sb:1:9:30#purport|SB. 1.9.30-44]]
+  * death of, **[[books:sb:1:9:30#translation|SB. 1.9.30-44]]**, [[books:sb:1:9:30#purport|SB. 1.9.30-44]]
   * demigod compared with, **[[books:sb:1:9:4#translation|SB. 1.9.4]]**
   * demigods honored, **[[books:sb:1:9:45#translation|SB. 1.9.45]]**, [[books:sb:1:9:45#purport|SB. 1.9.45]]
   * Dhṛtarāṣṭra reared by, [[books:sb:1:13:21#purport|SB. 1.13.21]]
@@ -18,7 +18,7 @@
     * glorified, [[books:sb:1:8:46#purport|SB. 1.8.46]]
     * worshiped by, **[[books:sb:1:9:10#translation|SB. 1.9.10]]**, [[books:sb:1:9:24#purport|SB. 1.9.24]], [[books:sb:1:9:42#purport|SB. 1.9.42]]
   * Kṛṣṇa’s Godhood accepted by, [[books:sb:1:9:18#purport|SB. 1.9.18]]
-  * as Kuru commander, **[[books:sb:1:15:14#purport|SB. 1.15.14-16]]**
+  * as Kuru commander, **[[books:sb:1:15:14#translation|SB. 1.15.14-16]]**
   * Kuru dynasty led by, [[books:sb:1:9:32#purport|SB. 1.9.32]]
   * as Lord’s "enemy," [[books:sb:1:9:38#purport|SB. 1.9.38]]
   * Lord’s mercy appreciated by, [[books:sb:1:9:34#purport|SB. 1.9.34]]
@@ -28,7 +28,7 @@
   * as Pāṇḍavas’ "enemy," [[books:sb:1:8:46#purport|SB. 1.8.46]]
   * Pāṇḍavas protected by, [[books:sb:1:13:8#purport|SB. 1.13.8]]
   * as Pāṇḍavas’ well-wisher, [[books:sb:1:9:11#purport|SB. 1.9.11]], [[books:sb:1:9:46#purport|SB. 1.9.46]]
-  * Paraśurāma blessed, [[books:sb:1:9:6#purport|SB. 1.9.6-7]]
+  * Paraśurāma blessed, [[books:sb:1:9:6-7#purport|SB. 1.9.6-7]]
   * prayers by, **[[books:sb:1:9:32#translation|SB. 1.9.32]]**
   * as preacher, [[books:sb:1:9:9#purport|SB. 1.9.9]]
   * quoted. //See:// Bhīṣmadeva quoted
@@ -37,7 +37,7 @@
   * sages at deathbed of, **[[books:sb:1:9:5#translation|SB. 1.9.5]]**, **[[books:sb:1:9:9#translation|SB. 1.9.9]]**
   * sages compared with, [[books:sb:1:9:25#purport|SB. 1.9.25]]
   * spiritual world attained by, [[books:sb:1:9:44#purport|SB. 1.9.44]]
-  * in trance of devotion, **[[books:sb:1:9:30#purport|SB. 1.9.30-43]]**, [[books:sb:1:9:30#purport|SB. 1.9.30-43]]
+  * in trance of devotion, **[[books:sb:1:9:30#translation|SB. 1.9.30-43]]**, [[books:sb:1:9:30#purport|SB. 1.9.30-43]]
   * Yudhiṣṭhira grieved death of, **[[books:sb:1:9:46#translation|SB. 1.9.46]]**, [[books:sb:1:9:46#purport|SB. 1.9.46]]
   * //See also:// Bhīṣmadeva cited; Bhīṣmadeva quoted
 
@@ -47,14 +47,14 @@
   * on Deity worship, [[books:sb:1:9:27#purport|SB. 1.9.27]]
   * on human qualifications, [[books:sb:1:9:26#purport|SB. 1.9.26]]
   * on salvation, [[books:sb:1:9:27#purport|SB. 1.9.27]]
-  * on //varṇāśrama-dharma, **[[books:sb:1:9:26#translation|SB 1.9.26-28]]**
+  * on //varṇāśrama-dharma,// **[[books:sb:1:9:26#translation|SB 1.9.26-28]]**
   * on women, [[books:sb:1:9:27#purport|SB. 1.9.27]]
 
 ===== Bhīṣmadeva quoted =====
 
   * //See also:// Bhīṣmadeva cited
   * on Kṛṣṇa
-    * & //gopīs, SB 1.9.//<b>40</b>
+    * & //gopīs,// **[[books:sb:1:9:40#translation|SB 1.9.40]]**
   *   * at Rājasūya-yajña, **[[books:sb:1:9:41#translation|SB. 1.9.41]]**
   * on Kuntī’s suffering, **[[books:sb:1:9:13#translation|SB. 1.9.13]]**
   * on Lord
