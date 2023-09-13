@@ -51,7 +51,7 @@
     * charioteer of, [[books:sb:1:9:19#purport|SB. 1.9.19]], [[books:sb:1:9:33#purport|SB. 1.9.33]], [[books:sb:1:9:35#purport|SB. 1.9.35]], **[[books:sb:1:9:39#translation|SB. 1.9.39]]**, [[books:sb:1:15:4#purport|SB. 1.15.4]], **[[books:sb:1:15:17#translation|SB. 1.15.17]]**
     * chastised, [[books:sb:1:9:26#purport|SB. 1.9.26]]
     * friend of, **[[books:sb:1:15:4#translation|SB. 1.15.4]]**, [[books:sb:1:15:4#purport|SB. 1.15.4]], **[[books:sb:1:15:5#translation|SB. 1.15.5]]**, [[books:sb:1:15:14#purport|SB. 1.15.14]], [[books:sb:1:15:18#purport|SB. 1.15.18-20]], **[[books:sb:1:15:28#translation|SB. 1.15.28]]**, [[books:sb:1:15:30#purport|SB. 1.15.30-31]]
-    * illusioned, [[books:sb:1:18:24#purport|SB. 1.18.24-25]]
+    * illusioned, [[books:sb:1:18:24-25#purport|SB. 1.18.24-25]]
     * brother in-law of, [[books:sb:1:15:4#purport|SB. 1.15.4]]
     * instructed, [[books:sb:1:15:27#purport|SB. 1.15.27]], **[[books:sb:1:15:28#translation|SB. 1.15.28-30]]**
     * as power source for, **[[books:sb:1:15:5#translation|SB. 1.15.5]]**, [[books:sb:1:15:5#purport|SB. 1.15.5]], **[[books:sb:1:15:7#translation|SB. 1.15.7-8]]**, [[books:sb:1:15:13#purport|SB. 1.15.13-14]], **[[books:sb:1:15:21#translation|SB. 1.15.21]]**
