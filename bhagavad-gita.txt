@@ -3,7 +3,7 @@
   * //See also: Bhagavad-gītā// cited; //Bhagavad-gītā// quoted
   * accepting, need for, [[books:sb:1:5:36#purport|SB. 1.5.36]]
   * Arjuna hears, [[books:sb:1:8:42#purport|SB. 1.8.42]], [[books:sb:1:12:19#purport|SB. 1.12.19]]
-  * Arjuna medium for, [[books:sb:1:18:24#purport|SB. 1.18.24-25]]
+  * Arjuna medium for, [[books:sb:1:18:24-25#purport|SB. 1.18.24-25]]
   * as basis for preaching, [[books:sb:1:1:21#purport|SB. 1.1.21]]
   * Battlefield of Kurukṣetra witnessed, [[books:sb:1:15:27#purport|SB. 1.15.27]]
   * //bhakti-yoga// in, [[books:sb:1:12:19#purport|SB. 1.12.19]]
@@ -24,7 +24,7 @@
   * ignorance dispelled by, [[books:sb:1:15:31#purport|SB. 1.15.31]]
   * illusion dispelled by, [[books:sb:1:15:31#purport|SB. 1.15.31]]
   * Indians should broadcast, [[books:sb:1:1:21#purport|SB. 1.1.21]]
-  * as //kṛṣṇa-kathā,// [[books:sb:1:7:13#purport|SB. 1.7.13-14]]
+  * as //kṛṣṇa-kathā,// [[books:sb:1:7:13-14#purport|SB. 1.7.13-14]]
   * Kṛṣṇa presented via, 4, [[books:sb:1:5:36#purport|SB. 1.5.36]]
   * Kṛṣṇa speaker of, [[books:sb:1:9:49#purport|SB. 1.9.49]]
   * liberation via, [[books:sb:1:5:13#purport|SB. 1.5.13]], [[books:sb:1:15:27#purport|SB. 1.15.27]]
@@ -59,7 +59,7 @@
   * //See also : Bhagavad-gītā// quoted
   * on Arjuna’s ordering Kṛṣṇa, [[books:sb:1:9:35#purport|SB. 1.9.35]]
   * on Arjuna’s purification, [[books:sb:1:8:42#purport|SB. 1.8.42]]
-  * on authorities, [[books:sb:1:19:9#purport|SB. 1.19.9-10
+  * on authorities, [[books:sb:1:19:9#purport|SB. 1.19.9-10]]
   * on Brahmā’s day, [[books:sb:1:17:15#purport|SB. 1.17.15]]
   * on cause of all causes, [[books:sb:1:9:42#purport|SB. 1.9.42]]
   * on creation & annihilation, [[books:sb:1:10:21#purport|SB. 1.10.21]]
@@ -87,7 +87,7 @@
   * on living entity’s identity, [[books:sb:1:12:4#purport|SB. 1.12.4]]
   * on Lord
     * activities of, [[books:sb:1:8:27#purport|SB. 1.8.27]], [[books:sb:1:10:26#purport|SB. 1.10.26]], [[books:sb:1:18:11#purport|SB. 1.18.11]]
-    * advent of, [[books:sb:1:8:32#purport|SB. 1.8.32-33, [[books:sb:1:8:35#purport|SB. 1.8.35]], [[books:sb:1:10:26#purport|SB. 1.10.26]]
+    * advent of, [[books:sb:1:8:32#purport|SB. 1.8.32-33,]] [[books:sb:1:8:35#purport|SB. 1.8.35]], [[books:sb:1:10:26#purport|SB. 1.10.26]]
     * as //brahmajyoti’s// basis, [[books:sb:1:8:15#purport|SB. 1.8.15]]
     * as death, [[books:sb:1:13:19#purport|SB. 1.13.19]]
     * & devotee’s incarnations, [[books:sb:1:14:32#purport|SB. 1.14.32-33, [[books:sb:1:15:5#purport|SB. 1.15.5]], [[books:sb:1:15:49#purport|SB. 1.15.49]]
@@ -107,7 +107,7 @@
   * on material world, [[books:sb:1:8:25#purport|SB. 1.8.25]]
   * on mind, [[books:sb:1:17:19#purport|SB. 1.17.19]]
   * on misunderstanding Kṛṣṇa, [[books:sb:1:8:19#purport|SB. 1.8.19]], [[books:sb:1:9:18#purport|SB. 1.9.18]], [[books:sb:1:9:42#purport|SB. 1.9.42]]
-  * on nature under Kṛṣṇa, [[books:sb:1:15:24#purport|SB. 1.15.24]], [[books:sb:1:16:26#purport|SB. 1.16.26-30
+  * on nature under Kṛṣṇa, [[books:sb:1:15:24#purport|SB. 1.15.24]], [[books:sb:1:16:26#purport|SB. 1.16.26-30]]
   * on occupational duty, [[books:sb:1:17:16#purport|SB. 1.17.16]]
   * on Paramātmā, [[books:sb:1:13:43#purport|SB. 1.13.43]], [[books:sb:1:17:20#purport|SB. 1.17.20]]
   * on perception development, [[books:sb:1:18:26#purport|SB. 1.18.26]]
@@ -120,9 +120,9 @@
   * on sinner’s destiny, [[books:sb:1:12:5#purport|SB. 1.12.5]]
   * on social orders, [[books:sb:1:18:33#purport|SB. 1.18.33]]
   * on spirit, qualities of, [[books:sb:1:9:34#purport|SB. 1.9.34]]
-  * on spiritual world, [[books:sb:1:14:35#purport|SB. 1.14.35-36
+  * on spiritual world, [[books:sb:1:14:35#purport|SB. 1.14.35-36]]
   * on surrender to Kṛṣṇa, [[books:sb:1:8:37#purport|SB. 1.8.37]], [[books:sb:1:12:24#purport|SB. 1.12.24]], [[books:sb:1:17:37#purport|SB. 1.17.37]], [[books:sb:1:18:19#purport|SB. 1.18.19]]
-  * on transcending modes of nature, [[books:sb:1:13:46#purport|SB. 1.13.46]], [[books:sb:1:14:10#purport|SB. 1.14.10]], [[books:sb:1:15:47#purport|SB. 1.15.47-48
+  * on transcending modes of nature, [[books:sb:1:13:46#purport|SB. 1.13.46]], [[books:sb:1:14:10#purport|SB. 1.14.10]], [[books:sb:1:15:47#purport|SB. 1.15.47-48]]
   * on //vaiśyas,// [[books:sb:1:17:1#purport|SB. 1.17.1]]
   * on //varṇāśrama-dharma,// [[books:sb:1:9:26#purport|SB. 1.9.26]]
   * on Vedic knowledge, [[books:sb:1:9:18#purport|SB. 1.9.18]], [[books:sb:1:12:19#purport|SB. 1.12.19]]
