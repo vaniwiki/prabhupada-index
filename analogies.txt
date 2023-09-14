@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Analogies",
+    "h1":"Analogies",
+    "description":""
+}
+---
+
 ====== Analogies ======
 
 ===== A =====

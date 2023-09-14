@@ -1,4 +1,10 @@
-/*{{description>among castes; animal, compared with human; animalistic; animallike; as basis of material life; as binding; as bodily demand; as creation principle; as demon’s interest; as distressful; as impetus for material progress; as material life’s basis; as materialist’s sole happiness; as pleasurable duty; as profit, adoration & distinction; as suffering; as supreme material mellow; as unnecessary; āśramas forbidding; attachment to, as universal, degradation via, detailed, freedom from; attractive force of; bondage to; Brahmā attracted to; brahmacārī avoids; brahmacārīs abstain from; brahmacārīs prohibited from; brahmacārīs reject; businesses for; by religious principles; ...}}*/
+---json
+{
+    "name":"Sex Life",
+    "h1":"Sex Life",
+    "description":"among castes; animal, compared with human; animalistic; animallike; as basis of material life; as binding; as bodily demand; as creation principle; as demon’s interest; as distressful; as impetus for material progress; as material life’s basis; as materialist’s sole happiness; as pleasurable duty; as profit, adoration & distinction; as suffering; as supreme material mellow; as unnecessary; āśramas forbidding; attachment to, as universal, degradation via, detailed, freedom from; attractive force of; bondage to; Brahmā attracted to; brahmacārī avoids; brahmacārīs abstain from; brahmacārīs prohibited from; brahmacārīs reject; businesses for; by religious principles; ..."
+}
+---
 
 ====== Sex life ======
 

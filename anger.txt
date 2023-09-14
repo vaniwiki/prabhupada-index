@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Anger",
+    "h1":"Anger",
+    "description":""
+}
+---
+
 ====== Anger ======
 [[books:sb:4:26:22#purport|SB. 4.26.22]]
 
