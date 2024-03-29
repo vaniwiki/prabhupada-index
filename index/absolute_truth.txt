@@ -2,6 +2,7 @@
 {
     "name":"Absolute Truth",
     "h1":"Absolute Truth",
+    "title":"Absolute Truth [index]",
     "description":"access to, devotion to Lord as; all features realized in Kṛṣṇa; approached by process of knowledge; as aim of life; as ānandamaya; as Bhagavān; as complete whole; as goal of yoga; as impersonal; as internal and external; as knowing proprietorship of Kṛṣṇa; as Kṛṣṇa; as objective of devotion; as personal; as source of everything; compared to sun; sunshine; sun-god; covered by māyā is called matter; declared by Kṛṣṇa and Gītā; defeats sense indulgence; ignorance leads to anxiety; known by self-realized; known by spiritual master; leads to Kṛṣṇa consciousness; not attained by speculation; om tat sat indicates; three features of; ..."
 }
 ---
@@ -83,7 +84,7 @@
   * devotees reveal, **[[books:sb:5:12:12#purport|SB. 5.12.12]]**
   * devotee’s approach to, compared with //jñānī’s//, [[books:sb:6:17:31#purport|SB. 6.17.31]]
   * devotee’s determination to understand, **[[books:sb:7:4:31-32#purport|SB. 7.4.31-32]]**, [[books:sb:7:4:31-32#purport|SB. 7.4.31-32]]
-  * devotional service reveals, [[books:sb:10:2:26#purport|SB. 10.2.26]], [[books:sb:10:12:54#purport|SB. 10.12.54]]?, [[books:sb:4:22:38#purport|SB. 4.22.38]], [[books:sb:8:12:8#purport|SB. 8.12.8]]
+  * devotional service reveals, [[books:sb:10:2:26#purport|SB. 10.2.26]], [[:books:sb:10:12:54#purport|SB. 10.12.54]]?, [[books:sb:4:22:38#purport|SB. 4.22.38]], [[books:sb:8:12:8#purport|SB. 8.12.8]]
   * disciplic succession reveals, [[books:sb:7:9:18#purport|SB. 7.9.18]]
   * duality as absent in, **[[books:sb:1:2:11#purport|SB. 1.2.11]]**
   * education neglects, [[books:sb:7:12:13-14#purport|SB. 7.12.13-14]]
