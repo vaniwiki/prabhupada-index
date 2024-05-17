@@ -1,0 +1,46 @@
+---json
+{
+    "name":"Analogies A",
+    "label":"Analogies A",
+    "title":"Analogies sorted by the letter A",
+    "description":"actor & Lord, aging & transmigration; agricultural field & woman; air & Lord; air & soul; air carrying aromas & conditioned soul; air in mouth & living entity in body; air moving & Kardama traveling; air of spring & smelling-sense; airplane & conditioned soul; airplane & total energy; America & heavenly planets; amputation & rejection of bad son; animal & conditioned soul; animals & children; animals & mind; animals in fire & human body; animal’s changing owners & transmigration of soul; ants & sun and planets; approaching city & realiīng Absolute Truth; aquatics & conditioned souls; arrows & offenses; arrows & Pūrvacitti’s eyes; artist & Lord; ass & sense gratifier; ass or cow & materialist; astronauts & child playing; astronauts & demigod worshipers; atmospheric conditions & material energies; attachment and envy & woman’s breasts; autumnal rains & hearing; awakened person & liberated soul; awakening & creation; ax & Lord Kapila."
+}
+---
+
+====== A ======
+  * actor & Lord, [[books:sb:5:18:26#purport|SB 5.18.26]]
+  * aging & transmigration, [[books:sb:4:29:75#purport|SB 4.29.75]]
+  * agricultural field & woman, [[books:sb:9:6:2#purport|SB 9.6.2]]
+  * air & Lord, **[[books:sb:8:24:6#translation|SB 8.24.6]]**
+  * air & soul, **[[books:sb:2:7:49#translation|SB 2.7.49]]**, [[books:sb:2:7:49#purport|SB 2.7.49]]
+  * air carrying aromas & conditioned soul, [[books:sb:4:28:20#purport|SB 4.28.20]]
+  * air in mouth & living entity in body, **[[books:sb:7:2:43#translation|SB 7.2.43]]**
+  * air moving & Kardama traveling, **[[books:sb:3:23:41#translation|SB 3.23.41]]**
+  * air of spring & smelling-sense, [[books:sb:4:25:18#purport|SB 4.25.18]]
+  * airplane & conditioned soul, [[books:sb:4:29:18-20#purport|SB 4.29.18-20]]
+  * airplane & total energy, [[books:sb:4:8:80#purport|SB 4.8.80]]
+  * America & heavenly planets, [[books:sb:2:8:14#purport|SB 2.8.14]]
+  * amputation & rejection of bad son, **[[books:sb:7:5:37#translation|SB 7.5.37]]**
+  * angry father & //brāhmaṇas,// **[[books:sb:3:16:12#translation|SB 3.16.12]]**
+  * animal & conditioned soul, **[[books:sb:5:14:10#translation|SB 5.14.10]]**
+  * animals & children, [[books:sb:4:25:19#purport|SB 4.25.19]]
+  * animals & mind, **[[books:sb:5:6:2#translation|SB 5.6.2]]**
+  * animals in fire & human body, [[books:sb:4:28:14#purport|SB 4.28.14]]
+  * animal’s changing owners & transmigration of soul, [[books:sb:6:16:7#purport|SB 6.16.7]]
+  * ants & sun and planets, **[[books:sb:5:22:2#translation|SB 5.22.2]]**
+  * approaching city & realiīng Absolute Truth, [[books:sb:4:9:16#purport|SB 4.9.16]]
+  * aquatics & conditioned souls, **[[books:sb:5:18:13#translation|SB 5.18.13]]**
+  * arrow & //bhakti-yoga,// [[books:sb:3:25:29#purport|SB 3.25.29]]
+  * arrows & offenses, **[[books:sb:3:1:16#translation|SB 3.1.16]]**
+  * arrows & Pūrvacitti’s eyes, **[[books:sb:5:2:8#translation|SB 5.2.8]]**
+  * artist & Lord, [[books:sb:2:10:49-50#purport|SB 2.10.49-50]]
+  * ass & sense gratifier, **[[books:sb:5:13:18#translation|SB 5.13.18]]**
+  * ass or cow & materialist, [[books:sb:4:28:24#purport|SB 4.28.24]]
+  * astronauts & child playing, [[books:sb:2:5:40-41#purport|SB 2.5.41]]
+  * astronauts & demigod worshipers, [[books:sb:4:9:10#purport|SB 4.9.10]]
+  * atmospheric conditions & material energies, **[[books:sb:4:31:17#translation|SB 4.31.17]]**
+  * attachment and envy & woman’s breasts, [[books:sb:4:25:24#purport|SB 4.25.24]]
+  * autumnal rains & hearing, **[[books:sb:2:8:5#translation|SB 2.8.5]]**, [[books:sb:2:8:5#purport|SB 2.8.5]]
+  * awakened person & liberated soul, [[books:sb:5:1:16#purport|SB 5.1.16]], [[books:sb:5:11:12#purport|SB 5.11.12]]
+  * awakening & creation, **[[books:sb:4:31:16#translation|SB 4.31.16]]**
+  * ax & Lord Kapila, **[[books:sb:3:25:11#translation|SB 3.25.11]]**

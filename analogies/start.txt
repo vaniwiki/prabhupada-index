@@ -1,0 +1,14 @@
+====== Analogies ======
+
+<iterator>
+    <data>select where path like '%:analogies:%' and path not like '%:start%' order by path asc</data>
+    <grid>
+        <fragment>
+            <box><card clickable>
+            /*<header>$label</header>*/
+            <title>$h1</title>
+		${description | head(1024,'...')}[[$path?preview=false| ]]
+            </card></box>
+        </fragment>
+    </grid>
+</iterator>

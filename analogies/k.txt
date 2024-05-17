@@ -1,0 +1,25 @@
+---json
+{
+    "name":"Analogies K",
+    "label":"Analogies K",
+    "title":"Analogies sorted by the letter K",
+    "description":"king & devotees; king & Lord; king & sense controller; king’s commander & mind; king’s commanders & senses; king’s government & Lord’s creation; king’s soldiers & Lord’s abode; knot within heart & sex attraction; knowledge (misused) & Devakī (imprisoned); Kālakanyā & old age; Kṛṣṇa & covered flame; Kṛṣṇa’s advent & awakening Kṛṣṇa consciousness."
+}
+---
+
+====== K ======
+
+  * king & //sannyāsīs,// [[books:sb:4:30:45#purport|SB 4.30.45]]
+  * king & devotees, [[books:sb:4:30:45#purport|SB 4.30.45]]
+  * king & Lord, [[books:sb:2:5:15#purport|SB 2.5.15]], [[books:sb:2:9:15#purport|SB 2.9.15]], [[books:sb:2:9:33#purport|SB 2.9.33]], **[[books:sb:2:10:16#translation|SB 2.10.16]]**, [[books:sb:3:25:38#purport|SB 3.25.38]], [[books:sb:4:30:6#purport|SB 4.30.6]], [[books:sb:4:31:16#purport|SB 4.31.16]], [[books:sb:4:31:20#purport|SB 4.31.20]]
+  * king & sense controller, **[[books:sb:5:1:18#translation|SB 5.1.18]]**
+  * king’s commander & mind, **[[books:sb:4:26:1-3#translation|SB 4.26.1-3]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]]
+  * king’s commanders & senses, **[[books:sb:4:26:1-3#translation|SB 4.26.1-3]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]]
+  * king’s government & Lord’s creation, [[books:sb:10:3:15-17#purport|SB 10.3.15-17]]
+  * king’s soldiers & Lord’s abode, [[books:sb:3:5:23#purport|SB 3.5.23]]
+  * king’s son, orphans, devotees & //karmīs,// [[books:sb:1:5:19#purport|SB 1.5.19]]
+  * knot within heart & sex attraction, [[books:sb:4:29:85#purport|SB 4.29.85]]
+  * knowledge (misused) & Devakī (imprisoned), [[books:sb:10:2:18#purport|SB 10.2.18]], **[[books:sb:10:2:19#translation|SB 10.2.19]]**
+  * Kālakanyā & old age, **[[books:sb:4:27:27#translation|SB 4.27.27]]**, **[[books:sb:4:29:22#translation|SB 4.29.22]]**
+  * Kṛṣṇa & covered flame, **[[books:sb:3:2:26#translation|SB 3.2.26]]**
+  * Kṛṣṇa’s advent & awakening Kṛṣṇa consciousness, [[books:sb:10:2:8#purport|SB 10.2.8]]

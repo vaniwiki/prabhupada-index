@@ -1,0 +1,41 @@
+---json
+{
+    "name":"Analogies T",
+    "label":"Analogies T",
+    "title":"Analogies sorted by the letter T",
+    "description":"unconscious sleeping person & eternally conditioned soul; upper body & twice-born; uprooted tree & demigod mourning; urine & Rāvaṇa; useless sons & urine."
+}
+---
+
+====== T ======
+
+  * tape recording & time, [[books:sb:3:10:12#purport|SB 3.10.12]]
+  * tasting milk & appreciating Lord, [[books:sb:3:32:33#purport|SB 3.32.33]]
+  * tax collector(s) & demigods, [[books:sb:4:21:34#purport|SB 4.21.34]], [[books:sb:5:20:17#purport|SB 5.20.17]]
+  * thunderbolts & Nṛsiṁhadeva’s nails and teeth, **[[books:sb:5:18:8#translation|SB 5.18.8]]**
+  * tiger & time, **[[books:sb:4:29:53#translation|SB 4.29.53-54]]**
+  * tigress & wife, [[books:sb:5:14:3#purport|SB 5.14.3]]
+  * Time’s daughter & old age, **[[books:sb:4:27:19#translation|SB 4.27.19-30]]**
+  * tongue & prostitute, [[books:sb:2:3:20#purport|SB 2.3.20]]
+  * touchstone & devotional service to Lord, [[books:sb:1:6:28#purport|SB 1.6.28]]
+  * touchstone & Lord, **[[books:sb:5:19:3#translation|SB 5.19.3]]**
+  * touchstone & pure devotee, [[books:sb:2:9:35#purport|SB 2.9.35]]
+  * travel ticket & demigod worship, [[books:sb:2:3:9#purport|SB 2.3.9]]
+  * traveler & devotee, **[[books:sb:2:8:6#translation|SB 2.8.6]]**, [[books:sb:2:8:6#purport|SB 2.8.6]]
+  * tree & body, **[[books:sb:10:2:27#translation|SB 10.2.27]]**, **[[books:sb:5:14:32#translation|SB 5.14.32]]**, **[[books:sb:8:19:39#translation|SB 8.19.39]]**, **[[books:sb:8:19:40#translation|SB 8.19.40]]**
+  * tree & great person, [[books:sb:4:21:5#purport|SB 4.21.5]]
+  * tree & household life, [[books:sb:5:13:18#purport|SB 5.13.18]]
+  * tree & Lord, [[books:sb:1:5:20#purport|SB 1.5.20]], [[books:sb:6:16:36#purport|SB 6.16.36]]
+  * tree & material world, [[books:sb:5:13:20#purport|SB 5.13.20]]
+  * tree & son, [[books:sb:4:30:12#purport|SB 4.30.12]]
+  * tree & universe, **[[books:sb:7:14:36#translation|SB 7.14.36]]**
+  * tree & Viṣṇu, [[books:sb:1:1:4#purport|SB 1.1.4]]
+  * tree fructifying & hearing about Lord, [[books:sb:2:3:17#purport|SB 2.3.17]]
+  * tree root & Lord, [[books:sb:2:1:29#purport|SB 2.1.29]], [[books:sb:2:5:15#purport|SB 2.5.15]], [[books:sb:2:9:36#purport|SB 2.9.36]]
+  * tree trunks & legs, **[[books:sb:2:3:22#translation|SB 2.3.22]]**
+  * tree upside down & material world, [[books:sb:3:16:9#purport|SB 3.16.9]]
+  * tree’s fruits and flowers & body, **[[books:sb:7:7:18#translation|SB 7.7.18]]**, [[books:sb:7:7:24#purport|SB 7.7.24]]
+  * tree’s reflection & soul accepting bodies, **[[books:sb:7:2:23#translation|SB 7.2.23]]**
+  * tree’s root & Kṛṣṇa, **[[books:sb:4:31:14#translation|SB 4.31.14]]**
+  * tree’s root & Lord, [[books:sb:1:5:14#purport|SB 1.5.14]], [[books:sb:3:18:5#purport|SB 3.18.5]]
+  * turban & material advancement, [[books:sb:2:3:21#purport|SB 2.3.21]]

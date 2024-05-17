@@ -1,0 +1,73 @@
+---json
+{
+    "name":"Analogies M",
+    "label":"Analogies M",
+    "title":"Analogies sorted by the letter M",
+    "description":"machine & body; machine & body; machine parts & living entities; "mad elephant" offense; mad elephant & offense to devotee; mad elephant & offenses; mad elephant & sex desire; magician & Lord; magistrate & Mahā-Viṣṇu; magnate’s son & devotee; maidservant & liberation; Malayadhvaja & spiritual master; Malayadhvaja’s sons & devotional processes; manager & mind; manufacturer & Brahmā; married man & devotee; material body & universal body; materialists & dead bodies; medical student & transcendentalist; medicine & chanting; medicine & Jaḍa Bharata’s instructions; mental speculation & poison; mercantile man & Ambarīṣa; merchant & conditioned soul; merry-go-round & material world; metals & modes of nature; meteor & ghost; milk & Lord Viṣṇu; milk for serpent & instructions for foolish; milk preparations & material and spiritual activities; milk touched by serpent’s lips & hearing from nondevotees; millionaire & devotee; millionaire & devotee; mirage & material enjoyment; mirage & material world; mirage & objects of senses; mirage & sinful person; miser & Bharata; miser & loveless soul; miser & materialist; monkey & conditioned soul; monkeys & sense gratifiers; moon & Bali; moon & Brahmā; moon & Kardama; moon & Lord; moon & Prahlāda; moon in mirror & material happiness; moon on water & soul in matter; moon-king & Pṛthu; moonlight & Viṣṇus’ smiles; moonrise & Lord’s advent; moon’s waxing & Parīkṣit’s growing; mosquitoes & envious people; moth & living being; mother & Lord; Mount Meru & Lord; mountain cave & disease; mountain cave & fear; mustard seed & universe."
+}
+---
+
+====== M ======
+
+  * machine & body, [[books:sb:4:25:11#purport|SB 4.25.11]]
+  * machine & body, [[books:sb:5:17:24#purport|SB 5.17.24]]
+  * machine parts & living entities, [[books:sb:3:15:33#purport|SB 3.15.33]]
+  * "mad elephant" offense, [[books:sb:4:26:24#purport|SB 4.26.24]]
+  * mad elephant & offense to devotee, [[books:sb:5:1:5#purport|SB 5.1.5]], [[books:sb:5:10:17#purport|SB 5.10.17]]
+  * mad elephant & offenses, [[books:sb:9:4:68#purport|SB 9.4.68]]
+  * mad elephant & sex desire, **[[books:sb:3:14:10#translation|SB 3.14.10]]**
+  * magician & Lord, [[books:sb:3:7:2#purport|SB 3.7.2]]
+  * magistrate & Mahā-Viṣṇu, [[books:sb:2:6:42#purport|SB 2.6.42]]
+  * magnate’s son & devotee, [[books:sb:2:6:6#purport|SB 2.6.6]]
+  * maidservant & liberation, [[books:sb:3:25:33#purport|SB 3.25.33]], [[books:sb:4:28:51#purport|SB 4.28.51]]
+  * Malayadhvaja & spiritual master, **[[books:sb:4:28:47#translation|SB 4.28.47]]**
+  * Malayadhvaja’s daughter & //bhakti-latā,// [[books:sb:4:28:32#purport|SB 4.28.32]]
+  * Malayadhvaja’s sons & devotional processes, [[books:sb:4:28:30#purport|SB 4.28.30]]
+  * manager & mind, [[books:sb:4:29:7#purport|SB 4.29.7]]
+  * manufacturer & Brahmā, [[books:sb:2:5:3#purport|SB 2.5.3]]
+  * married man & devotee, [[books:sb:3:5:47#purport|SB 3.5.47]]
+  * material body & universal body, [[books:sb:3:26:3#purport|SB 3.26.3]]
+  * materialists & dead bodies, [[books:sb:2:1:4#purport|SB 2.1.4]]
+  * medical student & transcendentalist, [[books:sb:2:1:8#purport|SB 2.1.8]]
+  * medicine & chanting, **[[books:sb:6:2:19#translation|SB 6.2.19]]**
+  * medicine & Jaḍa Bharata’s instructions, **[[books:sb:5:12:2#translation|SB 5.12.2]]**
+  * mental speculation & poison, [[books:sb:4:27:9#purport|SB 4.27.9]]
+  * mercantile man & Ambarīṣa, [[books:sb:9:5:27#purport|SB 9.5.27]]
+  * merchant & conditioned soul, **[[books:sb:5:13:1#translation|SB 5.13.1-19]]**, **[[books:sb:5:14:1#translation|SB 5.14.1]]**
+  * merry-go-round & material world, [[books:sb:2:2:2#purport|SB 2.2.2]]
+  * metals & modes of nature, [[books:sb:4:25:14#purport|SB 4.25.14]]
+  * meteor & ghost, **[[books:sb:5:13:3#translation|SB 5.13.3]]**
+  * milk & Lord Viṣṇu, [[books:sb:4:30:24#purport|SB 4.30.24]]
+  * milk for serpent & instructions for foolish, [[books:sb:4:26:22#purport|SB 4.26.22]]
+  * milk preparations & material and spiritual activities, [[books:sb:4:30:19#purport|SB 4.30.19]]
+  * milk touched by serpent’s lips & hearing from nondevotees, [[books:sb:6:17:40#purport|SB 6.17.40]]
+  * millionaire & devotee, [[books:sb:6:13:3#purport|SB 6.13.3]]
+  * millionaire & devotee, [[books:sb:9:5:27#purport|SB 9.5.27]]
+  * mirage & material enjoyment, **[[books:sb:5:14:10#translation|SB 5.14.10]]**
+  * mirage & material world, [[books:sb:2:2:6#purport|SB 2.2.6]], [[books:sb:5:14:6#purport|SB 5.14.6]]
+  * mirage & objects of senses, **[[books:sb:5:14:6#translation|SB 5.14.6]]**
+  * mirage & sinful person, [[books:sb:5:13:5#purport|SB 5.13.5]]
+  * miser & Bharata, **[[books:sb:5:8:15#translation|SB 5.8.15]]**
+  * miser & loveless soul, [[books:sb:3:9:42#purport|SB 3.9.42]]
+  * miser & materialist, [[books:sb:5:14:22#purport|SB 5.14.22]]
+  * monkey & conditioned soul, **[[books:sb:5:14:32#translation|SB 5.14.32]]**
+  * monkeys & sense gratifiers, **[[books:sb:5:13:17#translation|SB 5.13.17-18]]**
+  * moon & Bali, **[[books:sb:8:10:16-18#translation|SB 8.10.16-18]]**, **[[books:sb:8:15:35#translation|SB 8.15.35]]**
+  * moon & Brahmā, **[[books:sb:5:1:8#translation|SB 5.1.8]]**
+  * moon & Kardama, **[[books:sb:3:23:38#translation|SB 3.23.38]]**
+  * moon & Lord, **[[books:sb:3:2:8#translation|SB 3.2.8]]**, [[books:sb:3:7:11#purport|SB 3.7.11]]
+  * moon & Prahlāda, **[[books:sb:8:19:4#translation|SB 8.19.4]]**, [[books:sb:8:22:12#purport|SB 8.22.12]]
+  * moon in mirror & material happiness, [[books:sb:2:9:1#purport|SB 2.9.1]]
+  * moon on water & soul in matter, **[[books:sb:3:7:11#translation|SB 3.7.11]]**
+  * moon-king & Pṛthu, **[[books:sb:4:22:56#translation|SB 4.22.56]]**
+  * moonlight & Viṣṇus’ smiles, **[[books:sb:10:13:50#translation|SB 10.13.50]]**
+  * moonrise & Lord’s advent, **[[books:sb:10:2:18#translation|SB 10.2.18]]**, **[[books:sb:10:3:7-8#translation|SB 10.3.7-8]]**, [[books:sb:10:3:7-8#purport|SB 10.3.7-8]]
+  * moon’s waxing & Parīkṣit’s growing, **[[books:sb:1:12:31#translation|SB 1.12.31]]**
+  * mosquitoes & envious people, **13-3**
+  * moth & living being, [[books:sb:2:2:17#purport|SB 2.2.17]]
+  * mother & //Vedas,// [[books:sb:2:6:37#purport|SB 2.6.37]]
+  * mother & Lord, [[books:sb:2:2:6#purport|SB 2.2.6]]
+  * Mount Meru & Lord, **[[books:sb:4:30:5#translation|SB 4.30.5]]**
+  * mountain cave & disease, **[[books:sb:5:13:18#translation|SB 5.13.18]]**
+  * mountain cave & fear, **[[books:sb:5:14:33#translation|SB 5.14.33]]**
+  * mustard seed & universe, [[books:sb:2:6:18#purport|SB 2.6.18]], [[books:sb:5:17:21#purport|SB 5.17.21]], **[[books:sb:5:25:2#translation|SB 5.25.2]]**

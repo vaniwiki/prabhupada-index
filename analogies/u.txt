@@ -1,0 +1,16 @@
+---json
+{
+    "name":"Analogies U",
+    "label":"Analogies U",
+    "title":"Analogies sorted by the letter U",
+    "description":"unconscious sleeping person & eternally conditioned soul; upper body & twice-born; uprooted tree & demigod mourning; urine & Rāvaṇa; useless sons & urine."
+}
+---
+
+====== U ======
+
+  * unconscious sleeping person & eternally conditioned soul, [[books:sb:5:11:12#purport|SB 5.11.12]]
+  * upper body & twice-born, [[books:sb:3:16:23#purport|SB 3.16.23]]
+  * uprooted tree & demigod mourning, **[[books:sb:7:2:9#translation|SB 7.2.9]]**
+  * urine & Rāvaṇa, **[[books:sb:9:10:15#translation|SB 9.10.15]]**
+  * useless sons & urine, [[books:sb:6:11:4#purport|SB 6.11.4]]

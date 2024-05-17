@@ -1,0 +1,48 @@
+---json
+{
+    "name":"Analogies E",
+    "label":"Analogies E",
+    "title":"Analogies sorted by the letter E",
+    "description":"eagles & planets; Earth & Lord; Earth & mother; earth element & living entity; Earth planet & body; earthen pot & energy; earth’s aroma & soul’s intelligence; eating & devotional service; eclipse of sun & Ajamila’s falldown; electric lamp & living being; electrical powerhouse & Lord; electrician & Lord; electricity & consciousness; electricity & Lord; electricity & Lord’s energy; electricity & Lord’s potency; electrified copper and devotional service; elephant & boar incarnation of Lord; elephant & death; elephant & Hiraṇyakaśipu; elephant & materialist; elephant & mind; elephant & offense; elephant & offenses; elephant & Ṛṣabhadeva; elephant (mad) & offense against devotee; elephant dust & sins; embryo & universal form; enemies & senses; engineer & Lord; explosive weapons & false ego; eyelid & elder Pāṇḍavas; eyes & sun & demigods; eyes, diseased, & sense gratification."
+}
+---
+
+====== E ======
+
+  * eagles & planets, **[[books:sb:5:23:3#translation|SB 5.23.3]]**
+  * Earth & Lord, [[books:sb:8:3:3#purport|SB 8.3.3]], **[[books:sb:8:6:10#translation|SB 8.6.10]]**
+  * Earth & mother, [[books:sb:4:17:14#purport|SB 4.17.14]]
+  * earth element & living entity, **[[books:sb:10:4:19#translation|SB 10.4.19]]**
+  * Earth planet & body, **[[books:sb:6:5:6-8#translation|SB 6.5.6-8]]**, **[[books:sb:6:5:11#translation|SB 6.5.11]]**
+  * earthen pot & energy, [[books:sb:8:3:3#purport|SB 8.3.3]], **[[books:sb:8:6:10#translation|SB 8.6.10]]**
+  * earth’s aroma & soul’s intelligence, **[[books:sb:3:27:18#translation|SB 3.27.18]]**
+  * eating & devotional service, [[books:sb:3:32:34-36#purport|SB 3.32.36]]
+  * eating & hearing //Śrīmad-Bhāgavatam,// [[books:sb:2:4:5#purport|SB 2.4.5]]
+  * eclipse of sun & Ajamila’s falldown, **[[books:sb:6:1:63#translation|SB 6.1.63]]**
+  * electric fan & //karma,// [[books:sb:3:28:38#purport|SB 3.28.38]]
+  * electric lamp & living being, [[books:sb:2:10:16#purport|SB 2.10.16]]
+  * electrical powerhouse & Lord, [[books:sb:4:11:18#purport|SB 4.11.18]], [[books:sb:4:17:33#purport|SB 4.17.33]]
+  * electrician & Lord, [[books:sb:2:4:6#purport|SB 2.4.6]]
+  * electricity & consciousness, [[books:sb:3:7:5#purport|SB 3.7.5]]
+  * electricity & Lord, [[books:sb:3:2:15#purport|SB 3.2.15]]
+  * electricity & Lord’s energy, [[books:sb:1:3:34#purport|SB 1.3.34]], [[books:sb:1:5:20#purport|SB 1.5.20]]
+  * electricity & Lord’s potency, [[books:sb:10:1:25#purport|SB 10.1.25]]
+  * electrified copper and devotional service, [[books:sb:4:3:23#purport|SB 4.3.23]]
+  * elephant & boar incarnation of Lord, **[[books:sb:5:18:39#translation|SB 5.18.39]]**
+  * elephant & death, **[[books:sb:5:14:33#translation|SB 5.14.33]]**, **[[books:sb:5:13:18#translation|SB 5.13.18]]**
+  * elephant & Hiraṇyakaśipu, **[[books:sb:7:8:23#translation|SB 7.8.23]]**, [[books:sb:7:8:30#purport|SB 7.8.30]]
+  * elephant & materialist, [[books:sb:4:25:12#purport|SB 4.25.12]]
+  * elephant & mind, **[[books:sb:5:11:4#translation|SB 5.11.4]]**
+  * elephant & offense, [[books:sb:3:15:39#purport|SB 3.15.39]]
+  * elephant & offenses, [[books:sb:2:2:30#purport|SB 2.2.30]]
+  * elephant & Ṛṣabhadeva, **[[books:sb:5:5:30#translation|SB 5.5.30]]**
+  * elephant (mad) & offense against devotee, [[books:sb:6:17:15#purport|SB 6.17.15]]
+  * elephant dust & sins, [[books:sb:3:8:5#purport|SB 3.8.5]]
+  * embryo & universal form, [[books:sb:3:26:55#purport|SB 3.26.55]]
+  * empty paddy & devotionless //yoga,// [[books:sb:2:4:16#purport|SB 2.4.16]]
+  * enemies & senses, **[[books:sb:5:1:18#translation|SB 5.1.18]]**
+  * engineer & Lord, [[books:sb:2:4:6#purport|SB 2.4.6]], [[books:sb:2:4:22#purport|SB 2.4.22]]
+  * explosive weapons & false ego, **[[books:sb:4:26:1-3#translation|SB 4.26.1-3]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]]
+  * eyelid & elder Pāṇḍavas, **[[books:sb:3:1:39#translation|SB 3.1.39]]**
+  * eyes & sun & demigods, [[books:sb:2:10:9#purport|SB 2.10.9]]
+  * eyes, diseased, & sense gratification, [[books:sb:2:9:39#purport|SB 2.9.39]]

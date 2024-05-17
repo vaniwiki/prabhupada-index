@@ -1,0 +1,24 @@
+---json
+{
+    "name":"Analogies I",
+    "label":"Analogies I",
+    "title":"Analogies sorted by the letter I",
+    "description":"imaginary city & material world; impersonalist & lone spaceman; impregnation & creation’s cause; impure trees and creepers & living dead; insects & materialists; intelligence & Purañjanī; intelligence & woman; intoxication & material aspirations; iron & material energy; iron & matter; iron rod & material energy; iron with power to burn & body with consciousness; islands & planets."
+}
+---
+
+====== I ======
+
+  * imaginary city & material world, **[[books:sb:9:9:47#translation|SB 9.9.47]]**
+  * impersonalist & lone spaceman, [[books:sb:3:2:24#purport|SB 3.2.24]]
+  * impregnation & creation’s cause, [[books:sb:3:26:17#purport|SB 3.26.17]], [[books:sb:3:26:19#purport|SB 3.26.19]]
+  * impure trees and creepers & living dead, **[[books:sb:5:14:12#translation|SB 5.14.12]]**
+  * insects & materialists, [[books:sb:4:29:10#purport|SB 4.29.10]]
+  * intelligence & Purañjanī, [[books:sb:4:25:21#purport|SB 4.25.21]], [[books:sb:4:25:22#purport|SB 4.25.22]], [[books:sb:4:25:36#purport|SB 4.25.36]], [[books:sb:4:27:2#purport|SB 4.27.2]]
+  * intelligence & woman, **[[books:sb:4:26:25#translation|SB 4.26.25-26]]**
+  * intoxication & material aspirations, [[books:sb:2:3:2-7#purport|SB 2.3.7]]
+  * iron & material energy, [[books:sb:2:10:45#purport|SB 2.10.45]]
+  * iron & matter, [[books:sb:5:18:38#purport|SB 5.18.38]]
+  * iron rod & material energy, [[books:sb:5:12:8#purport|SB 5.12.8]]
+  * iron with power to burn & body with consciousness, **[[books:sb:6:16:24#translation|SB 6.16.24]]**
+  * islands & planets, [[books:sb:3:23:43#purport|SB 3.23.43]]

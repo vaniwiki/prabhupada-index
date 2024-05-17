@@ -1,0 +1,15 @@
+---json
+{
+    "name":"Analogies V",
+    "label":"Analogies V",
+    "title":"Analogies sorted by the letter V",
+    "description":"Vaidarbhī & disciple of spiritual master; Vedic law & bull’s rope; vultures & man-made gods."
+}
+---
+
+====== V ======
+
+  * Vaidarbhī & disciple of spiritual master, **[[books:sb:4:28:47#translation|SB 4.28.47-50]]**, [[books:sb:4:28:65#purport|SB 4.28.65]]
+  * //vānaprastha// & //nirjana-bhajana,// [[books:sb:4:28:34#purport|SB 4.28.34]]
+  * Vedic law & bull’s rope, **[[books:sb:3:15:8#translation|SB 3.15.8]]**
+  * vultures & man-made gods, **[[books:sb:5:14:29#translation|SB 5.14.29]]**

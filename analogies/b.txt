@@ -1,0 +1,101 @@
+---json
+{
+    "name":"Analogies B",
+    "label":"Analogies B",
+    "title":"Analogies sorted by the letter B",
+    "description":"baby bird & pure devotee; bamboo fire & Yadus’ destruction; banyan seeds & Lord’s potencies; banyan tree & fruitive activities; banyan tree & material existence; banyan’s potency & Lord’s potency; beating of dead horse & Rahūgaṇa’s punishment; bedstead & heart; bee & devotee; beehive & human society; bees & devotees; bees & highly qualified men; bell metal & lowborn man; bellows & materialists; bewildered man & husband; big sky & Lord; bird & surrendered soul; bird in cage & soul; bird in net & controlled living entities; bird in tree & Supersoul; bird in tree and soul; birds in tree & Lord and living entity; birds in tree & soul and Supersoul in body; birds, soul, & Supersoul; bird’s nest & Lord’s face; birth from other & birth from Viṣṇu; blacksmith & Lord; blind eyes & bad son; blind leading blind & material life; blind leading blind; blind man & conditioned soul; blind man & dependent; blind man & materialist; blind man & Western countries; blind men & modern leaders; blind well & family life; blind well & female association; blood-sucking & material enjoyment; \"blue\" sky & universal form; boat & Earth; boat & human body; boat & human life; boat & living entity; boat & Lord’s lotus feet; boat & mind; boat & Sāṅkhya philosophy; boat of stone & ignorant leadership; boats & planets; bodily limbs & citizens and friends; bodily limbs & living entities; bodily limbs of Lord & demigods; bodily parts & social body; bodily parts & social divisions; bodily parts & social orders; body & Lord; body & society; body & Supreme Lord; body & unified existence; body & universal form; body parts and souls; bodyguard & vital force; bow and arrow & attachment and hatred; bows without strings & Pūrvacitti’s eyebrows; boy at beach & Kṛṣṇa creating world; brāhmaṇa-killing, embryo-killing, & cow-killing; brāhmaṇa & law student; brāhmaṇa’s friend & Supersoul; breaking pot & soul merging; bubbles & material dreams; building constructor and Lord; bullfight & Hiraṇyākṣa-Varāha battle; bulls & planets; bulls & stars; bulls circling & planets orbiting; bulls directed by driver & human beings directed by varṇāśrama-dharma duties; bumblebee & sannyāsī; bumblebees & devotees; bumblebees & pure devotees; bumblebees & Pūrvacitti’s hair; bumblebees’ humming & wife’s talk; burden transferred from head to shoulder & material solutions to life’s miseries; burglars & wives and children; burning-hot food & sense gratification; businessman in car & living entity in body; businessman’s brain & Lord’s energy; butter & soul; butter & Supersoul; butter and fire & man and woman; butter, fire, & lusty desire; buzzards & man-made gods."
+}
+---
+
+====== B ======
+
+  * baby bird & pure devotee, **[[books:sb:6:11:26#translation|SB 6.11.26]]**
+  * bamboo fire & Yadus’ destruction, **[[books:sb:3:1:21#translation|SB 3.1.21]]**, **[[books:sb:3:4:2#translation|SB 3.4.2]]**
+  * banyan seeds & Lord’s potencies, [[books:sb:2:5:11#purport|SB 2.5.11]]
+  * banyan tree & fruitive activities, [[books:sb:5:14:41#purport|SB 5.14.41]]
+  * banyan tree & material existence, [[books:sb:3:25:11#purport|SB 3.25.11]]
+  * banyan’s potency & Lord’s potency, [[books:sb:3:6:39#purport|SB 3.6.39]]
+  * beating of dead horse & Rahūgaṇa’s punishment, **[[books:sb:5:10:13#translation|SB 5.10.13]]**
+  * bedstead & heart, [[books:sb:4:27:4#purport|SB 4.27.4]]
+  * bee & devotee, [[books:sb:5:1:19#purport|SB 5.1.19]]
+  * beehive & human society, [[books:sb:4:24:64#purport|SB 4.24.64]]
+  * bees & devotees, [[books:sb:1:11:26#purport|SB 1.11.26]]
+  * bees & highly qualified men, [[books:sb:4:4:12#purport|SB 4.4.12]]
+  * bell metal & lowborn man, [[books:sb:5:24:17#purport|SB 5.24.17]]
+  * bellows & materialists, [[books:sb:2:3:18#purport|SB 2.3.18]]
+  * bewildered man & husband, **[[books:sb:6:5:6-8#translation|SB 6.5.6-8]]**, **[[books:sb:6:5:15#translation|SB 6.5.15]]**
+  * big sky & Lord, **[[books:sb:3:15:33#translation|SB 3.15.33]]**
+  * bird & surrendered soul, [[books:sb:9:19:24#purport|SB 9.19.24]]
+  * bird in cage & soul, [[books:sb:1:2:8#purport|SB 1.2.8]]
+  * bird in net & controlled living entities, **[[books:sb:6:12:8#translation|SB 6.12.8]]**
+  * bird in tree & Supersoul, [[books:sb:3:26:18#purport|SB 3.26.18]]
+  * bird in tree and soul, [[books:sb:1:2:31#purport|SB 1.2.31]]
+  * birds in tree & Lord and living entity, [[books:sb:4:24:64#purport|SB 4.24.64]]
+  * birds in tree & soul and Supersoul in body, **[[books:sb:10:2:27#translation|SB 10.2.27]]**
+  * birds, soul, & Supersoul, [[books:sb:3:6:9#purport|SB 3.6.9]]
+  * bird’s nest & Lord’s face, **[[books:sb:3:5:41#translation|SB 3.5.41]]**
+  * birth from other & birth from Viṣṇu, [[books:sb:2:10:28#purport|SB 2.10.28]]
+  * blacksmith & Lord, [[books:sb:2:5:11#purport|SB 2.5.11]]
+  * blind eyes & bad son, [[books:sb:3:1:13#purport|SB 3.1.13]]
+  * blind leading blind & material life, [[books:sb:4:28:61#purport|SB 4.28.61]]
+  * blind leading blind, [[books:sb:3:31:31#purport|SB 3.31.31]]
+  * blind man & conditioned soul, **[[books:sb:5:1:15#translation|SB 5.1.15]]**
+  * blind man & dependent, **[[books:sb:5:5:15#translation|SB 5.5.15]]**
+  * blind man & materialist, **[[books:sb:7:5:31#translation|SB 7.5.31]]**
+  * blind man & Western countries, [[books:sb:4:25:13#purport|SB 4.25.13]]
+  * blind men & modern leaders, [[books:sb:3:9:8#purport|SB 3.9.8]]
+  * blind well & family life, [[books:sb:3:24:41#purport|SB 3.24.41]], [[books:sb:4:13:46#purport|SB 4.13.46]]
+  * blind well & female association, **[[books:sb:3:31:40#translation|SB 3.31.40]]**
+  * blood-sucking & material enjoyment, [[books:sb:2:3:19#purport|SB 2.3.19]]
+  * "blue" sky & universal form, [[books:sb:1:3:31#purport|SB 1.3.31]]
+  * boat & Earth, **[[books:sb:4:17:35#translation|SB 4.17.35]]**
+  * boat & human body, [[books:sb:3:15:24#purport|SB 3.15.24]], [[books:sb:3:31:9#purport|SB 3.31.9]], [[books:sb:6:7:14#purport|SB 6.7.14]]
+  * boat & human life, [[books:sb:4:23:28#purport|SB 4.23.28]]
+  * boat & living entity, [[books:sb:2:8:21#purport|SB 2.8.21]]
+  * boat & Lord’s lotus feet, **[[books:sb:10:2:30#translation|SB 10.2.30]]**, [[books:sb:10:2:31#purport|SB 10.2.31]], **[[books:sb:4:22:40#translation|SB 4.22.40]]**, **[[books:sb:4:23:39#translation|SB 4.23.39]]**
+  * boat & mind, [[books:sb:10:1:42#purport|SB 10.1.42]]
+  * boat & Sāṅkhya philosophy, **[[books:sb:9:8:13#translation|SB 9.8.13]]**
+  * boat of stone & ignorant leadership, **[[books:sb:6:7:14#translation|SB 6.7.14]]**
+  * boats & planets, [[books:sb:4:17:21#purport|SB 4.17.21]]
+  * bodily limbs & citizens and friends, **[[books:sb:4:27:17#translation|SB 4.27.17]]**
+  * bodily limbs & living entities, [[books:sb:4:30:16#purport|SB 4.30.16]]
+  * bodily limbs of Lord & demigods, [[books:sb:3:25:42#purport|SB 3.25.42]]
+  * bodily parts & social body, [[books:sb:3:6:30#purport|SB 3.6.30]]
+  * bodily parts & social divisions, [[books:sb:4:21:33#purport|SB 4.21.33]]
+  * bodily parts & social orders, [[books:sb:4:14:45#purport|SB 4.14.45]]
+  * body & Lord, [[books:sb:4:30:16#purport|SB 4.30.16]]
+  * body & society, [[books:sb:3:22:3#purport|SB 3.22.3]]
+  * body & Supreme Lord, [[books:sb:1:5:20#purport|SB 1.5.20]]
+  * body & unified existence, **[[books:sb:4:7:53#translation|SB 4.7.53]]**
+  * body & universal form, [[books:sb:2:5:37#purport|SB 2.5.37]], [[books:sb:4:24:39#purport|SB 4.24.39]]
+  * body parts and souls, **[[books:sb:4:7:53#translation|SB 4.7.53]]**
+  * bodyguard & vital force, [[books:sb:4:25:21#purport|SB 4.25.21]]
+  * bow and arrow & attachment and hatred, [[books:sb:4:26:4#purport|SB 4.26.4]]
+  * bows without strings & Pūrvacitti’s eyebrows, **[[books:sb:5:2:7#translation|SB 5.2.7]]**
+  * boy at beach & Kṛṣṇa creating world, **[[books:sb:6:15:6#translation|SB 6.15.6]]**
+  * //brāhmaṇa//-killing, embryo-killing, & cow-killing, **[[books:sb:9:9:31#translation|SB 9.9.31]]**
+  * //brāhmaṇa// & law student, [[books:sb:4:2:13#purport|SB 4.2.13]]
+  * //brāhmaṇa’s// friend & Supersoul, **[[books:sb:4:28:51#translation|SB 4.28.51-55]]**, **[[books:sb:4:28:61#translation|SB 4.28.61-64]]**
+  * breaking pot & soul merging, [[books:sb:6:10:11#purport|SB 6.10.11]]
+  * bubbles & material dreams, [[books:sb:2:1:4#purport|SB 2.1.4]]
+  * building constructor and Lord, [[books:sb:4:1:26-27#purport|SB 4.1.26-27]]
+  * bullfight & Hiraṇyākṣa-Varāha battle, **[[books:sb:3:18:19#translation|SB 3.18.19-20]]**
+  * bulls & planets, **[[books:sb:5:23:3#translation|SB 5.23.3]]**
+  * bulls & stars, **[[books:sb:5:23:3#translation|SB 5.23.3]]**
+  * bulls circling & planets orbiting, **[[books:sb:4:9:20-21#translation|SB 4.9.20-21]]**, **[[books:sb:4:12:39#translation|SB 4.12.39]]**
+  * bulls directed by driver & human beings directed by //varṇāśrama-dharma// duties, **[[books:sb:5:1:14#translation|SB 5.1.14]]**, [[books:sb:5:1:15#purport|SB 5.1.15]]
+  * bumblebee & //sannyāsī//, [[books:sb:5:1:27#purport|SB 5.1.27]]
+  * bumblebees & devotees, [[books:sb:4:30:32#purport|SB 4.30.32]]
+  * bumblebees & pure devotees, **[[books:sb:5:14:1#translation|SB 5.14.1]]**
+  * bumblebees & Pūrvacitti’s hair, **[[books:sb:5:2:13#translation|SB 5.2.13]]**
+  * bumblebees’ humming & wife’s talk, **[[books:sb:4:29:54#translation|SB 4.29.54]]**
+  * burden transferred from head to shoulder & material solutions to life’s miseries, **[[books:sb:4:29:33#translation|SB 4.29.33]]**
+  * burglars & wives and children, [[books:sb:4:25:19#purport|SB 4.25.19]]
+  * burning-hot food & sense gratification, [[books:sb:4:28:27#purport|SB 4.28.27]]
+  * businessman in car & living entity in body, [[books:sb:4:20:12#purport|SB 4.20.12]]
+  * businessman’s brain & Lord’s energy, [[books:sb:4:24:60#purport|SB 4.24.60]]
+  * butter & soul, [[books:sb:2:6:35#purport|SB 2.6.35]]
+  * butter & Supersoul, [[books:sb:1:2:32#purport|SB 1.2.32]]
+  * butter and fire & man and woman, [[books:sb:4:26:16#purport|SB 4.26.16]]
+  * butter, fire, & lusty desire, **[[books:sb:9:19:14#translation|SB 9.19.14]]**
+  * buzzards & man-made gods, **[[books:sb:5:14:29#translation|SB 5.14.29]]**

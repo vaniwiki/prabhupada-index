@@ -1,0 +1,47 @@
+---json
+{
+    "name":"Analogies L",
+    "label":"Analogies L",
+    "title":"Analogies sorted by the letter L",
+    "description":"lake & Bharata’s heart; lake & Pūrvacitti’s face; lake drying up & Kṛṣṇa consciousness disappearing; lambs & money; lame man & India; lamp & mind; lamp flame & mind; lamps & Kṛṣṇa’s expansions; land \"moving\" & soul’s transmigration; lawyers & authorities; leprosy & offense; liberated soul & Rāma; licenses from government & Vedic injunctions; light & Lord; light bulbs & incarnations of God; limbs & living beings; lion & death; lion & Lord; lion & Nṛsiṁhadeva; lion & Parīkṣit; living entity & Purañjana; lodestone & Lord; Lord’s wife and living entities’ mother & material nature; losing wealth & hellish punishment; lotus & Lord; lotus & transcendentalist; lotus flower & devotional service; lotus flower & Earth planet; lotus flower & Lord; lotus flower & Lord’s feet; lotus flower & woman’s face; lotus flower & Ṛṣabhadeva’s eyes; lotus stems & Lord’s feet; luminary’s reflection & soul’s covering."
+}
+---
+
+====== L ======
+
+  * lake & Bharata’s heart, **[[books:sb:5:7:12#translation|SB 5.7.12]]**
+  * lake & Pūrvacitti’s face, **[[books:sb:5:2:13#translation|SB 5.2.13]]**
+  * lake drying up & Kṛṣṇa consciousness disappearing, **[[books:sb:4:22:30#translation|SB 4.22.30]]**
+  * lambs & money, **[[books:sb:5:14:3#translation|SB 5.14.3]]**
+  * lame man & India, [[books:sb:4:25:13#purport|SB 4.25.13]]
+  * lamp & mind, **[[books:sb:5:11:8#translation|SB 5.11.8]]**
+  * lamp flame & mind, **[[books:sb:3:28:35#translation|SB 3.28.35]]**
+  * lamps & Kṛṣṇa’s expansions, [[books:sb:2:4:10#purport|SB 2.4.10]]
+  * land "moving" & soul’s transmigration, **[[books:sb:7:2:23#translation|SB 7.2.23]]**
+  * lawyer & //brāhmaṇa,// [[books:sb:2:2:27#purport|SB 2.2.27]]
+  * lawyers & authorities, [[books:sb:2:10:51#purport|SB 2.10.51]]
+  * leprosy & offense, **[[books:sb:3:16:5#translation|SB 3.16.5]]**
+  * liberated soul & Rāma, **[[books:sb:9:10:8#translation|SB 9.10.8]]**
+  * licenses from government & Vedic injunctions, [[books:sb:4:26:7#purport|SB 4.26.7]]
+  * light & Lord, [[books:sb:2:7:47#purport|SB 2.7.47]], [[books:sb:2:9:34#purport|SB 2.9.34]]
+  * light bulbs & incarnations of God, [[books:sb:1:3:28#purport|SB 1.3.28]]
+  * light to darkness & Lord to //māyā,// [[books:sb:2:9:45#purport|SB 2.9.45]]
+  * limbs & living beings, [[books:sb:2:3:10#purport|SB 2.3.10]]
+  * lion & death, [[books:sb:5:13:16#purport|SB 5.13.16]], **[[books:sb:5:14:29#translation|SB 5.14.29]]**
+  * lion & Lord, **[[books:sb:4:24:49#translation|SB 4.24.49]]**
+  * lion & Nṛsiṁhadeva, **[[books:sb:7:8:23#translation|SB 7.8.23]]**, [[books:sb:7:8:30#purport|SB 7.8.30]]
+  * lion & Parīkṣit, [[books:sb:1:12:22#purport|SB 1.12.22]]
+  * living entity & Purañjana, [[books:sb:4:25:36#purport|SB 4.25.36]]
+  * lodestone & Lord, **[[books:sb:5:18:38#translation|SB 5.18.38]]**
+  * Lord’s wife and living entities’ mother & material nature, [[books:sb:3:26:9#purport|SB 3.26.9]]
+  * losing wealth & hellish punishment, **[[books:sb:3:30:32#translation|SB 3.30.32]]**
+  * lotus & Lord, [[books:sb:1:11:2#purport|SB 1.11.2]]
+  * lotus & transcendentalist, [[books:sb:3:27:21#purport|SB 3.27.21]]
+  * lotus flower & devotional service, [[books:sb:2:9:9#purport|SB 2.9.9]]
+  * lotus flower & Earth planet, **[[books:sb:5:18:39#translation|SB 5.18.39]]**
+  * lotus flower & Lord, [[books:sb:5:1:19#purport|SB 5.1.19]]
+  * lotus flower & Lord’s feet, **[[books:sb:4:24:52#translation|SB 4.24.52]]**
+  * lotus flower & woman’s face, **[[books:sb:6:18:41#translation|SB 6.18.41]]**
+  * lotus flower & Ṛṣabhadeva’s eyes, **[[books:sb:5:5:31#translation|SB 5.5.31]]**
+  * lotus stems & Lord’s feet, [[books:sb:2:4:21#purport|SB 2.4.21]]
+  * luminary’s reflection & soul’s covering, **[[books:sb:10:1:43#translation|SB 10.1.43]]**

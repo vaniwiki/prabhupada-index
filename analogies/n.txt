@@ -1,0 +1,19 @@
+---json
+{
+    "name":"Analogies N",
+    "label":"Analogies N",
+    "title":"Analogies sorted by the letter N",
+    "description":"nature & Lord’s smile; navigator & spiritual master; nectar & devotional service; nectar & hearing of Kṛṣṇa; nimba tree & envious soul; nipples on goat’s neck & material nature; nobility & demigod’s favor; nonpoisonous snake & devotee’s wealth."
+}
+---
+
+====== N ======
+
+  * nature & Lord’s smile, [[books:sb:1:11:26#purport|SB 1.11.26]]
+  * navigator & spiritual master, [[books:sb:4:23:28#purport|SB 4.23.28]]
+  * nectar & devotional service, [[books:sb:5:19:27#purport|SB 5.19.27]]
+  * nectar & hearing of Kṛṣṇa, **[[books:sb:2:2:37#translation|SB 2.2.37]]**
+  * //nimba// tree & envious soul, [[books:sb:3:5:38#purport|SB 3.5.38]]
+  * nipples on goat’s neck & material nature, [[books:sb:5:18:38#purport|SB 5.18.38]]
+  * nobility & demigod’s favor, [[books:sb:6:16:38#purport|SB 6.16.38]]
+  * nonpoisonous snake & devotee’s wealth, [[books:sb:3:9:6#purport|SB 3.9.6]]

@@ -1,0 +1,12 @@
+---json
+{
+    "name":"Analogies Q",
+    "label":"Analogies Q",
+    "title":"Analogies sorted by the letter Q",
+    "description":"queen & devotional service."
+}
+---
+
+====== Q ======
+
+  * queen & devotional service, [[books:sb:4:23:11#purport|SB 4.23.11]]

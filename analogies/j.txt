@@ -1,0 +1,22 @@
+---json
+{
+    "name":"Analogies J",
+    "label":"Analogies J",
+    "title":"Analogies sorted by the letter J",
+    "description":"jackals & inhospitable hosts; Jarā & old age; jaundice patients & nondevotees; jaundice victims & nondevotees; jewel-hooded serpent & learned materialist; jewels & material plans; judge & Brahmā; judge (impartial) & Kṛṣṇa; judge’s chair & heavenly planets; jumping in shallow river & blessings from atheists."
+}
+---
+
+====== J ======
+
+  * jackals & inhospitable hosts, **[[books:sb:8:16:7#translation|SB 8.16.7]]**
+  * Jarā & old age, **[[books:sb:4:29:22#translation|SB 4.29.22]]**
+  * jaundice patients & nondevotees, [[books:sb:10:2:36#purport|SB 10.2.36]]
+  * jaundice victims & nondevotees, [[books:sb:3:1:9#purport|SB 3.1.9]]
+  * jewel-hooded serpent & learned materialist, [[books:sb:9:4:70#purport|SB 9.4.70]]
+  * jewels & material plans, [[books:sb:4:25:15#purport|SB 4.25.15]]
+  * judge & Brahmā, [[books:sb:2:5:11#purport|SB 2.5.11]]
+  * judge (impartial) & Kṛṣṇa, [[books:sb:6:16:11#purport|SB 6.16.11]], [[books:sb:6:17:23#purport|SB 6.17.23]]
+  * judge’s chair & heavenly planets, [[books:sb:2:8:14#purport|SB 2.8.14]]
+  * judge’s son & //brahma-bandhus,// [[books:sb:1:7:35#purport|SB 1.7.35]]
+  * jumping in shallow river & blessings from atheists, **[[books:sb:5:14:13#translation|SB 5.14.13]]**

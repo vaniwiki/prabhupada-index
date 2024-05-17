@@ -1,0 +1,15 @@
+---json
+{
+    "name":"Analogies Y",
+    "label":"Analogies Y",
+    "title":"Analogies sorted by the letter Y",
+    "description":"Yamarāja’s rope & material existence; yellow stool & gold; yogurt & Lord Śiva; yogurt & Śiva."
+}
+---
+
+====== Y ======
+
+  * Yamarāja’s rope & material existence, **[[books:sb:5:5:27#translation|SB 5.5.27]]**
+  * yellow stool & gold, **[[books:sb:5:14:7#translation|SB 5.14.7]]**, [[books:sb:5:14:13#purport|SB 5.14.13]]
+  * yogurt & Lord Śiva, [[books:sb:4:30:24#purport|SB 4.30.24]]
+  * yogurt & Śiva, [[books:sb:9:9:7#purport|SB 9.9.7]]

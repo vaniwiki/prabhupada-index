@@ -1,0 +1,62 @@
+---json
+{
+    "name":"Analogies G",
+    "label":"Analogies G",
+    "title":"Analogies sorted by the letter G",
+    "description":"gambling match & Vṛtrāsura-Indra battle; Ganges & devotees; Ganges & Lord; Ganges & topics of Lord’s activities; Ganges bath & hearing Lord’s pastimes; Ganges River & spiritual master; Ganges water & Kṛṣṇa consciousness; Ganges water & Lord; garden & devotional service; gardener & Brahmā; garments & bodies; garments, soul, & body; Garuḍa’s nectar & Kṛṣṇa’s Rukmiṇī; gates of city & gates of body (sense organs); gem & Jaḍa Bharata; gem (unpolished) & Kardama; gems & Lord’s toenails; geologist & transcendentalist; ghee & sin; ghost & conditioned soul; ghost & lust; ghosts & gold; girl friends (of Purañjanī) & sense gratification; glowworm & Citraketu; glowworm’s light & inferior’s power; goats & materialists; goat’s neck nipples & material nature; goat’s neck-bags & creation; goat’s nipples & material energy; gold & identity; gold and silver & living entities; gold mine & Lord; gold mountain dream & material desire; gold ornaments & Creation; gold reserve & Lord; gold transaction & transmigration of soul; golden oyster shell & Lord and His form; golden stick & Brahmā bowing down; good man & deer; government & Lord; government & Lord; government & Supersoul; government licenses & Vedic injunctions; government rule & Kṛṣṇa’s equal disposition; government’s power & Kṛṣṇa’s power; green bird and tree & merging; gṛhastha & soul."
+}
+---
+
+====== G ======
+
+  * gambling match & Vṛtrāsura-Indra battle, **[[books:sb:6:12:17#translation|SB 6.12.17]]**
+  * Ganges & //kṛṣṇa-kathā,// [[books:sb:2:1:1#purport|SB 2.1.1]]
+  * Ganges & devotees, [[books:sb:1:10:30#purport|SB 1.10.30]]
+  * Ganges & Lord, [[books:sb:3:5:38#purport|SB 3.5.38]]
+  * Ganges & topics of Lord’s activities, **[[books:sb:5:19:24#translation|SB 5.19.24]]**
+  * Ganges bath & hearing Lord’s pastimes, **[[books:sb:3:20:5#translation|SB 3.20.5]]**
+  * Ganges River & //Bhagavad-gītā,// [[books:sb:3:32:28#purport|SB 3.32.28]]
+  * Ganges River & spiritual master, [[books:sb:10:4:20#purport|SB 10.4.20]]
+  * Ganges water & Kṛṣṇa consciousness, **[[books:sb:4:21:31#translation|SB 4.21.31]]**
+  * Ganges water & Lord, [[books:sb:8:20:21#purport|SB 8.20.21]]
+  * garden & devotional service, [[books:sb:5:1:5#purport|SB 5.1.5]]
+  * gardener & Brahmā, [[books:sb:2:5:11#purport|SB 2.5.11]]
+  * garments & bodies, [[books:sb:2:1:15#purport|SB 2.1.15]]
+  * garments, soul, & body, [[books:sb:9:1:33#purport|SB 9.1.33]]
+  * Garuḍa’s nectar & Kṛṣṇa’s Rukmiṇī, **[[books:sb:3:3:3#translation|SB 3.3.3]]**
+  * gates of city & gates of body (sense organs), **[[books:sb:4:25:46#translation|SB 4.25.46-53]]**, [[books:sb:4:28:4#purport|SB 4.28.4]], **[[books:sb:4:28:56#translation|SB 4.28.56-57]]**, **[[books:sb:4:29:7#translation|SB 4.29.7-14]]**
+  * gem & Jaḍa Bharata, **[[books:sb:5:9:9-10#translation|SB 5.9.10]]**
+  * gem (unpolished) & Kardama, [[books:sb:3:21:45-47#purport|SB 3.21.47]]
+  * gems & Lord’s toenails, **[[books:sb:5:25:4#translation|SB 5.25.4]]**
+  * geologist & transcendentalist, **[[books:sb:7:7:21#translation|SB 7.7.21]]**, [[books:sb:7:7:23#purport|SB 7.7.23]]
+  * ghee & sin, **[[books:sb:7:11:33-34#translation|SB 7.11.33-34]]**
+  * ghost & conditioned soul, [[books:sb:4:29:29#purport|SB 4.29.29]]
+  * ghost & lust, **[[books:sb:9:19:5-6#translation|SB 9.19.5-6]]**
+  * ghosts & gold, [[books:sb:5:13:3#purport|SB 5.13.3]]
+  * girl friends (of Purañjanī) & sense gratification, **[[books:sb:4:25:27#translation|SB 4.25.27]]**, [[books:sb:4:25:35#purport|SB 4.25.35]], **[[books:sb:4:29:6#translation|SB 4.29.6]]**
+  * glowworm & Citraketu, **[[books:sb:6:14:46#translation|SB 6.14.46]]**
+  * glowworm’s light & inferior’s power, **[[books:sb:10:13:45#translation|SB 10.13.45]]**
+  * goats & materialists, [[books:sb:9:19:5-6#purport|SB 9.19.5-6]], [[books:sb:9:19:10#purport|SB 9.19.10]]
+  * goat’s neck nipples & material nature, [[books:sb:3:26:17#purport|SB 3.26.17]]
+  * goat’s neck-bags & creation, [[books:sb:1:3:2#purport|SB 1.3.2]]
+  * goat’s nipples & material energy, [[books:sb:2:10:45#purport|SB 2.10.45]]
+  * gold & //brāhmaṇa,// [[books:sb:5:24:17#purport|SB 5.24.17]]
+  * gold & identity, **[[books:sb:3:14:46#translation|SB 3.14.46]]**
+  * gold and silver & living entities, **[[books:sb:8:24:48#translation|SB 8.24.48]]**
+  * gold mine & Lord, [[books:sb:1:1:1#purport|SB 1.1.1]], [[books:sb:8:12:8#purport|SB 8.12.8]]
+  * gold mountain dream & material desire, [[books:sb:2:9:2#purport|SB 2.9.2]]
+  * gold ornaments & Creation, [[books:sb:8:12:8#purport|SB 8.12.8]]
+  * gold reserve & Lord, [[books:sb:2:6:13-16#purport|SB 2.6.13-16]]
+  * gold transaction & transmigration of soul, **[[books:sb:6:16:6#translation|SB 6.16.6]]**
+  * golden oyster shell & Lord and His form, [[books:sb:3:32:28#purport|SB 3.32.28]]
+  * golden stick & Brahmā bowing down, **[[books:sb:10:13:62#translation|SB 10.13.62]]**
+  * good man & deer, **[[books:sb:5:8:16#translation|SB 5.8.16]]**
+  * government & Lord, [[books:sb:2:7:50#purport|SB 2.7.50]], [[books:sb:2:8:16#purport|SB 2.8.16]], [[books:sb:2:9:33#purport|SB 2.9.33]]
+  * government & Lord, [[books:sb:4:24:61#purport|SB 4.24.61]]
+  * government & Supersoul, [[books:sb:6:4:24#purport|SB 6.4.24]]
+  * government licenses & Vedic injunctions, [[books:sb:4:26:7#purport|SB 4.26.7]]
+  * government rule & Kṛṣṇa’s equal disposition, [[books:sb:6:17:23#purport|SB 6.17.23]]
+  * government’s power & Kṛṣṇa’s power, [[books:sb:10:13:44#purport|SB 10.13.44]]
+  * grainless husks & devotionless //yoga,// [[books:sb:2:9:9#purport|SB 2.9.9]]
+  * green bird and tree & merging, [[books:sb:3:27:14#purport|SB 3.27.14]]
+  * //gṛhastha// & soul, **[[books:sb:7:2:42#translation|SB 7.2.42]]**
