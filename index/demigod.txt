@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Demigod(s)",
-    "title":"Demigod(s) --- index",
+    "title":"Demigod(s) — index",
     "description":"administrative; afraid of Hiraṇyakaśipu; animal sacrifice to; Arjuna *pleased *protected ; as assistants of Lord; Aṣṭāvakra blessed & cursed daughters of; Bhīṣma honored by; Brahmā *chief among *origin of ; can’t award liberation; churned sea for nectar; compared to managers of prison house; as \"deathless\"; demons vs.; depend on Lord; devotees as; devotees of, compared with Kṛṣṇa’s devotees; devotees please; Dvākarā’s residents compared with; earth visited by; equal Lord at no time; Garbhodakaśāyī Viṣṇu source of; ghastly forms of; goddess of fortune sought by; in goodness; human beings under; incarnations of God as; intoxication by; Kṛṣṇa *above *worshiped by ; Kuntī summoned; Lord *accepts post of *comes to please *& devotees cooperate with *protects *took pārijāta from ; Lord’s eternal associates compared with; as Lord’s servants; opulence of; Pāṇḍavas as; Parīkṣit praised by; at Parīkṣit’s horse sacrifices; as part of Lord; powers of; priest of; as prison officers; as progenitors; residences of; sacrifice to; Śiva chief among; space travel by; as theists; as transcendental; worshipers of; worship to. See: Worship, to demigod(s); in Yadu dynasty; Yudhiṣṭhira visited by; See also: specific demigods."
 }
 ---

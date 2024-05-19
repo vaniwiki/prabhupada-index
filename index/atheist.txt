@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Atheist(s)",
-    "title":"Atheist(s) --- index",
+    "title":"Atheist(s) — index",
     "description":"Buddha deluded; Buddhists as, SB Intro 24; as challengers to Lord; character of; classes of; creator discounted by; as detached from devotional service; as doomed; earth burdened by; as fools; form of God as discounted by, SB Intro 24; futility for; heavenly planets free of; leaders of society as; Lord’s incarnations bewilder; Lord vanquishes; as materialists; misery plagues; penalized via nature; sacrifice rejected by; See also: Demon(s)."
 }
 ---

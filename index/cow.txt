@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Cow(s)",
-    "title":"Cow(s) --- index",
+    "title":"Cow(s) — index",
     "description":"Arjuna recovered; calves separated from, in Kali-yuga; dung of; earth as; economic importance of; householders keep; importance of; Kali attempted to kill; Kali hurt; in Kali-yuga slaughtered; killing of *ends civilization *in Vedas; lamentation of, as mother earth; as mother; as offenseless; Parīkṣit’s protection of; protection of *as essential *by kṣatriya kings *by Lord *milk obtained via *need for *by Parīkṣit *peace via *purpose of ; as pure; religious principles from; sacrifice of; in spiritual world; śūdra beat; surabhi; in Vasiṣṭha-Viśvāmitra quarrel; See also: Animal slaughter."
 }
 ---

@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Chanting holy name(s) of Lord",
-    "title":"Chanting holy name(s) of Lord --- index",
+    "title":"Chanting holy name(s) of Lord — index",
     "description":"for all people; by Aṅgirā; as beneficial from start; Caitanya as preacher of; Caitanya revived by; at Caitanya’s birth; cleanses heart of all; convenient nature of; as cure for materialism; at death; death overcome via; in devotee’s association; as devotee’s concern; disciplic line needed for; as duty of all; elevation through; as ever-fresh; fear vanquished via; humility for; identical with Lord; importance of in this age; for Kali-yuga; Kali-yuga counteracted via; Kazi stopped; liberation via; Lord realized via; Lord’s association via; by materialists; by materially impoverished; offenselessly; for peace; proper method of; for protection; by pure devotee; purifying power of; recommended by Pañcarātra; revives senses transcendentally; Śaṅkarācārya recommends; for sannyāsīs; singing meters for; spiritual master directs; unconsciously done; value of; Vedānta study vs.; by Yamarāja; See also: Hare Kṛṣṇa mantra; Saṅkīrtana movement; Glorification about Lord."
 }
 ---

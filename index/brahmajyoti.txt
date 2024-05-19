@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Brahmajyoti",
-    "title":"Brahmajyoti --- index",
+    "title":"Brahmajyoti — index",
     "description":"defined; impersonalist aspires to; as impersonalist’s goal; impersonalists worship; Lord as; as Lord’s effulgence; as monist’s destination; planets within; Śiśupāla dazzled by; See also: Brahman."
 }
 ---

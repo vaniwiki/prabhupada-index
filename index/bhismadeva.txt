@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Bhīṣmadeva",
-    "title":"Bhīṣmadeva --- index",
+    "title":"Bhīṣmadeva — index",
     "description":"Arjuna excelled by; arrow-bed of; as authority; in chivalrous rasa; cited. See: Bhīṣmadeva cited; death of; demigod compared with; demigods honored; Dhṛtarāṣṭra reared by; Karṇa vs.; Kṛṣṇa *at deathbed of *favored *glorified *worshiped by ; Kṛṣṇa’s Godhood accepted by; as Kuru commander; Kuru dynasty led by; as Lord’s "enemy"; Lord’s mercy appreciated by; as mahājana; mystic power of; Pāṇḍavas at deathbed of; as Pāṇḍavas’ "enemy"; Pāṇḍavas protected by; as Pāṇḍavas’ well-wisher; Paraśurāma blessed; prayers by; as preacher; quoted. See: Bhīṣmadeva quoted; repentance by; as ṛṣi; sages at deathbed of; sages compared with; spiritual world attained by; in trance of devotion; Yudhiṣṭhira grieved death of; See also: Bhīṣmadeva cited; Bhīṣmadeva quoted."
 }
 ---

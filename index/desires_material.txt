@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Desires, material",
-    "title":"Desires, material --- index",
+    "title":"Desires, material — index",
     "description":"body accommodates; devotional service purifies; as ignorance; improper & proper goals for; living beings contaminated by; in living being’s nature; material & spiritual; material life via; pure devotees above; purification of; in serving Lord; transcendentalists above; transmigration of soul via; See also: Attachment, material."
 }
 ---

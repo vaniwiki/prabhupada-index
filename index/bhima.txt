@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Bhīma",
-    "title":"Bhīma --- index",
+    "title":"Bhīma — index",
     "description":"as "brāhmaṇa"; club of; Dhṛtarāṣṭra vs.; Duḥśāsana killed by; Duryodhana killed by; Hiḍimbī approached; Jarāsandha vs.; Jatāsura killed by; Lord saved; Maya demon &; parents of; son of; strength of; as warrior; See also: Pāṇḍavas"
 }
 ---
