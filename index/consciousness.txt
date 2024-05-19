@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Consciousness",
+    "label":"Consciousness",
     "title":"Consciousness — index",
     "description":"body animated via; higher, in human beings; in Lord & living beings, SB Intro 1-2; material & spiritual; three states of; See also: Kṛṣṇa consciousness."
 }

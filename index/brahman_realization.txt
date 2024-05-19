@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Brahman realization",
+    "label":"Brahman realization",
     "title":"Brahman realization — index",
     "description":"artificial type of; bliss in; via devotional service; inferior to devotion to Lord; Kumāras taught."
 }

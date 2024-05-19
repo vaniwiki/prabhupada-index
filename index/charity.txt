@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Charity",
+    "label":"Charity",
     "title":"Charity — index",
     "description":"to brāhmaṇas; considerations for; by gṛhasthas; for heavenly elevation; as jāta-karma; by Karṇa; by kings; for Kṛṣṇa; by kṣatriyas; by Marutta; proper & improper; at saṁskāras; to sannyāsīs; for spiritual cause; by Yudhiṣṭhira."
 }

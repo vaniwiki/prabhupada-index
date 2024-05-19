@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Bhagavad-gītā",
+    "label":"Bhagavad-gītā",
     "title":"Bhagavad-gītā — index",
     "description":"See also: Bhagavad-gītā cited, Bhagavad-gītā quoted; accepting, need for; Arjuna hears; Arjuna medium for; as basis for preaching; Battlefield of Kurukṣetra witnessed; bhakti-yoga in; Caitanya as teacher of; compared to sugar candy; conclusion of; as cure for materialism; via disciplic succession; as essence of Mahābhārata; as essence of Vedas; as ever-fresh; false hearing of; as \"first book of spiritual values\"; as God’s law; as guiding principle for humans; hero of; as identical with Lord; ignorance dispelled by; illusion dispelled by; Indians should broadcast; as kṛṣṇa-kathā; Kṛṣṇa presented via; Kṛṣṇa speaker of; liberation via; as light for this age; as Lord’s sound incarnation; last instruction of; misinterpreted by scholars; mundane literature compared with; need for, in this age; as panacea; philosophical basis of; as preliminary science of Kṛṣṇa; professional recitation of; purification via; purpose of; as relief for conditioned souls; as religion; as \"ship\" for crossing Kali-yuga; as sound incarnation of Lord; speaker of; Śrīmad-Bhāgavatam postgraduate study to; as Śrīmad-Bhāgavatam’s introduction; Śrīmad-Bhāgavatam supplements; as teachings; topics in, five listed; as transcendental; transcendental nature of; as Vedas’ essence."
 }

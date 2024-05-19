@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Birth(s)",
+    "label":"Birth(s)",
     "title":"Birth(s) — index",
     "description":"of Brahmā; conditioned souls bound to; freedom from; of Kṛṣṇa. See: Kṛṣṇa, advent of; Kṛṣṇa consciousness irrelevant to; of Parīkṣit; via past activity; purification at; purification before; second; as suffering; See also: Transmigration of soul(s)."
 }

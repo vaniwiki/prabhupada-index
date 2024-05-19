@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Anxiety",
+    "label":"Anxiety",
     "title":"Anxiety — index",
     "description":"in Arjuna; causes of; devotional service free of; in Kali-yuga; spiritual, vs. material; See also: Fear; Suffering. "
 }

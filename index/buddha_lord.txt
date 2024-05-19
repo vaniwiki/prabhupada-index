@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Buddha, Lord",
+    "label":"Buddha, Lord",
     "title":"Buddha, Lord — index",
     "description":"Aśoka patronized; atheists deluded by; challenge to followers of; faith created by; as incarnation of God; as precursor of theism; purpose of; Śrīmad-Bhāgavatam predicted; Vedas rejected by."
 }

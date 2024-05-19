@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Analogies",
+    "label":"Analogies",
     "title":"Analogies — index",
     "description":"In his books, Srila Prabhupāda often uses simple and relatable analogies to help illustrate complex spiritual concepts. Just as a skilled teacher uses various examples to make a subject matter clear to students, Srila Prabhupāda employs analogies from everyday life to help readers understand the profound truths of spiritual knowledge. For instance, in the Bhagavad-gītā, Srila Prabhupāda compares the material world to a temporary place of suffering, like a hotel where we are just passing through. He also uses analogies such as the sun and the sunshine to explain the relationship between the Supreme Lord and His energies, or the example of a mirror to elucidate the concept of the soul reflecting the consciousness of the Supreme Soul. By using such analogies, Srila Prabhupāda makes the teachings of the ancient Vedic scriptures accessible and relevant to modern readers, helping them grasp the timeless wisdom of spiritual life and apply it practically in their daily lives."
 }

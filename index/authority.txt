@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Authority",
+    "label":"Authority",
     "title":"Authority — index",
     "description":"Bhīṣma as; body awarded by; cited *on detachment from family life *on Kṛṣṇa’s supremacy *See also: specific authorities cited. decisions according to; devotional service recommended by; hearing from; kings followed; knowledge from; Kṛṣṇa consciousness via; Lord as; Lord known via; Parīkṣit consulted; Prahlāda as; spiritual master as; Vedic knowledge via; women’s acceptance of Lord’s; See also: Disciplic succession; Mahājanas; specific authorities."
 }

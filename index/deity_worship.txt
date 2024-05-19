@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Deity worship",
+    "label":"Deity worship",
     "title":"Deity worship — index",
     "description":"ācāryas authorize; for children; devotional service helped via; fallen souls need; forms of; for gṛhasthas; idol worship confused with; instructions on; as life’s perfection; Lord pleased by; misunderstanding of; purpose of."
 }

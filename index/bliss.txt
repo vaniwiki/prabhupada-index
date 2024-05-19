@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Bliss",
+    "label":"Bliss",
     "title":"Bliss — index",
     "description":"beginning & progress of; in hearing about Lord; Kṛṣṇa as highest; as normal; saṅkīrtana as source of; separation mood as; See also: Ecstasy, transcendental."
 }

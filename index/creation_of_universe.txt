@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Creation of universe(s)",
+    "label":"Creation of universe(s)",
     "title":"Creation of universe(s) — index",
     "description":"agency of Lord in; atheist’s disbelief in; automatic, as refuted; at beginning of Brahmā’s day; in Causal Ocean; compared to tree’s producing fruits; conditioned souls as basis of; dual purpose of; by glance of Lord; by Kāraṇodakaśāyī Viṣṇu; Kṛṣṇa basis of; Lord as transcendental to; mahat-tattva as basis of; named according to Brahmā(s); as periodic; puruṣa required for; from skin-pores of Viṣṇu."
 }

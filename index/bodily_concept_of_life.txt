@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Bodily concept of life",
+    "label":"Bodily concept of life",
     "title":"Bodily concept of life — index",
     "description":"as basis of suffering; dissolved for devotees; false relativity in; fear in; as ignorance; overlording in; as root of despondency; self-realisation destroys; Śrīmad-Bhāgavatam destroys; in Vyāsadeva; Yudhiṣṭhira shucked; See also: Materialism."
 }

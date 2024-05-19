@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Brahman",
+    "label":"Brahman",
     "title":"Brahman — index",
     "description":"as aspect of Absolute; basis of, Lord as; as basis of material world; beyond modes of nature; bliss in; as cause of all causes; compared to sun’s rays; defined; empiricists aspire to; energies of, three; living beings never impersonal as; Lord as basis of; as negation of matter; as Personality of Godhead; self as; Vedānta-sūtra delineates; See also: Absolute Truth; Brahmajyoti; Brahman realization; Supreme Lord."
 }

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Balarāma, Lord",
+    "label":"Balarāma, Lord",
     "title":"Balarāma, Lord — index",
     "description":"as Ananta; Arjuna angered; as basis of quadruple expansions; as Duryodhana’s friend; as expansion of Godhead; expansions of; historical accounts on; as incarnation of God; intimacy possible with; as Kṛṣṇa’s brother; as Kṛṣṇa’s expansion; mercy of; name of, meaning of; as Nityānanda; protects devotees; as Saṅkarṣaṇa; sister of; as spiritual master."
 }

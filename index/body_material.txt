@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Body, material",
+    "label":"Body, material",
     "title":"Body, material — index",
     "description":"attachment to; basis of, as mind; basis of, as soul; bondage to; complexity surrounds; consciousness animates; as covering self; at death; death of. See: Death(s); demands of, four listed; desires accommodated by; devotional service spiritualizes; in devotional service to Lord; false beauty of; fate of; health of, lost in this age; identification with. See: Bodily concept of life; inebrieties of, three listed; karma controls; knowledge limited in; mind produces; modes of nature control; nature controls; nature’s laws above; ominous signs in; via past activity; perfection in; preoccupation with; as prison; purpose of; as sexually oriented; social order compared to; soul causes; soul covered by. See: Conditioned soul(s); stages of; as suffering; as temporary; time controls; as whole, analogy of; yoga manipulates; See also: Bodily conception of life."
 }

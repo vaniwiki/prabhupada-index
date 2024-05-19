@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Brahmāstra(s)",
+    "label":"Brahmāstra(s)",
     "title":"Brahmāstra(s) — index",
     "description":"Aśvatthāmā discharged; as atomic weapon; atomic weapons compared with; Lord foiled; Pāṇḍavas *attacked by *saved from ; Parīkṣit *attacked by *saved from ; as science of throwing."
 }
