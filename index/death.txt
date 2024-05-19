@@ -1,4 +1,12 @@
-====== Death(s) =====
+---json
+{
+    "name":"Death(s)",
+    "title":"Death(s) --- index",
+    "description":"animal, compared with human; as animal slaughter’s penalty; of Bhīṣma; body at; devotee’s meditation at; of devotees not lamentable; for devotees of Lord; of Dhṛtarāṣṭra; duty at; fearlessness at; freedom from; of Gāndhārī; Hindu custom concerning; Hiraṇyakaśipu defeated by; as inescapable; as intoxication’s penalty; Kṛṣṇa shelter from; Lord’s separation as; mind at; of Nārada in previous life; of Parīkṣit as Lord’s will; Parīkṣit forewarned of; Parīkṣit prepared for; Parīkṣit unafraid of; pure devotee callous to; as soul’s leaving body; as test; as trance; warning for; Yamarāja controls; yogīs control time of; See also: Transmigration of soul(s)."
+}
+---
+
+====== Death(s) ======
 
   * animal, compared with human, [[books:sb:1:9:43#purport|SB. 1.9.43]]
   * as animal slaughter’s penalty, [[books:sb:1:17:6#purport|SB. 1.17.6]], [[books:sb:1:17:9#purport|SB. 1.17.9]], [[books:sb:1:17:10-11#purport|SB. 1.17.10-11]]

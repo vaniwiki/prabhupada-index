@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Brahmā, Lord",
+    "title":"Brahmā, Lord --- index",
+    "description":"annihilation & creation in day of; annihilation at night & death of; attributes of Kṛṣṇa in; Bhīṣma compared with; birth of; center of universe contemplated by; cited on submission to Lord; compared to *reflected sunlight *sun ; creation named for; as creator, *secondarily ; day of, calculated; death of; as demigod; dependent on Lord; in disciplic succession; Dvārakā’s residents compared with; equanimity of; as father; gopīs criticize; as grandfather; as incarnation of Lord; as jīva-tattva; Kṛṣṇa *compared with *taught *worshiped by ; Kṛṣṇa’s Godhood accepted by; life cycle of; Lord in post of; as mahājana; Manus in day of; as mortal; mystic power of; night of; as original Vedic personality; piety of; planet of; as prājapati; prayers of; residence of; Śiva infuriated by; sleeping in yoga-nidrā; taught by Supreme Lord; time controls; worships Kṛṣṇa; worship to."
+}
+---
+
 ====== Brahmā, Lord ======
 
   * annihilation & creation in day of, **[[books:sb:1:6:29#translation|SB. 1.6.29-30]]**

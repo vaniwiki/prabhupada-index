@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Deity worship",
+    "title":"Deity worship --- index",
+    "description":"ācāryas authorize; for children; devotional service helped via; fallen souls need; forms of; for gṛhasthas; idol worship confused with; instructions on; as life’s perfection; Lord pleased by; misunderstanding of; purpose of."
+}
+---
+
 ====== Deity worship ======
 
 [[books:sb:1:5:7#purport|SB. 1.5.7]], [[books:sb:1:6:21#purport|SB. 1.6.21]]

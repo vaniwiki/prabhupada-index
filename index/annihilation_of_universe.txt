@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Annihilation of universe(s)",
+    "h1":"Annihilation of universe(s)",
+    "description":"at end of Brahmā’s day; fire at, compared to brahmāstras, . Kṛṣṇa basis of; Lord’s will determines; Lord unaffected by; after Manus; as periodic; by Śiva’s tāṇḍava-nṛtya."
+}
+---
+
 ====== Annihilation of universe(s) ======
 
 [[books:sb:1:10:21#purport|SB. 1.10.21-22]]

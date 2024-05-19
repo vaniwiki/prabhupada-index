@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Bliss",
+    "title":"Bliss --- index",
+    "description":"beginning & progress of; in hearing about Lord; Kṛṣṇa as highest; as normal; saṅkīrtana as source of; separation mood as; See also: Ecstasy, transcendental."
+}
+---
+
 ====== Bliss ======
 
   * beginning & progress of, [[books:sb:1:5:9#purport|SB. 1.5.9]]

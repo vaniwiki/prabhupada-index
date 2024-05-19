@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Brahman realization",
+    "title":"Brahman realization --- index",
+    "description":"artificial type of; bliss in; via devotional service; inferior to devotion to Lord; Kumāras taught."
+}
+---
+
 ====== Brahman realization ======
 
   * artificial type of, [[books:sb:1:1:19#purport|SB. 1.1.19]]

@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Buddha, Lord",
+    "title":"Buddha, Lord --- index",
+    "description":"Aśoka patronized; atheists deluded by; challenge to followers of; faith created by; as incarnation of God; as precursor of theism; purpose of; Śrīmad-Bhāgavatam predicted; Vedas rejected by."
+}
+---
+
 ====== Buddha, Lord ======
 
   * Aśoka patronized, [[books:sb:1:17:45#purport|SB. 1.17.45]]

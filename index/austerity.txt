@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Austerity",
+    "title":"Austerity --- index",
+    "description":"by Aṅgirā; becoming God via, as impossible; for changing influence acting on us; corollary to serving Kṛṣṇa; defined, 133; demonstrated by Rṣabha; Devakī & Vasudeva performed; as duty for human beings; false & true; goal of; happiness (spiritual) from; for heavenly elevation; of impersonalists; for knowing Vedas; of Kṛṣṇa’s lovers; of Kumāras; Lord teaches; of Māyāvādī monists; of Vasudeva & Devakī; by Viśvāmitra; by Yudhiṣṭhira."
+}
+---
+
 ====== Austerity ======
 
   * by Aṅgirā, [[books:sb:1:19:9-10#purport|SB. 1.19.9-10]]

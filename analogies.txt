@@ -1,0 +1,1040 @@
+---json
+{
+    "name":"Analogies",
+    "h1":"Analogies",
+    "description":""
+}
+---
+
+====== Analogies ======
+
+In his books, Srila Prabhupāda often uses simple and relatable analogies to help illustrate complex spiritual concepts. Just as a skilled teacher uses various examples to make a subject matter clear to students, Srila Prabhupāda employs analogies from everyday life to help readers understand the profound truths of spiritual knowledge.
+For instance, in the Bhagavad-gītā, Srila Prabhupāda compares the material world to a temporary place of suffering, like a hotel where we are just passing through. He also uses analogies such as the sun and the sunshine to explain the relationship between the Supreme Lord and His energies, or the example of a mirror to elucidate the concept of the soul reflecting the consciousness of the Supreme Soul.
+By using such analogies, Srila Prabhupāda makes the teachings of the ancient Vedic scriptures accessible and relevant to modern readers, helping them grasp the timeless wisdom of spiritual life and apply it practically in their daily lives.
+
+
+<masonry>
+<card line-spacing="lg">
+===== A =====
+
+  * [[books:sb:5:18:26#purport|actor & Lord]]
+  * [[books:sb:4:29:75#purport|aging & transmigration]]
+  * [[books:sb:9:6:2#purport|agricultural field & woman]]
+  * **[[books:sb:8:24:6#translation|air & Lord]]**
+  * **[[books:sb:2:7:49#translation|air & soul]]** [[books:sb:2:7:49#purport| 1 ]]
+  * [[books:sb:4:28:20#purport|air carrying aromas & conditioned soul]]
+  * **[[books:sb:7:2:43#translation|air in mouth & living entity in body]]**
+  * **[[books:sb:3:23:41#translation|air moving & Kardama traveling]]**
+  * [[books:sb:4:25:18#purport|air of spring & smelling-sense]]
+  * [[books:sb:4:29:18-20#purport|airplane & conditioned soul]]
+  * [[books:sb:4:8:80#purport|airplane & total energy]]
+  * [[books:sb:2:8:14#purport|America & heavenly planets]]
+  * **[[books:sb:7:5:37#translation|amputation & rejection of bad son]]**
+  * **[[books:sb:3:16:12#translation|angry father & brāhmaṇas]]**
+  * **[[books:sb:5:14:10#translation|animal & conditioned soul]]**
+  * [[books:sb:4:25:19#purport|animals & children]]
+  * **[[books:sb:5:6:2#translation|animals & mind]]**
+  * [[books:sb:4:28:14#purport|animals in fire & human body]]
+  * [[books:sb:6:16:7#purport|animal’s changing owners & transmigration of soul]]
+  * **[[books:sb:5:22:2#translation|ants & sun and planets]]**
+  * [[books:sb:4:9:16#purport|approaching city & realiīng Absolute Truth]]
+  * **[[books:sb:5:18:13#translation|aquatics & conditioned souls]]**
+  * [[books:sb:3:25:29#purport|arrow & bhakti-yoga]]
+  * **[[books:sb:3:1:16#translation|arrows & offenses]]**
+  * **[[books:sb:5:2:8#translation|arrows & Pūrvacitti’s eyes]]**
+  * [[books:sb:2:10:49-50#purport|artist & Lord]]
+  * **[[books:sb:5:13:18#translation|ass & sense gratifier]]**
+  * [[books:sb:4:28:24#purport|ass or cow & materialist]]
+  * [[books:sb:2:5:40-41#purport|astronauts & child playing]]
+  * [[books:sb:4:9:10#purport|astronauts & demigod worshipers]]
+  * **[[books:sb:4:31:17#translation|atmospheric conditions & material energies]]**
+  * [[books:sb:4:25:24#purport|attachment and envy & woman’s breasts]]
+  * **[[books:sb:2:8:5#translation|autumnal rains & hearing]]** [[books:sb:2:8:5#purport| 1 ]]
+  * [[books:sb:5:1:16#purport|awakened person & liberated soul]] [[books:sb:5:11:12#purport| 1 ]]
+  * **[[books:sb:4:31:16#translation|awakening & creation]]**
+  * **[[books:sb:3:25:11#translation|ax & Lord Kapila]]**
+</card>
+<card line-spacing="lg">
+===== B =====
+
+  * **[[books:sb:6:11:26#translation|baby bird & pure devotee]]**
+  * **[[books:sb:3:1:21#translation|bamboo fire & Yadus’ destruction]]** **[[books:sb:3:4:2#translation| 1 ]]**
+  * [[books:sb:2:5:11#purport|banyan seeds & Lord’s potencies]]
+  * [[books:sb:5:14:41#purport|banyan tree & fruitive activities]]
+  * [[books:sb:3:25:11#purport|banyan tree & material existence]]
+  * [[books:sb:3:6:39#purport|banyan’s potency & Lord’s potency]]
+  * **[[books:sb:5:10:13#translation|beating of dead horse & Rahūgaṇa’s punishment]]**
+  * [[books:sb:4:27:4#purport|bedstead & heart]]
+  * [[books:sb:5:1:19#purport|bee & devotee]]
+  * [[books:sb:4:24:64#purport|beehive & human society]]
+  * [[books:sb:1:11:26#purport|bees & devotees]]
+  * [[books:sb:4:4:12#purport|bees & highly qualified men]]
+  * [[books:sb:5:24:17#purport|bell metal & lowborn man]]
+  * [[books:sb:2:3:18#purport|bellows & materialists]]
+  * **[[books:sb:6:5:6-8#translation|bewildered man & husband]]** **[[books:sb:6:5:15#translation| 1 ]]**
+  * **[[books:sb:3:15:33#translation|big sky & Lord]]**
+  * [[books:sb:9:19:24#purport|bird & surrendered soul]]
+  * [[books:sb:1:2:8#purport|bird in cage & soul]]
+  * **[[books:sb:6:12:8#translation|bird in net & controlled living entities]]**
+  * [[books:sb:3:26:18#purport|bird in tree & Supersoul]]
+  * [[books:sb:1:2:31#purport|bird in tree and soul]]
+  * [[books:sb:4:24:64#purport|birds in tree & Lord and living entity]]
+  * **[[books:sb:10:2:27#translation|birds in tree & soul and Supersoul in body]]**
+  * [[books:sb:3:6:9#purport|birds, soul, & Supersoul]]
+  * **[[books:sb:3:5:41#translation|bird’s nest & Lord’s face]]**
+  * [[books:sb:2:10:28#purport|birth from other & birth from Viṣṇu]]
+  * [[books:sb:2:5:11#purport|blacksmith & Lord]]
+  * [[books:sb:3:1:13#purport|blind eyes & bad son]]
+  * [[books:sb:4:28:61#purport|blind leading blind & material life]]
+  * [[books:sb:3:31:31#purport|blind leading blind]]
+  * **[[books:sb:5:1:15#translation|blind man & conditioned soul]]**
+  * **[[books:sb:5:5:15#translation|blind man & dependent]]**
+  * **[[books:sb:7:5:31#translation|blind man & materialist]]**
+  * [[books:sb:4:25:13#purport|blind man & Western countries]]
+  * [[books:sb:3:9:8#purport|blind men & modern leaders]]
+  * [[books:sb:3:24:41#purport|blind well & family life]] [[books:sb:4:13:46#purport| 1 ]]
+  * **[[books:sb:3:31:40#translation|blind well & female association]]**
+  * [[books:sb:2:3:19#purport|blood-sucking & material enjoyment]]
+  * [[books:sb:1:3:31#purport|"blue" sky & universal form]]
+  * **[[books:sb:4:17:35#translation|boat & Earth]]**
+  * [[books:sb:3:15:24#purport|boat & human body]] [[books:sb:3:31:9#purport| 1 ]] [[books:sb:6:7:14#purport| 2 ]]
+  * [[books:sb:4:23:28#purport|boat & human life]]
+  * [[books:sb:2:8:21#purport|boat & living entity]]
+  * **[[books:sb:10:2:30#translation|boat & Lord’s lotus feet]]** [[books:sb:10:2:31#purport| 1 ]] **[[books:sb:4:22:40#translation| 2 ]]** **[[books:sb:4:23:39#translation| 3 ]]**
+  * [[books:sb:10:1:42#purport|boat & mind]]
+  * **[[books:sb:9:8:13#translation|boat & Sāṅkhya philosophy]]**
+  * **[[books:sb:6:7:14#translation|boat of stone & ignorant leadership]]**
+  * [[books:sb:4:17:21#purport|boats & planets]]
+  * **[[books:sb:4:27:17#translation|bodily limbs & citizens and friends]]**
+  * [[books:sb:4:30:16#purport|bodily limbs & living entities]]
+  * [[books:sb:3:25:42#purport|bodily limbs of Lord & demigods]]
+  * [[books:sb:3:6:30#purport|bodily parts & social body]]
+  * [[books:sb:4:21:33#purport|bodily parts & social divisions]]
+  * [[books:sb:4:14:45#purport|bodily parts & social orders]]
+  * [[books:sb:4:30:16#purport|body & Lord]]
+  * [[books:sb:3:22:3#purport|body & society]]
+  * [[books:sb:1:5:20#purport|body & Supreme Lord]]
+  * **[[books:sb:4:7:53#translation|body & unified existence]]**
+  * [[books:sb:2:5:37#purport|body & universal form]] [[books:sb:4:24:39#purport| 1 ]]
+  * **[[books:sb:4:7:53#translation|body parts and souls]]**
+  * [[books:sb:4:25:21#purport|bodyguard & vital force]]
+  * [[books:sb:4:26:4#purport|bow and arrow & attachment and hatred]]
+  * **[[books:sb:5:2:7#translation|bows without strings & Pūrvacitti’s eyebrows]]**
+  * **[[books:sb:6:15:6#translation|boy at beach & Kṛṣṇa creating world]]**
+  * **[[books:sb:9:9:31#translation|brāhmaṇa-killing, embryo-killing, & cow-killing]]**
+  * [[books:sb:4:2:13#purport|brāhmaṇa & law student]]
+  * **[[books:sb:4:28:51#translation|brāhmaṇa’s friend & Supersoul]]** **[[books:sb:4:28:61#translation| 1 ]]**
+  * [[books:sb:6:10:11#purport|breaking pot & soul merging]]
+  * [[books:sb:2:1:4#purport|bubbles & material dreams]]
+  * [[books:sb:4:1:26-27#purport|building constructor and Lord]]
+  * **[[books:sb:3:18:19#translation|bullfight & Hiraṇyākṣa-Varāha battle]]**
+  * **[[books:sb:5:23:3#translation|bulls & planets]]**
+  * **[[books:sb:5:23:3#translation|bulls & stars]]**
+  * **[[books:sb:4:9:20-21#translation|bulls circling & planets orbiting]]** **[[books:sb:4:12:39#translation| 1 ]]**
+  * **[[books:sb:5:1:14#translation|bulls directed by driver & human beings directed by varṇāśrama-dharma duties]]** [[books:sb:5:1:15#purport| 1 ]]
+  * [[books:sb:5:1:27#purport|bumblebee & sannyāsī]]
+  * [[books:sb:4:30:32#purport|bumblebees & devotees]]
+  * **[[books:sb:5:14:1#translation|bumblebees & pure devotees]]**
+  * **[[books:sb:5:2:13#translation|bumblebees & Pūrvacitti’s hair]]**
+  * **[[books:sb:4:29:54#translation|bumblebees’ humming & wife’s talk]]**
+  * **[[books:sb:4:29:33#translation|burden transferred from head to shoulder & material solutions to life’s miseries]]**
+  * [[books:sb:4:25:19#purport|burglars & wives and children]]
+  * [[books:sb:4:28:27#purport|burning-hot food & sense gratification]]
+  * [[books:sb:4:20:12#purport|businessman in car & living entity in body]]
+  * [[books:sb:4:24:60#purport|businessman’s brain & Lord’s energy]]
+  * [[books:sb:2:6:35#purport|butter & soul]]
+  * [[books:sb:1:2:32#purport|butter & Supersoul]]
+  * [[books:sb:4:26:16#purport|butter and fire & man and woman]]
+  * **[[books:sb:9:19:14#translation|butter, fire, & lusty desire]]**
+  * **[[books:sb:5:14:29#translation|buzzards & man-made gods]]**
+</card>
+<card line-spacing="lg">
+===== C =====
+
+  * **[[books:sb:4:9:17#translation|calf & devotee]]**
+  * [[books:sb:5:15:10#purport|calf & Gaya’s qualities]]
+  * **[[books:sb:6:11:26#translation|calves & pure devotees]]**
+  * [[books:sb:1:2:3#purport|camel & materialist]]
+  * [[books:sb:2:3:19#purport|camel eating thorns & sense enjoyer]]
+  * [[books:sb:6:9:45#purport|candle lighting candles & Kṛṣṇa’s expanding]]
+  * [[books:sb:3:21:32#purport|candles & Lord’s expansions]] [[books:sb:3:24:10#purport| 1 ]]
+  * [[books:sb:4:25:15#purport|capital city & heart]]
+  * [[books:sb:3:15:24#purport|captain & spiritual master]] [[books:sb:3:31:9#purport| 1 ]]
+  * [[books:sb:2:5:32#purport|car & body]] [[books:sb:5:10:22#purport| 1 ]]
+  * [[books:sb:1:3:31#purport|car & Lord’s universal form]]
+  * **[[books:sb:1:3:18#translation|carpenter & Nṛsiṁhadeva]]**
+  * [[books:sb:5:10:22#purport|car’s proprietor & soul]]
+  * [[books:sb:3:25:24#purport|cat & material world]]
+  * **[[books:sb:4:29:76-77#translation|caterpillar & transmigrating soul]]**
+  * [[books:sb:4:12:30#purport|cat’s kitten & Lord’s devotee]] [[books:sb:9:13:9#purport| 1 ]]
+  * **[[books:sb:4:27:13#translation|Caṇḍavega & time]]**
+  * **[[books:sb:4:26:1-3#translation|chariot & body]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]** [[books:sb:4:29:18-20#purport| 3 ]]
+  * [[books:sb:4:29:66#purport|chariot & mind]]
+  * **[[books:sb:4:26:1-3#translation|chariot coverings & elements]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * **[[books:sb:4:26:1-3#translation|chariot driver & intelligence]]** **[[books:sb:4:29:18-20#translation| 1 ]]**
+  * **[[books:sb:4:26:1-3#translation|chariot driver & Supersoul]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:4:26:1-3#translation|chariot flags & modes of nature]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * **[[books:sb:4:26:1-3#translation|chariot horses & senses]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * **[[books:sb:4:26:1-3#translation|chariot passenger & living entity]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]** [[books:sb:4:29:18-20#purport| 3 ]]
+  * **[[books:sb:4:26:1-3#translation|chariot rein & mind]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * **[[books:sb:4:26:1-3#translation|chariot seat & heart]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]** [[books:sb:4:29:18-20#purport| 3 ]]
+  * **[[books:sb:8:5:28#translation|chariot wheel & birth and death]]**
+  * **[[books:sb:8:5:28#translation|chariot wheel & body]]**
+  * **[[books:sb:4:26:1-3#translation|chariot wheels & pious and impious activities]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * [[books:sb:2:3:17#purport|charity & hearing Lord’s message]]
+  * [[books:sb:4:26:8#purport|chewing chewed & sense gratification]]
+  * [[books:sb:3:32:1#purport|chewing the chewed & sense gratification]]
+  * [[books:sb:4:12:37#purport|child & devotee]]
+  * [[books:sb:6:9:49#purport|child & materialists]]
+  * [[books:sb:2:10:45#purport|child from father & living beings from Lord]]
+  * [[books:sb:2:5:32#purport|children & living entities]]
+  * [[books:sb:5:19:27#purport|children & materialistic devotees]]
+  * [[books:sb:4:24:63#purport|children "cooking" & living entities "enjoying"]]
+  * [[books:sb:3:7:13#purport|child’s mischief & sense gratification]]
+  * [[books:sb:4:22:36#purport|child’s play & material activities]]
+  * [[books:sb:2:8:20#purport|child’s strength & that of devotees]]
+  * [[books:sb:5:13:16#purport|chirping birds & wife’s voice]]
+  * [[books:sb:6:16:36#purport|citric acid & creation]]
+  * **[[books:sb:4:25:14#translation|city & body]]** [[books:sb:4:27:9#purport| 1 ]] **[[books:sb:4:28:10#translation| 2 ]]** [[books:sb:4:28:24#purport| 3 ]] [[books:sb:4:28:56#purport| 4 ]] **[[books:sb:4:29:7#translation| 5 ]]**
+  * **[[books:sb:4:28:56#translation|city stores & sense organs]]**
+  * [[books:sb:4:25:16#purport|city streets & life airs]]
+  * **[[books:sb:4:25:46#translation|city’s gates & body’s gates (sense organs)]]** [[books:sb:4:28:4#purport| 1 ]] **[[books:sb:4:28:57#translation| 2 ]]** **[[books:sb:4:29:7#translation| 3 ]]**
+  * **[[books:sb:9:9:7#translation|cloth & universe]]**
+  * [[books:sb:3:6:9#purport|clothing & material elements]]
+  * [[books:sb:3:32:28#purport|cloud & māyā]]
+  * [[books:sb:2:5:21#purport|cloud & creation]]
+  * [[books:sb:3:26:4#purport|cloud & illusory energy]]
+  * [[books:sb:2:4:3-4#purport|cloud & Kṛṣṇa]]
+  * **[[books:sb:4:30:5#translation|cloud & Lord]]**
+  * [[books:sb:2:10:43#purport|clouds & creation]]
+  * **[[books:sb:5:23:3#translation|clouds & planets]]**
+  * [[books:sb:1:3:30#purport|cloudy or dirty sky & virāṭ-rūpa]]
+  * **[[books:sb:3:1:37#translation|cobra & Bhīma]]**
+  * [[books:sb:3:18:13#purport|cobra & demon]]
+  * [[books:sb:4:12:18#purport|coconut drying & devotee serving]]
+  * **[[books:sb:7:6:11-13#translation|cocoon & household affairs]]** [[books:sb:7:6:16#purport| 1 ]]
+  * [[books:sb:5:17:24#purport|computer & living entity]]
+  * **[[books:sb:4:22:3#translation|conditioned soul & Pṛthu]]**
+  * [[books:sb:2:7:6#purport|confectioner & Lord]]
+  * **[[books:sb:5:12:2#translation|cooling waters & Jaḍa Bharata’s instructions]]**
+  * [[books:sb:9:10:16#purport|cotton swabs & planets]]
+  * [[books:sb:4:18:9-10#purport|cow & Earth]] [[books:sb:5:15:10#purport| 1 ]]
+  * **[[books:sb:4:9:17#translation|cow & Lord]]**
+  * **[[books:sb:4:7:14#translation|cowherd boy and Śiva]]**
+  * [[books:sb:3:26:51#purport|creation & birth]]
+  * [[books:sb:3:2:6#purport|creeper & devotional service]] [[books:sb:4:21:37#purport| 1 ]] [[books:sb:4:22:23#purport| 2 ]]
+  * [[books:sb:5:13:16#purport|creeper & wife]]
+  * [[books:sb:5:14:28#purport|creepers & arms]]
+  * [[books:sb:4:24:61#purport|criminal department & material energy]]
+  * [[books:sb:4:6:43#purport|criminal department and ignorance mode]]
+  * [[books:sb:8:2:30#purport|crocodile & māyā]]
+  * [[books:sb:5:18:13#purport|crocodile & living entity]]
+  * **[[books:sb:8:4:13#translation|crocodile & material life]]** [[books:sb:8:3:17#purport| 1 ]]
+  * [[books:sb:8:2:33#purport|crocodile & time]]
+  * **[[books:sb:5:14:29#translation|crows & man-made gods]]**
+  * [[books:sb:3:9:1#purport|crows & materialists]]
+  * [[books:sb:4:4:21#purport|crows & ritual performers]]
+  * [[books:sb:4:25:19#purport|cuckoo’s cooing & family turmoil]]
+  * [[books:sb:1:3:8#purport|curd & devotion to Lord]]
+  * [[books:sb:4:4:16#purport|curd and Śiva]]
+  * **[[books:sb:6:1:8#translation|cure for disease & atonement]]** **[[books:sb:6:1:12#translation| 1 ]]**
+</card>
+<card line-spacing="lg">
+===== D =====
+
+  * **[[books:sb:5:18:26#translation|dancing dolls & living entities]]**
+  * **[[books:sb:4:29:72#translation|dark moon night & undeveloped senses]]**
+  * [[books:sb:5:14:18#purport|dark well & family life]] [[books:sb:5:1:1#purport| 1 ]] [[books:sb:9:19:2#purport| 2 ]] [[books:sb:9:19:12#purport| 3 ]]
+  * **[[books:sb:5:5:15#translation|dark well & fruitive activity]]**
+  * [[books:sb:4:11:2#purport|darkness & māyā]]
+  * **[[books:sb:2:9:34#translation|darkness & illusory energy]]**
+  * **[[books:sb:4:31:5#translation|darkness of night & material world]]**
+  * [[books:sb:7:2:35#purport|dead yogi’s disciples & foolish]]
+  * [[books:sb:2:7:38#purport|dead men & godless society]] [[books:sb:2:9:36#purport| 1 ]]
+  * [[books:sb:10:11:11#purport|decorating face & serving Kṛṣṇa]]
+  * **[[books:sb:5:14:6#translation|deer & conditioned soul]]**
+  * **[[books:sb:4:29:53#translation|deer & materialist]]** [[books:sb:4:25:12#purport| 1 ]]
+  * **[[books:sb:4:29:53#translation|deer & Prācīnabarhiṣat]]**
+  * [[books:sb:4:29:18-20#purport|deer in desert & soul in material world]]
+  * [[books:sb:4:4:19#purport|demigods and transcendentalists]]
+  * [[books:sb:3:2:30#purport|demons & play dolls]]
+  * [[books:sb:2:9:10#purport|desert mirage & material world]]
+  * [[books:sb:5:18:9#purport|desire tree & devotee]]
+  * **[[books:sb:8:23:8#translation|desire tree & Lord]]**
+  * [[books:sb:1:11:4-5#purport|desire trees & Lord]]
+  * **[[books:sb:4:8:79#translation|Dhruva & elephant]]**
+  * **[[books:sb:4:8:14#translation|Dhruva & snake]]**
+  * [[books:sb:5:19:27#purport|dirty things & material desires]]
+  * **[[books:sb:5:2:9#translation|disciples & bumblebees surrounding Pūrvacitti]]**
+  * [[books:sb:3:20:35#purport|disease & material life]]
+  * [[books:sb:4:7:53#purport|diseased body parts and conditioned souls]]
+  * [[books:sb:2:9:39#purport|diseased eyes & sense gratification]]
+  * [[books:sb:3:28:44#purport|diseased man & conditioned soul]]
+  * **[[books:sb:6:9:50#translation|doctor & pure devotee]]**
+  * **[[books:sb:4:29:30-31#translation|dog & living entity]]**
+  * **[[books:sb:6:9:22#translation|dog swimming & demigods]]**
+  * [[books:sb:2:3:14#purport|dogs, hogs & modern civilization]]
+  * [[books:sb:5:18:26#purport|doll & woman]]
+  * **[[books:sb:6:12:10#translation|dolls & living entities]]**
+  * [[books:sb:3:20:31#purport|doll’s beauty & woman’s beauty]]
+  * [[books:sb:2:9:34#purport|drama & material world]]
+  * [[books:sb:3:9:15#purport|dramatic actor & Lord]]
+  * [[books:sb:10:13:16#purport|dramatic player & Kṛṣṇa]]
+  * [[books:sb:4:22:14#purport|dream & material conception]]
+  * **[[books:sb:4:12:15#translation|dream & material world]]** [[books:sb:4:9:33#purport| 1 ]]
+  * **[[books:sb:4:29:35#translation|dream life & material life]]** **[[books:sb:4:29:61#translation| 1 ]]** [[books:sb:4:29:2#purport| 2 ]]
+  * **[[books:sb:2:1:39#translation|dreamer & Lord]]** [[books:sb:2:1:39#purport| 1 ]]
+  * **[[books:sb:4:22:27#translation|dreamer awakened & soul liberated]]**
+  * **[[books:sb:3:27:4#translation|dreaming & material life]]** [[books:sb:3:27:25#purport| 1 ]] **[[books:sb:3:28:38#translation| 2 ]]**
+  * **[[books:sb:10:1:41#translation|dreaming & transmigration]]** [[books:sb:3:33:26#purport| 1 ]]
+  * **[[books:sb:2:1:39#translation|dreams & creations]]** [[books:sb:2:1:39#purport| 1 ]]
+  * **[[books:sb:6:15:21-23#translation|dreams & material life]]** [[books:sb:6:15:5#purport| 1 ]] **[[books:sb:6:17:30#translation| 2 ]]**
+  * [[books:sb:10:1:39#purport|dress & body]] [[books:sb:4:16:19#purport| 1 ]]
+  * [[books:sb:3:31:41#purport|dress & material body]]
+  * **[[books:sb:6:1:13-14#translation|dried leaves & sin]]**
+  * [[books:sb:5:25:9#purport|drop of water & universe]]
+  * [[books:sb:5:14:19#purport|drop of water in desert & happiness of family life]]
+  * [[books:sb:5:13:7#purport|drop of water in desert & material happiness]]
+  * [[books:sb:2:3:17#purport|drug & Lord’s narrations]]
+  * [[books:sb:2:9:25#purport|drunkard & living being]]
+  * [[books:sb:4:22:26#purport|dry coconut & pure devotee]]
+  * **[[books:sb:5:14:9#translation|dust of whirlwind & beauty of woman]]** **[[books:sb:5:13:4#translation| 1 ]]**
+</card>
+<card line-spacing="lg">
+===== E =====
+
+  * **[[books:sb:5:23:3#translation|eagles & planets]]**
+  * **[[books:sb:8:6:10#translation|Earth & Lord]]** [[books:sb:8:3:3#purport| 1 ]]
+  * [[books:sb:4:17:14#purport|Earth & mother]]
+  * **[[books:sb:10:4:19#translation|earth element & living entity]]**
+  * **[[books:sb:6:5:6-8#translation|Earth planet & body]]** **[[books:sb:6:5:11#translation| 1 ]]**
+  * **[[books:sb:8:6:10#translation|earthen pot & energy]]** [[books:sb:8:3:3#purport| 1 ]]
+  * **[[books:sb:3:27:18#translation|earth’s aroma & soul’s intelligence]]**
+  * [[books:sb:3:32:34-36#purport|eating & devotional service]]
+  * [[books:sb:2:4:5#purport|eating & hearing Śrīmad-Bhāgavatam]]
+  * **[[books:sb:6:1:63#translation|eclipse of sun & Ajamila’s falldown]]**
+  * [[books:sb:3:28:38#purport|electric fan & karma]]
+  * [[books:sb:2:10:16#purport|electric lamp & living being]]
+  * [[books:sb:4:11:18#purport|electrical powerhouse & Lord]] [[books:sb:4:17:33#purport| 1 ]]
+  * [[books:sb:2:4:6#purport|electrician & Lord]]
+  * [[books:sb:3:7:5#purport|electricity & consciousness]]
+  * [[books:sb:3:2:15#purport|electricity & Lord]]
+  * [[books:sb:1:3:34#purport|electricity & Lord’s energy]] [[books:sb:1:5:20#purport| 1 ]]
+  * [[books:sb:10:1:25#purport|electricity & Lord’s potency]]
+  * [[books:sb:4:3:23#purport|electrified copper and devotional service]]
+  * **[[books:sb:5:18:39#translation|elephant & boar incarnation of Lord]]**
+  * **[[books:sb:5:14:33#translation|elephant & death]]** **[[books:sb:5:13:18#translation| 1 ]]**
+  * **[[books:sb:7:8:23#translation|elephant & Hiraṇyakaśipu]]** [[books:sb:7:8:30#purport| 1 ]]
+  * [[books:sb:4:25:12#purport|elephant & materialist]]
+  * **[[books:sb:5:11:4#translation|elephant & mind]]**
+  * [[books:sb:3:15:39#purport|elephant & offense]]
+  * [[books:sb:2:2:30#purport|elephant & offenses]]
+  * **[[books:sb:5:5:30#translation|elephant & Ṛṣabhadeva]]**
+  * [[books:sb:6:17:15#purport|elephant (mad) & offense against devotee]]
+  * [[books:sb:3:8:5#purport|elephant dust & sins]]
+  * [[books:sb:3:26:55#purport|embryo & universal form]]
+  * [[books:sb:2:4:16#purport|empty paddy & devotionless yoga]]
+  * **[[books:sb:5:1:18#translation|enemies & senses]]**
+  * [[books:sb:2:4:6#purport|engineer & Lord]] [[books:sb:2:4:22#purport| 1 ]]
+  * **[[books:sb:4:26:1-3#translation|explosive weapons & false ego]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:3:1:39#translation|eyelid & elder Pāṇḍavas]]**
+  * [[books:sb:2:10:9#purport|eyes & sun & demigods]]
+  * [[books:sb:2:9:39#purport|eyes, diseased, & sense gratification]]
+</card>
+<card line-spacing="lg">
+===== F =====
+
+  * **[[books:sb:5:8:16#translation|faithless friend & Bharata]]**
+  * **[[books:sb:9:10:23#translation|falling from heaven & Rāvaṇa’s demise]]**
+  * **[[books:sb:5:7:2#translation|false ego & Bharata]]**
+  * **[[books:sb:4:28:12#translation|family and friends & bodily limbs]]**
+  * **[[books:sb:9:6:48#translation|fat, fire, & sense desire]]**
+  * [[books:sb:3:2:16#purport|father & Lord]] [[books:sb:4:22:42#purport| 1 ]]
+  * [[books:sb:4:7:15#purport|father & Śiva]]
+  * [[books:sb:3:19:16#purport|father "fighting" child & Lord "fighting" Hiraṇyākṣa]]
+  * [[books:sb:4:20:20#purport|father’s child & Lord’s devotee]] [[books:sb:4:20:31#purport| 1 ]] [[books:sb:9:4:68#purport| 2 ]]
+  * [[books:sb:10:10:7#purport|father’s cure & Nārada’s curse]]
+  * [[books:sb:4:12:40#purport|father’s son & spiritual master’s disciple]]
+  * **[[books:sb:9:10:50#translation|father’s sons & Rāma’s citizens]]**
+  * **[[books:sb:4:31:14#translation|feeding stomach & devotional service]]**
+  * [[books:sb:4:19:40#purport|feeding stomach & satisfying Lord]]
+  * [[books:sb:3:29:35#purport|feeding stomach & service to Lord]]
+  * [[books:sb:9:11:1#purport|feeding stomach & worshiping God]]
+  * **[[books:sb:5:14:4#translation|field & gṛhastha-āśrama]]**
+  * [[books:sb:4:28:40#purport|field & body]]
+  * **[[books:sb:6:2:18#translation|fire & chanting]]**
+  * **[[books:sb:7:11:33-34#translation|fire & desire]]**
+  * **[[books:sb:8:24:48#translation|fire & devotional service]]**
+  * [[books:sb:1:2:32#purport|fire & divine consciousness]]
+  * [[books:sb:6:2:18#purport|fire & Hare Kṛṣṇa mantra]]
+  * [[books:sb:5:5:5#purport|fire & knowledge]]
+  * **[[books:sb:10:6:7#translation|fire & Kṛṣṇa]]** **[[books:sb:10:11:50#translation| 1 ]]** [[books:sb:10:11:56#purport| 2 ]]
+  * **[[books:sb:3:28:43#translation|fire & living entities]]**
+  * **[[books:sb:6:9:42#translation|fire & Lord]]** **[[books:sb:8:6:15#translation| 1 ]]** **[[books:sb:8:17:23#translation| 2 ]]** [[books:sb:2:5:14#purport| 3 ]] [[books:sb:2:5:21#purport| 4 ]] [[books:sb:2:9:34#purport| 5 ]] [[books:sb:2:9:36#purport| 6 ]] [[books:sb:2:10:45#purport| 7 ]] [[books:sb:3:28:43#purport| 8 ]] [[books:sb:3:7:3#purport| 9 ]] [[books:sb:3:7:9#purport| 10 ]] [[books:sb:4:7:45#purport| 11 ]] [[books:sb:5:18:31#purport| 12 ]] **[[books:sb:5:18:36#translation| 13 ]]** [[books:sb:5:18:38#purport| 14 ]]
+  * **[[books:sb:4:9:11#translation|fire & material existence]]** [[books:sb:3:21:17#purport| 1 ]] [[books:sb:3:24:27#purport| 2 ]]
+  * **[[books:sb:3:27:23#translation|fire & material life]]**
+  * **[[books:sb:4:16:11#translation|fire & Pṛthu]]**
+  * [[books:sb:5:12:8#purport|fire & spiritual energy]]
+  * [[books:sb:4:28:63#purport|fire & Supreme Lord]]
+  * [[books:sb:10:13:54#purport|fire & Viṣṇu]]
+  * [[books:sb:1:10:16#purport|fire & women]]
+  * **[[books:sb:10:2:19#translation|fire (covered) & Devakī (imprisoned)]]** [[books:sb:10:2:18#purport| 1 ]]
+  * **[[books:sb:4:21:35#translation|fire burning & consciousness developing]]**
+  * **[[books:sb:5:10:5#translation|fire covered by ashes & Jaḍa Bharata’s effulgence]]**
+  * **[[books:sb:3:24:6#translation|fire in wood & Lord in devotee’s semen]]**
+  * **[[books:sb:4:9:7#translation|fire in wood & Lord’s energy in nature]]**
+  * **[[books:sb:3:9:32#translation|fire in wood & Lord’s existence]]**
+  * **[[books:sb:3:13:42#translation|fire in wood & Lord’s potency]]**
+  * **[[books:sb:10:1:51#translation|fire leaping & soul transmigrating]]**, N102
+  * [[books:sb:4:23:11#purport|fire of digestion & devotional service]]
+  * [[books:sb:3:28:41#purport|fire, flames, and smoke & Lord, living entities, and material energy]]
+  * [[books:sb:3:5:10#purport|firewood & kṛṣṇa-kathā]]
+  * **[[books:sb:3:28:43#translation|firewood & bodies]]**
+  * [[books:sb:4:28:63#purport|fire’s energy & living entities]]
+  * [[books:sb:3:25:11#purport|fire’s heat & dharma]]
+  * **[[books:sb:6:9:42#translation|fire’s sparks & demigods]]**
+  * [[books:sb:3:7:9#purport|fire’s sparks & living entities]]
+  * [[books:sb:3:2:8#purport|fish & foolish souls]] [[books:sb:3:2:11#purport| 1 ]]
+  * [[books:sb:2:2:31#purport|fish & impersonalist]]
+  * **[[books:sb:5:2:13#translation|fish & Pūrvacitti’s eyes]]**
+  * **[[books:sb:4:26:1-3#translation|flags & modes]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * [[books:sb:4:25:16#purport|flags and festoons & palms and soles of feet]]
+  * [[books:sb:3:9:4#purport|flames & Kṛṣṇa’s expansions]]
+  * **[[books:sb:10:11:56#translation|flies & demons]]**
+  * **[[books:sb:5:14:42#translation|flies & kings]]**
+  * [[books:sb:10:13:51#purport|flower fructifying & Kṛṣṇa consciousness blossoming]]
+  * **[[books:sb:6:17:30#translation|flower garland seen as snake & material illusion]]**
+  * **[[books:sb:4:29:53#translation|flower-garden life & family life]]**
+  * **[[books:sb:5:25:7#translation|flowers & Ananta’s eyes]]**
+  * **[[books:sb:3:15:44#translation|flowers & Lord’s face]]**
+  * **[[books:sb:4:29:54#translation|flowers & wife]]**
+  * [[books:sb:4:22:43#purport|food remnants & Pṛthu’s property]] [[books:sb:4:22:44#purport| 1 ]]
+  * [[books:sb:2:1:25#purport|football & universe]]
+  * [[books:sb:5:15:16#purport|forest & family]]
+  * **[[books:sb:5:13:1#translation|forest & material world]]** [[books:sb:5:2:7#purport| 1 ]] **[[books:sb:5:14:1#translation| 2 ]]**
+  * **[[books:sb:4:26:1-3#translation|forest & sense objects]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:5:19:25#translation|forest animal & nondevotee Bhārata-varṣa resident]]**
+  * **[[books:sb:5:14:3#translation|forest animals & family members]]**
+  * [[books:sb:5:2:7#purport|forest animals & material world’s inhabitants]]
+  * [[books:sb:4:25:19#purport|forest atmosphere & peaceful family life]]
+  * [[books:sb:5:13:16#purport|forest birds & bogus sādhus]]
+  * **[[books:sb:4:28:14#translation|forest fire & death]]**
+  * **[[books:sb:5:13:6#translation|forest fire & family life]]** **[[books:sb:5:14:15#translation| 1 ]]**
+  * [[books:sb:5:13:6#purport|forest fire & material world]] [[books:sb:5:14:13#purport| 1 ]] [[books:sb:5:14:15#purport| 2 ]]
+  * [[books:sb:1:10:2#purport|forest fire & world]]
+  * **[[books:sb:5:13:2#translation|forest plunderers & wife and children]]**
+  * [[books:sb:5:23:3#purport|fort & universe]]
+  * [[books:sb:3:14:20#purport|fortress & body]]
+  * **[[books:sb:9:14:36#translation|foxes & women]]**
+  * [[books:sb:5:15:16#purport|fragrant flower & famous man]]
+  * [[books:sb:2:10:42#purport|frog & fool]]
+  * [[books:sb:2:5:10#purport|frog & scientists]]
+  * [[books:sb:3:6:10#purport|frog & speculation]] [[books:sb:3:6:35#purport| 1 ]] [[books:sb:3:6:38#purport| 2 ]]
+  * **[[books:sb:2:3:20#translation|frog croaking & mundane talk]]**
+  * [[books:sb:2:7:32#purport|frog’s umbrella & Govardhana Hill]]
+  * [[books:sb:2:7:51#purport|fruit, ripened, & spiritual knowledge]]
+  * [[books:sb:5:14:12#purport|fruits of poisonous tree & wealth used for sense gratification]]
+</card>
+<card line-spacing="lg">
+===== G =====
+
+  * **[[books:sb:6:12:17#translation|gambling match & Vṛtrāsura-Indra battle]]**
+  * [[books:sb:2:1:1#purport|Ganges & kṛṣṇa-kathā]]
+  * [[books:sb:1:10:30#purport|Ganges & devotees]]
+  * [[books:sb:3:5:38#purport|Ganges & Lord]]
+  * **[[books:sb:5:19:24#translation|Ganges & topics of Lord’s activities]]**
+  * **[[books:sb:3:20:5#translation|Ganges bath & hearing Lord’s pastimes]]**
+  * [[books:sb:3:32:28#purport|Ganges River & Bhagavad-gītā]]
+  * [[books:sb:10:4:20#purport|Ganges River & spiritual master]]
+  * **[[books:sb:4:21:31#translation|Ganges water & Kṛṣṇa consciousness]]**
+  * [[books:sb:8:20:21#purport|Ganges water & Lord]]
+  * [[books:sb:5:1:5#purport|garden & devotional service]]
+  * [[books:sb:2:5:11#purport|gardener & Brahmā]]
+  * [[books:sb:2:1:15#purport|garments & bodies]]
+  * [[books:sb:9:1:33#purport|garments, soul, & body]]
+  * **[[books:sb:3:3:3#translation|Garuḍa’s nectar & Kṛṣṇa’s Rukmiṇī]]**
+  * **[[books:sb:4:25:46#translation|gates of city & gates of body (sense organs)]]** [[books:sb:4:28:4#purport| 1 ]] **[[books:sb:4:28:56#translation| 2 ]]** **[[books:sb:4:29:7#translation| 3 ]]**
+  * **[[books:sb:5:9:9-10#translation|gem & Jaḍa Bharata]]**
+  * [[books:sb:3:21:45-47#purport|gem (unpolished) & Kardama]]
+  * **[[books:sb:5:25:4#translation|gems & Lord’s toenails]]**
+  * **[[books:sb:7:7:21#translation|geologist & transcendentalist]]** [[books:sb:7:7:23#purport| 1 ]]
+  * **[[books:sb:7:11:33-34#translation|ghee & sin]]**
+  * [[books:sb:4:29:29#purport|ghost & conditioned soul]]
+  * **[[books:sb:9:19:5-6#translation|ghost & lust]]**
+  * [[books:sb:5:13:3#purport|ghosts & gold]]
+  * **[[books:sb:4:25:27#translation|girl friends (of Purañjanī) & sense gratification]]** [[books:sb:4:25:35#purport| 1 ]] **[[books:sb:4:29:6#translation| 2 ]]**
+  * **[[books:sb:6:14:46#translation|glowworm & Citraketu]]**
+  * **[[books:sb:10:13:45#translation|glowworm’s light & inferior’s power]]**
+  * [[books:sb:9:19:5-6#purport|goats & materialists]] [[books:sb:9:19:10#purport| 1 ]]
+  * [[books:sb:3:26:17#purport|goat’s neck nipples & material nature]]
+  * [[books:sb:1:3:2#purport|goat’s neck-bags & creation]]
+  * [[books:sb:2:10:45#purport|goat’s nipples & material energy]]
+  * [[books:sb:5:24:17#purport|gold & brāhmaṇa]]
+  * **[[books:sb:3:14:46#translation|gold & identity]]**
+  * **[[books:sb:8:24:48#translation|gold and silver & living entities]]**
+  * [[books:sb:1:1:1#purport|gold mine & Lord]] [[books:sb:8:12:8#purport| 1 ]]
+  * [[books:sb:2:9:2#purport|gold mountain dream & material desire]]
+  * [[books:sb:8:12:8#purport|gold ornaments & Creation]]
+  * [[books:sb:2:6:13-16#purport|gold reserve & Lord]]
+  * **[[books:sb:6:16:6#translation|gold transaction & transmigration of soul]]**
+  * [[books:sb:3:32:28#purport|golden oyster shell & Lord and His form]]
+  * **[[books:sb:10:13:62#translation|golden stick & Brahmā bowing down]]**
+  * **[[books:sb:5:8:16#translation|good man & deer]]**
+  * [[books:sb:2:7:50#purport|government & Lord]] [[books:sb:2:8:16#purport| 1 ]] [[books:sb:2:9:33#purport| 2 ]]
+  * [[books:sb:4:24:61#purport|government & Lord]]
+  * [[books:sb:6:4:24#purport|government & Supersoul]]
+  * [[books:sb:4:26:7#purport|government licenses & Vedic injunctions]]
+  * [[books:sb:6:17:23#purport|government rule & Kṛṣṇa’s equal disposition]]
+  * [[books:sb:10:13:44#purport|government’s power & Kṛṣṇa’s power]]
+  * [[books:sb:2:9:9#purport|grainless husks & devotionless yoga]]
+  * [[books:sb:3:27:14#purport|green bird and tree & merging]]
+  * **[[books:sb:7:2:42#translation|gṛhastha & soul]]**
+</card>
+<card line-spacing="lg">
+===== H =====
+
+  * [[books:sb:3:7:10#purport|headless vision & illusory consciousness]]
+  * [[books:sb:9:19:13#purport|heart disease & lust]]
+  * [[books:sb:10:13:54#purport|heat & viṣṇu-māyā]]
+  * [[books:sb:4:8:36#purport|heat & earthen pot]]
+  * [[books:sb:2:9:34#purport|heat & living beings]]
+  * [[books:sb:5:18:31#purport|heat and light & Lord’s energy]]
+  * [[books:sb:4:3:23#purport|heated iron and devotional service]]
+  * [[books:sb:4:30:34#purport|hell & impersonal liberation]]
+  * **[[books:sb:5:14:29#translation|herons & man-made gods]]**
+  * [[books:sb:5:13:8#purport|high mountains & family]]
+  * **[[books:sb:5:14:18#translation|hill & gṛhastha’s duties]]**
+  * [[books:sb:1:12:22#purport|Himalaya mountains & Parīkṣit]]
+  * [[books:sb:4:25:11#purport|hippy & Purañjana]]
+  * [[books:sb:3:7:17#purport|hog & fool]]
+  * **[[books:sb:3:32:19#translation|hog & materialist]]**
+  * [[books:sb:4:28:10#purport|hog in stool & materialist]]
+  * **[[books:sb:2:8:6#translation|home & Lord’s feet]]** [[books:sb:2:8:6#purport| 1 ]]
+  * **[[books:sb:3:5:15#translation|honey & Kṛṣṇa’s glories]]**
+  * **[[books:sb:5:13:10#translation|honey & sex enjoyment]]**
+  * **[[books:sb:5:2:11#translation|horns & Pūrvacitti’s breasts]]**
+  * **[[books:sb:4:26:1-3#translation|horses & sense organs]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:7:2:42#translation|house & body]]**
+  * **[[books:sb:6:5:6-8#translation|house & Lord]]** **[[books:sb:6:5:17#translation| 1 ]]**
+  * **[[books:sb:5:14:5#translation|house in sky & material world]]**
+  * **[[books:sb:7:2:42#translation|householder & soul]]**
+  * [[books:sb:3:6:5#purport|human body & universal form]]
+  * [[books:sb:2:2:12#purport|hunger & sex desire]]
+  * **[[books:sb:5:14:42#translation|hunter & sex pleasure]]**
+  * **[[books:sb:5:6:2#translation|hunter & spiritualist]]**
+  * **[[books:sb:4:29:53#translation|hunter & superintendent of death]]**
+  * **[[books:sb:4:26:1-3#translation|hunting & sense gratification]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:5:18:26#translation|husband & Lord]]**
+  * [[books:sb:3:27:20#purport|husking paddy & speculation]] [[books:sb:3:29:1-2#purport| 1 ]]
+</card>
+<card line-spacing="lg">
+===== I =====
+
+  * **[[books:sb:9:9:47#translation|imaginary city & material world]]**
+  * [[books:sb:3:2:24#purport|impersonalist & lone spaceman]]
+  * [[books:sb:3:26:17#purport|impregnation & creation’s cause]] [[books:sb:3:26:19#purport| 1 ]]
+  * **[[books:sb:5:14:12#translation|impure trees and creepers & living dead]]**
+  * [[books:sb:4:29:10#purport|insects & materialists]]
+  * [[books:sb:4:25:21#purport|intelligence & Purañjanī]] [[books:sb:4:25:22#purport| 1 ]] [[books:sb:4:25:36#purport| 2 ]] [[books:sb:4:27:2#purport| 3 ]]
+  * **[[books:sb:4:26:25#translation|intelligence & woman]]**
+  * [[books:sb:2:3:2-7#purport|intoxication & material aspirations]]
+  * [[books:sb:2:10:45#purport|iron & material energy]]
+  * [[books:sb:5:18:38#purport|iron & matter]]
+  * [[books:sb:5:12:8#purport|iron rod & material energy]]
+  * **[[books:sb:6:16:24#translation|iron with power to burn & body with consciousness]]**
+  * [[books:sb:3:23:43#purport|islands & planets]]
+</card>
+<card line-spacing="lg">===== J =====
+
+  * **[[books:sb:8:16:7#translation|jackals & inhospitable hosts]]**
+  * **[[books:sb:4:29:22#translation|Jarā & old age]]**
+  * [[books:sb:10:2:36#purport|jaundice patients & nondevotees]]
+  * [[books:sb:3:1:9#purport|jaundice victims & nondevotees]]
+  * [[books:sb:9:4:70#purport|jewel-hooded serpent & learned materialist]]
+  * [[books:sb:4:25:15#purport|jewels & material plans]]
+  * [[books:sb:2:5:11#purport|judge & Brahmā]]
+  * [[books:sb:6:16:11#purport|judge (impartial) & Kṛṣṇa]] [[books:sb:6:17:23#purport| 1 ]]
+  * [[books:sb:2:8:14#purport|judge’s chair & heavenly planets]]
+  * [[books:sb:1:7:35#purport|judge’s son & brahma-bandhus]]
+  * **[[books:sb:5:14:13#translation|jumping in shallow river & blessings from atheists]]**
+</card>
+<card line-spacing="lg">
+===== K =====
+
+  * [[books:sb:4:30:45#purport|king & sannyāsīs]]
+  * [[books:sb:4:30:45#purport|king & devotees]]
+  * **[[books:sb:2:10:16#translation|king & Lord]]** [[books:sb:2:5:15#purport| 1 ]] [[books:sb:2:9:15#purport| 2 ]] [[books:sb:2:9:33#purport| 3 ]] [[books:sb:3:25:38#purport| 4 ]] [[books:sb:4:30:6#purport| 5 ]] [[books:sb:4:31:16#purport| 6 ]] [[books:sb:4:31:20#purport| 7 ]]
+  * **[[books:sb:5:1:18#translation|king & sense controller]]**
+  * **[[books:sb:4:26:1-3#translation|king’s commander & mind]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:4:26:1-3#translation|king’s commanders & senses]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * [[books:sb:10:3:15-17#purport|king’s government & Lord’s creation]]
+  * [[books:sb:3:5:23#purport|king’s soldiers & Lord’s abode]]
+  * [[books:sb:1:5:19#purport|king’s son, orphans, devotees & karmīs]]
+  * [[books:sb:4:29:85#purport|knot within heart & sex attraction]]
+  * **[[books:sb:10:2:19#translation|knowledge (misused) & Devakī (imprisoned)]]** [[books:sb:10:2:18#purport| 1 ]]
+  * **[[books:sb:4:27:27#translation|Kālakanyā & old age]]** **[[books:sb:4:29:22#translation| 1 ]]**
+  * **[[books:sb:3:2:26#translation|Kṛṣṇa & covered flame]]**
+  * [[books:sb:10:2:8#purport|Kṛṣṇa’s advent & awakening Kṛṣṇa consciousness]]
+</card>
+<card line-spacing="lg">
+===== L =====
+
+  * **[[books:sb:5:7:12#translation|lake & Bharata’s heart]]**
+  * **[[books:sb:5:2:13#translation|lake & Pūrvacitti’s face]]**
+  * **[[books:sb:4:22:30#translation|lake drying up & Kṛṣṇa consciousness disappearing]]**
+  * **[[books:sb:5:14:3#translation|lambs & money]]**
+  * [[books:sb:4:25:13#purport|lame man & India]]
+  * **[[books:sb:5:11:8#translation|lamp & mind]]**
+  * **[[books:sb:3:28:35#translation|lamp flame & mind]]**
+  * [[books:sb:2:4:10#purport|lamps & Kṛṣṇa’s expansions]]
+  * **[[books:sb:7:2:23#translation|land "moving" & soul’s transmigration]]**
+  * [[books:sb:2:2:27#purport|lawyer & brāhmaṇa]]
+  * [[books:sb:2:10:51#purport|lawyers & authorities]]
+  * **[[books:sb:3:16:5#translation|leprosy & offense]]**
+  * **[[books:sb:9:10:8#translation|liberated soul & Rāma]]**
+  * [[books:sb:4:26:7#purport|licenses from government & Vedic injunctions]]
+  * [[books:sb:2:7:47#purport|light & Lord]] [[books:sb:2:9:34#purport| 1 ]]
+  * [[books:sb:1:3:28#purport|light bulbs & incarnations of God]]
+  * [[books:sb:2:9:45#purport|light to darkness & Lord to māyā]]
+  * [[books:sb:2:3:10#purport|limbs & living beings]]
+  * **[[books:sb:5:14:29#translation|lion & death]]** [[books:sb:5:13:16#purport| 1 ]]
+  * **[[books:sb:4:24:49#translation|lion & Lord]]**
+  * **[[books:sb:7:8:23#translation|lion & Nṛsiṁhadeva]]** [[books:sb:7:8:30#purport| 1 ]]
+  * [[books:sb:1:12:22#purport|lion & Parīkṣit]]
+  * [[books:sb:4:25:36#purport|living entity & Purañjana]]
+  * **[[books:sb:5:18:38#translation|lodestone & Lord]]**
+  * [[books:sb:3:26:9#purport|Lord’s wife and living entities’ mother & material nature]]
+  * **[[books:sb:3:30:32#translation|losing wealth & hellish punishment]]**
+  * [[books:sb:1:11:2#purport|lotus & Lord]]
+  * [[books:sb:3:27:21#purport|lotus & transcendentalist]]
+  * [[books:sb:2:9:9#purport|lotus flower & devotional service]]
+  * **[[books:sb:5:18:39#translation|lotus flower & Earth planet]]**
+  * [[books:sb:5:1:19#purport|lotus flower & Lord]]
+  * **[[books:sb:4:24:52#translation|lotus flower & Lord’s feet]]**
+  * **[[books:sb:6:18:41#translation|lotus flower & woman’s face]]**
+  * **[[books:sb:5:5:31#translation|lotus flower & Ṛṣabhadeva’s eyes]]**
+  * [[books:sb:2:4:21#purport|lotus stems & Lord’s feet]]
+  * **[[books:sb:10:1:43#translation|luminary’s reflection & soul’s covering]]**
+</card>
+<card line-spacing="lg">
+===== M =====
+
+  * [[books:sb:4:25:11#purport|machine & body]]
+  * [[books:sb:5:17:24#purport|machine & body]]
+  * [[books:sb:3:15:33#purport|machine parts & living entities]]
+  * [[books:sb:4:26:24#purport|"mad elephant" offense]]
+  * [[books:sb:5:1:5#purport|mad elephant & offense to devotee]] [[books:sb:5:10:17#purport| 1 ]]
+  * [[books:sb:9:4:68#purport|mad elephant & offenses]]
+  * **[[books:sb:3:14:10#translation|mad elephant & sex desire]]**
+  * [[books:sb:3:7:2#purport|magician & Lord]]
+  * [[books:sb:2:6:42#purport|magistrate & Mahā-Viṣṇu]]
+  * [[books:sb:2:6:6#purport|magnate’s son & devotee]]
+  * [[books:sb:3:25:33#purport|maidservant & liberation]] [[books:sb:4:28:51#purport| 1 ]]
+  * **[[books:sb:4:28:47#translation|Malayadhvaja & spiritual master]]**
+  * [[books:sb:4:28:32#purport|Malayadhvaja’s daughter & bhakti-latā]]
+  * [[books:sb:4:28:30#purport|Malayadhvaja’s sons & devotional processes]]
+  * [[books:sb:4:29:7#purport|manager & mind]]
+  * [[books:sb:2:5:3#purport|manufacturer & Brahmā]]
+  * [[books:sb:3:5:47#purport|married man & devotee]]
+  * [[books:sb:3:26:3#purport|material body & universal body]]
+  * [[books:sb:2:1:4#purport|materialists & dead bodies]]
+  * [[books:sb:2:1:8#purport|medical student & transcendentalist]]
+  * **[[books:sb:6:2:19#translation|medicine & chanting]]**
+  * **[[books:sb:5:12:2#translation|medicine & Jaḍa Bharata’s instructions]]**
+  * [[books:sb:4:27:9#purport|mental speculation & poison]]
+  * [[books:sb:9:5:27#purport|mercantile man & Ambarīṣa]]
+  * **[[books:sb:5:13:1#translation|merchant & conditioned soul]]** **[[books:sb:5:14:1#translation| 1 ]]**
+  * [[books:sb:2:2:2#purport|merry-go-round & material world]]
+  * [[books:sb:4:25:14#purport|metals & modes of nature]]
+  * **[[books:sb:5:13:3#translation|meteor & ghost]]**
+  * [[books:sb:4:30:24#purport|milk & Lord Viṣṇu]]
+  * [[books:sb:4:26:22#purport|milk for serpent & instructions for foolish]]
+  * [[books:sb:4:30:19#purport|milk preparations & material and spiritual activities]]
+  * [[books:sb:6:17:40#purport|milk touched by serpent’s lips & hearing from nondevotees]]
+  * [[books:sb:6:13:3#purport|millionaire & devotee]]
+  * [[books:sb:9:5:27#purport|millionaire & devotee]]
+  * **[[books:sb:5:14:10#translation|mirage & material enjoyment]]**
+  * [[books:sb:2:2:6#purport|mirage & material world]] [[books:sb:5:14:6#purport| 1 ]]
+  * **[[books:sb:5:14:6#translation|mirage & objects of senses]]**
+  * [[books:sb:5:13:5#purport|mirage & sinful person]]
+  * **[[books:sb:5:8:15#translation|miser & Bharata]]**
+  * [[books:sb:3:9:42#purport|miser & loveless soul]]
+  * [[books:sb:5:14:22#purport|miser & materialist]]
+  * **[[books:sb:5:14:32#translation|monkey & conditioned soul]]**
+  * **[[books:sb:5:13:17#translation|monkeys & sense gratifiers]]**
+  * **[[books:sb:8:10:16-18#translation|moon & Bali]]** **[[books:sb:8:15:35#translation| 1 ]]**
+  * **[[books:sb:5:1:8#translation|moon & Brahmā]]**
+  * **[[books:sb:3:23:38#translation|moon & Kardama]]**
+  * **[[books:sb:3:2:8#translation|moon & Lord]]** [[books:sb:3:7:11#purport| 1 ]]
+  * **[[books:sb:8:19:4#translation|moon & Prahlāda]]** [[books:sb:8:22:12#purport| 1 ]]
+  * [[books:sb:2:9:1#purport|moon in mirror & material happiness]]
+  * **[[books:sb:3:7:11#translation|moon on water & soul in matter]]**
+  * **[[books:sb:4:22:56#translation|moon-king & Pṛthu]]**
+  * **[[books:sb:10:13:50#translation|moonlight & Viṣṇus’ smiles]]**
+  * **[[books:sb:10:2:18#translation|moonrise & Lord’s advent]]** **[[books:sb:10:3:7-8#translation| 1 ]]** [[books:sb:10:3:7-8#purport| 2 ]]
+  * **[[books:sb:1:12:31#translation|moon’s waxing & Parīkṣit’s growing]]**
+
+[[books:sb:2:2:17#purport|moth & living being]]
+  * [[books:sb:2:6:37#purport|mother & Vedas]]
+  * [[books:sb:2:2:6#purport|mother & Lord]]
+  * **[[books:sb:4:30:5#translation|Mount Meru & Lord]]**
+  * **[[books:sb:5:13:18#translation|mountain cave & disease]]**
+  * **[[books:sb:5:14:33#translation|mountain cave & fear]]**
+  * **[[books:sb:5:25:2#translation|mustard seed & universe]]** [[books:sb:2:6:18#purport| 1 ]] [[books:sb:5:17:21#purport| 2 ]]
+</card>
+<card line-spacing="lg">
+===== N =====
+
+  * [[books:sb:1:11:26#purport|nature & Lord’s smile]]
+  * [[books:sb:4:23:28#purport|navigator & spiritual master]]
+  * [[books:sb:5:19:27#purport|nectar & devotional service]]
+  * **[[books:sb:2:2:37#translation|nectar & hearing of Kṛṣṇa]]**
+  * [[books:sb:3:5:38#purport|nimba tree & envious soul]]
+  * [[books:sb:5:18:38#purport|nipples on goat’s neck & material nature]]
+  * [[books:sb:6:16:38#purport|nobility & demigod’s favor]]
+  * [[books:sb:3:9:6#purport|nonpoisonous snake & devotee’s wealth]]
+</card>
+<card line-spacing="lg">
+===== O =====
+
+  * **[[books:sb:4:26:1-3#translation|obstacles to chariot & life airs]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * [[books:sb:6:1:53#purport|ocean & māyā]]
+  * **[[books:sb:5:13:24#translation|ocean & Jaḍa Bharata’s heart]]**
+  * [[books:sb:3:24:44#purport|ocean & Lord’s devotee]]
+  * [[books:sb:10:13:61#purport|ocean & Lord’s knowledge]]
+  * **[[books:sb:4:22:40#translation|ocean & material existence]]** [[books:sb:4:23:39#purport| 1 ]] [[books:sb:4:24:20#purport| 2 ]] **[[books:sb:4:24:75#translation| 3 ]]**
+  * **[[books:sb:10:2:30#translation|ocean & material world]]** [[books:sb:4:28:60#purport| 1 ]]
+  * [[books:sb:4:22:58#purport|ocean & Pṛthu]]
+  * **[[books:sb:2:8:26#translation|ocean of nectar & Śukadeva’s speeches]]**
+  * **[[books:sb:5:21:13#translation|oil-pressing machine & Sūrya’s chariot wheel]]**
+  * [[books:sb:10:2:26#purport|original lamp & Kṛṣṇa]]
+  * **[[books:sb:5:13:5#translation|owls & enemies]]**
+  * **[[books:sb:3:30:13#translation|ox & father]]**
+</card>
+<card line-spacing="lg">
+===== P =====
+
+  * [[books:sb:3:6:10#purport|paddy tillers & speculators]]
+  * **[[books:sb:4:26:11#translation|palace & conscience]]**
+  * **[[books:sb:4:30:32#translation|pārijāta trees & Lord’s lotus feet]]**
+  * **[[books:sb:2:3:22#translation|peacock plumes & eyes]]**
+  * **[[books:sb:4:25:62#translation|pet animal & King Purañjana]]**
+  * [[books:sb:4:30:38#purport|physician & Lord]]
+  * **[[books:sb:6:9:50#translation|physician & pure devotee]]**
+  * **[[books:sb:5:14:2#translation|plunderers & senses]]**
+  * [[books:sb:4:25:11#purport|poison & karma-kāṇḍa and jñāna-kāṇḍa]]
+  * [[books:sb:4:27:9#purport|poison & fruitive activity]] [[books:sb:4:29:55#purport| 1 ]]
+  * [[books:sb:5:1:22#purport|poison & material affairs]]
+  * [[books:sb:5:19:27#purport|poison & material desire]]
+  * [[books:sb:4:26:18#purport|poison & material life]]
+  * [[books:sb:4:29:55#purport|poison & mental speculation]]
+  * **[[books:sb:5:14:12#translation|poisonous wells & living dead]]**
+  * [[books:sb:3:26:5#purport|police department & material world]]
+  * **[[books:sb:4:28:13#translation|police superintendent & subtle body]]**
+  * **[[books:sb:6:7:14#translation|politics (worldly) & stone boat]]**
+  * [[books:sb:3:1:18#purport|postbox & Deity]]
+  * [[books:sb:6:10:11#purport|pot breaking & soul merging]]
+  * **[[books:sb:6:16:22#translation|pot made of earth & universe’s relation with Brahman]]**
+  * [[books:sb:4:31:17#purport|potter & Lord]]
+  * [[books:sb:10:3:26#purport|potter’s wheel & cosmos]]
+  * **[[books:sb:5:22:2#translation|potter’s wheel & zodiac]]**
+  * [[books:sb:2:10:16#purport|powerhouse & Lord]]
+  * [[books:sb:1:2:23#purport|prison & material world]] [[books:sb:3:7:2#purport| 1 ]] [[books:sb:3:15:33#purport| 2 ]]
+  * [[books:sb:2:7:50#purport|prison house & material world]] [[books:sb:2:10:37-40#purport| 1 ]]
+  * [[books:sb:3:30:8#purport|prison life & family life]]
+  * [[books:sb:1:11:35#purport|prison shackles & gravity]]
+  * [[books:sb:3:5:51#purport|prison trustees & demigods]]
+  * **[[books:sb:6:5:6-8#translation|prostitute & intelligence]]** **[[books:sb:6:5:14#translation| 1 ]]**
+  * **[[books:sb:4:29:1#translation|Prācīnabarhiṣat story made of]]**
+  * **[[books:sb:5:18:26#translation|puppeteer & Lord]]**
+  * **[[books:sb:4:29:2#translation|Purañjana & living entity]]**
+  * **[[books:sb:4:25:9#purport|Purañjana & Prācīnabarhiṣat]]**
+  * **[[books:sb:4:29:71#translation|Purañjana & Prācīnabarhiṣat, benedictions for hearing]]** **[[books:sb:4:29:85#translation| 1 ]]**
+  * **[[books:sb:4:28:65#translation|Purañjana story as]]**
+  * **[[books:sb:4:29:17#translation|Purañjanī & intelligence]]**
+  * [[books:sb:3:28:10#purport|purifying gold & purifying mind]]
+  * **[[books:sb:5:14:20#translation|python & sleep]]**
+</card>
+<card line-spacing="lg">
+===== Q =====
+
+  * [[books:sb:4:23:11#purport|queen & devotional service]]
+</card>
+<card line-spacing="lg">
+===== R =====
+
+  * [[books:sb:2:5:32#purport|railway trains & living entities]]
+  * **[[books:sb:4:22:58#translation|rain & Pṛthu]]** [[books:sb:4:22:57#purport| 1 ]]
+  * [[books:sb:3:21:17#purport|rain cloud & spiritual master’s mercy]]
+  * **[[books:sb:4:24:45-46#translation|rainfall & Lord’s beauty]]** [[books:sb:4:24:45-46#purport| 1 ]]
+  * [[books:sb:2:5:21#purport|rainy season & creation]]
+  * **[[books:sb:6:18:41#translation|razor blade & woman’s heart]]**
+  * **[[books:sb:6:5:6-8#translation|razors and thunderbolts & time]]** **[[books:sb:6:5:19#translation| 1 ]]**
+  * [[books:sb:3:26:23-24#purport|razor’s edge & devotional service]]
+  * [[books:sb:3:9:24#purport|razor’s edge & spiritual path]]
+  * [[books:sb:2:9:1#purport|reflection & material world]]
+  * **[[books:sb:4:22:29#translation|reflection on water & living entity in body]]**
+  * [[books:sb:2:9:34#purport|reflections & living beings]]
+  * **[[books:sb:4:28:63#translation|reflections & living entities]]**
+  * **[[books:sb:4:26:1-3#translation|rein & mind]]** [[books:sb:4:26:1-3#purport| 1 ]]
+  * **[[books:sb:4:24:20#translation|reservoir of water & great soul’s mind]]**
+  * [[books:sb:3:29:35#purport|rich and poor man & Lord and living entity]]
+  * [[books:sb:1:6:27#purport|rich man & devotees]]
+  * [[books:sb:2:6:31#purport|rich man & Lord]]
+  * [[books:sb:9:4:64#purport|rich man’s son & Lord’s devotee]]
+  * **[[books:sb:6:5:16#translation|river & māyā]]**
+  * [[books:sb:3:32:37#purport|river & devotional service]]
+  * **[[books:sb:6:5:6-8#translation|river & material nature]]** **[[books:sb:6:5:16#translation| 1 ]]**
+  * **[[books:sb:6:17:20#translation|river & material world]]**
+  * [[books:sb:6:8:12#purport|river and sea & oneness]]
+  * [[books:sb:4:22:39#purport|river’s waves & material desires]]
+  * [[books:sb:5:7:6#purport|root of tree & Lord]] [[books:sb:5:15:13#purport| 1 ]]
+  * [[books:sb:2:9:10#purport|rope & snake]] [[books:sb:2:9:34#purport| 1 ]]
+  * **[[books:sb:6:9:37#translation|rope mistaken for snake & ignorance]]**
+  * [[books:sb:2:10:49-50#purport|rose in painting & garden rose]]
+  * **[[books:sb:5:14:16#translation|Rākṣasas & government leaders]]**
+</card>
+<card line-spacing="lg">
+===== S =====
+
+  * **[[books:sb:5:8:22#translation|saintly person’s son & deer]]**
+  * [[books:sb:3:15:8#purport|salt & sense gratification]]
+  * [[books:sb:6:17:20#purport|salt mine & material world]]
+  * **[[books:sb:6:15:3#translation|sand & living entities]]**
+  * [[books:sb:1:8:32#purport|sandalwood & Kṛṣṇa]]
+  * **[[books:sb:3:8:29#translation|sandalwood tree & Lord’s body]]**
+  * [[books:sb:5:19:27#purport|sandeśa & devotional service]]
+  * [[books:sb:2:2:12#purport|sea foam & altruism]]
+  * **[[books:sb:4:31:15#translation|seasons & creation]]**
+  * [[books:sb:4:29:23-25#purport|seasons & happiness and distress]]
+  * [[books:sb:4:22:39#purport|sea’s waves & devotional service]]
+  * **[[books:sb:6:15:4#translation|seed planting & procreation attempt]]** **[[books:sb:6:15:7#translation| 1 ]]**
+  * **[[books:sb:4:31:16#translation|senses & material world]]**
+  * **[[books:sb:3:29:20#translation|sensing an aroma & knowing Kṛṣṇa]]**
+  * [[books:sb:4:26:22#purport|serpent & fool]]
+  * **[[books:sb:3:18:24#translation|serpent & Hiraṇyākṣa]]**
+  * **[[books:sb:4:25:21#translation|serpent & life air]]** [[books:sb:4:27:15#purport| 1 ]] [[books:sb:4:28:2#purport| 2 ]] [[books:sb:4:28:13#purport| 3 ]] **[[books:sb:4:29:6#translation| 4 ]]**
+  * [[books:sb:4:25:42#purport|serpents & arms]]
+  * **[[books:sb:5:14:21#translation|serpents & enemies]]**
+  * **[[books:sb:3:16:10#translation|serpents & negligent persons]]**
+  * [[books:sb:3:19:33#purport|serpents & nondevotees]] [[books:sb:6:17:40#purport| 1 ]]
+  * [[books:sb:5:1:17#purport|serpents & senses]] [[books:sb:5:2:5#purport| 1 ]] [[books:sb:5:17:3#purport| 2 ]]
+  * **[[books:sb:4:25:27#translation|servant & mind]]** [[books:sb:4:25:35#purport| 1 ]] **[[books:sb:4:29:7#translation| 2 ]]**
+  * **[[books:sb:4:25:35#translation|servants & senses]]** [[books:sb:4:25:27#purport| 1 ]] **[[books:sb:4:29:6#translation| 2 ]]**
+  * [[books:sb:5:20:5#purport|shadow & living entity]]
+  * [[books:sb:6:9:43#purport|shadow of tree & Lord’s lotus feet]]
+  * **[[books:sb:5:13:6#translation|shallow river & friends]]**
+  * **[[books:sb:5:2:13#translation|sharks & Pūrvacitti’s earrings]]**
+  * [[books:sb:6:1:52#purport|silkworm & living entity]]
+  * **[[books:sb:7:6:11-13#translation|silkworm & materialist]]** [[books:sb:7:6:16#purport| 1 ]]
+  * **[[books:sb:4:27:1#translation|sinful life & Purañjana’s hunting]]** [[books:sb:4:26:21#purport| 1 ]]
+  * [[books:sb:2:9:33#purport|sky & Absolute Truth]]
+  * [[books:sb:3:15:49#purport|sky & ear holes]]
+  * **[[books:sb:9:8:12#translation|sky & Kapila’s body]]**
+  * [[books:sb:6:4:34#purport|sky & living entity]]
+  * **[[books:sb:4:31:20#translation|sky & Lord]]** [[books:sb:2:5:21#purport| 1 ]] **[[books:sb:2:6:36#translation| 2 ]]** [[books:sb:3:5:45#purport| 3 ]]
+  * [[books:sb:2:6:36#purport|sky & spiritual happiness]]
+  * **[[books:sb:2:5:25#translation|sky and sound & seer and seen]]** [[books:sb:2:5:25#purport| 1 ]]
+  * [[books:sb:3:6:3#purport|sleep & cosmic dissolution]]
+  * [[books:sb:10:13:58#purport|sleep & death]] [[books:sb:2:1:15#purport| 1 ]]
+  * [[books:sb:4:20:25#purport|sleeping & forgetting Lord]]
+  * **[[books:sb:5:8:26#translation|snake & death]]**
+  * [[books:sb:3:1:14#purport|snake & fool]]
+  * **[[books:sb:10:6:8#translation|snake & Kṛṣṇa]]**
+  * [[books:sb:4:25:27#purport|snake & vital force]] [[books:sb:4:25:35#purport| 1 ]]
+  * [[books:sb:5:17:3#purport|snake with broken fangs & devotees’ senses]]
+  * **[[books:sb:4:22:11#translation|snakes & envious householders]]**
+  * **[[books:sb:2:3:20#translation|snake’s holes & mundane ears]]**
+  * **[[books:sb:10:13:45#translation|snow’s darkness & inferior’s power]]**
+  * [[books:sb:2:9:36#purport|social body & Lord]]
+  * **[[books:sb:4:26:1-3#translation|soldier/commander & mind]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * [[books:sb:2:8:21#purport|soldiers & devotees]]
+  * **[[books:sb:4:28:1#translation|soldiers & disease]]** **[[books:sb:4:28:4#translation| 1 ]]**
+  * **[[books:sb:4:26:1-3#translation|soldiers/commanders & senses]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * [[books:sb:4:22:42#purport|sons & fallen souls]]
+  * [[books:sb:6:11:4#purport|sons (useless) & urine]]
+  * [[books:sb:4:24:40#purport|soul & Supersoul]]
+  * **[[books:sb:4:22:26#translation|soul in body & fire in wood]]**
+  * [[books:sb:3:5:25#purport|soul in body & Lord in nature]]
+  * **[[books:sb:5:14:11#translation|sounds of owls and crickets & chastisement of enemies and government servants]]**
+  * [[books:sb:4:21:7#purport|spaceman & impersonalist]]
+  * [[books:sb:3:28:43#purport|spark & soul]]
+  * **[[books:sb:6:9:42#translation|sparks & demigods]]**
+  * **[[books:sb:8:6:15#translation|sparks from fire & living entities]]**
+  * [[books:sb:4:28:63#purport|sparks of fire & living entities]]
+  * [[books:sb:2:4:21#purport|speculators & exchange customers]]
+  * **[[books:sb:2:5:5#translation|spider & creator]]**
+  * [[books:sb:2:9:28#purport|spider & Lord]]
+  * **[[books:sb:3:21:19#translation|spider’s web & Lord’s Creation]]**
+  * [[books:sb:3:16:26#purport|stage play & Lord’s fighting pastime]]
+  * [[books:sb:4:21:35#purport|staircase & yoga system]]
+  * **[[books:sb:5:1:8#translation|stars & denizens of higher planets]]**
+  * **[[books:sb:3:23:38#translation|stars & Gandharva girls]]**
+  * [[books:sb:1:5:14#purport|stomach & Lord]] [[books:sb:3:15:33#purport| 1 ]] [[books:sb:3:18:5#purport| 2 ]]
+  * **[[books:sb:3:25:33#translation|stomach’s fire & devotional service]]**
+  * **[[books:sb:6:7:14#translation|stone boat & ignorant leadership]]**
+  * **[[books:sb:5:14:43#translation|stool & Bharata’s material assets]]**
+  * **[[books:sb:3:32:19#translation|stool & material literatures]]**
+  * [[books:sb:4:28:60#purport|straws & living entities]] [[books:sb:5:10:12#purport| 1 ]]
+  * [[books:sb:5:14:17#purport|straws in stream & family relationships]]
+  * [[books:sb:4:28:60#purport|straws’ grouping & family relationships]]
+  * [[books:sb:4:25:16#purport|streets & life airs]]
+  * **[[books:sb:5:7:2#translation|subtle sense objects & Bharata’s sons]]**
+  * [[books:sb:1:5:11#purport|sugar candy & Bhāgavatam]]
+  * [[books:sb:3:1:9#purport|sugar candy & Lord’s speeches]]
+  * [[books:sb:5:14:46#purport|summary of, in ‘‘Forest of Material Enjoyment,’’]]
+  * **[[books:sb:5:5:10-13#translation|summer and winter & pleasure and pain]]**
+  * **[[books:sb:8:6:1#translation|sun & advent of Lord]]**
+  * [[books:sb:2:10:8#purport|sun & demigods]]
+  * **[[books:sb:6:1:15#translation|sun & devotional service]]**
+  * [[books:sb:2:4:14#purport|sun & Goloka Vṛndāvana]]
+  * **[[books:sb:8:10:25#translation|sun & Indra]]** **[[books:sb:8:11:26#translation| 1 ]]**
+  * [[books:sb:1:7:23#purport|sun & Kṛṣṇa]] [[books:sb:1:8:6#purport| 1 ]] [[books:sb:1:8:15#purport| 2 ]] [[books:sb:1:8:29#purport| 3 ]] [[books:sb:1:8:32#purport| 4 ]] [[books:sb:1:9:21#purport| 5 ]] [[books:sb:1:9:31#purport| 6 ]] [[books:sb:1:10:26#purport| 7 ]] [[books:sb:1:11:9#purport| 8 ]] [[books:sb:1:11:10#purport| 9 ]]
+  * **[[books:sb:3:29:5#translation|sun & Lord]]** [[books:sb:10:3:7-8#purport| 1 ]] [[books:sb:2:8:3#purport| 2 ]] [[books:sb:2:9:3#purport| 3 ]] [[books:sb:2:9:27#purport| 4 ]] [[books:sb:2:9:34#purport| 5 ]] [[books:sb:2:9:36#purport| 6 ]] [[books:sb:2:10:33#purport| 7 ]] [[books:sb:3:1:44#purport| 8 ]] [[books:sb:3:2:7#purport| 9 ]] [[books:sb:3:2:12#purport| 10 ]] [[books:sb:3:2:15#purport| 11 ]] [[books:sb:3:4:12#purport| 12 ]] [[books:sb:3:7:9#purport| 13 ]] [[books:sb:3:12:33#purport| 14 ]] [[books:sb:3:21:31#purport| 15 ]] [[books:sb:3:24:39#purport| 16 ]] [[books:sb:3:25:9#purport| 17 ]] [[books:sb:3:26:4#purport| 18 ]] [[books:sb:4:24:60#purport| 19 ]] [[books:sb:4:29:29#purport| 20 ]] [[books:sb:4:29:79#purport| 21 ]] [[books:sb:4:30:5#purport| 22 ]] [[books:sb:4:30:21#purport| 23 ]] **[[books:sb:4:31:15#translation| 24 ]]** [[books:sb:5:1:11#purport| 25 ]] [[books:sb:6:16:57#purport| 26 ]] [[books:sb:8:1:11#purport| 27 ]] [[books:sb:8:3:5#purport| 28 ]] [[books:sb:8:3:10#purport| 29 ]] [[books:sb:8:3:15#purport| 30 ]] **[[books:sb:8:3:22-24#translation| 31 ]]** [[books:sb:8:17:9#purport| 32 ]]
+  * **[[books:sb:4:31:5#translation|sun & Nārada Muni]]**
+  * [[books:sb:3:12:31#purport|sun & powerful beings]]
+  * **[[books:sb:4:22:52#translation|sun & Pṛthu]]** **[[books:sb:4:22:56#translation| 1 ]]**
+  * [[books:sb:3:15:45#purport|sun & Supersoul]] [[books:sb:3:22:4#purport| 1 ]] [[books:sb:5:20:5#purport| 2 ]]
+  * [[books:sb:3:21:52-54#purport|sun & varṇāśrama system]]
+  * [[books:sb:3:27:1#purport|sun and reflection & detachment]]
+  * [[books:sb:3:7:9#purport|sun rays & living entities]]
+  * [[books:sb:3:26:3#purport|sunlight & brahmajyoti]]
+  * [[books:sb:3:26:3#purport|sunlight & Lord’s consciousness]]
+  * [[books:sb:4:29:79#purport|sunrise & God realization]]
+  * [[books:sb:1:8:32#purport|sunrise & Kṛṣṇa’s advent]] [[books:sb:1:10:26#purport| 1 ]]
+  * [[books:sb:9:11:19#purport|sunshine & brahmajyoti]]
+  * [[books:sb:10:8:13#purport|sunshine & kṛṣṇa-avatāra]]
+  * [[books:sb:4:29:29#purport|sunshine & living entities]]
+  * [[books:sb:6:16:57#purport|sunshine & living entity]]
+  * [[books:sb:4:24:52#purport|sunshine & Lord’s effulgence]]
+  * [[books:sb:10:3:15-17#purport|sunshine & Lord’s energy]]
+  * [[books:sb:5:24:20#purport|sunshine & power of Lord’s name]]
+  * [[books:sb:2:5:18#purport|sun’s clouds & Lord’s creation]]
+  * **[[books:sb:6:1:63#translation|sun’s eclipse & Ajāmila’s falldown]]**
+  * [[books:sb:6:17:23#purport|sun’s effect on lilies and bees & Kṛṣṇa’s equal disposition]]
+  * [[books:sb:2:6:18#purport|sun’s illumination & spiritual planets]]
+  * [[books:sb:9:9:5#purport|sun’s purity & Lord]]
+  * [[books:sb:2:6:40-41#purport|sun’s purity & Lord’s purity]]
+  * [[books:sb:2:4:14#purport|sun’s rays & brahmajyoti]]
+  * **[[books:sb:2:6:17#translation|sun’s rays & living entities]]** [[books:sb:1:11:10#purport| 1 ]] [[books:sb:3:25:17#purport| 2 ]] [[books:sb:2:1:24#purport| 3 ]] [[books:sb:2:2:18#purport| 4 ]] [[books:sb:2:6:22#purport| 5 ]]
+  * [[books:sb:1:9:21#purport|sun’s rays & Lord’s energy]]
+  * [[books:sb:1:8:6#purport|sun’s rays & Lord’s mercy]] [[books:sb:1:8:29#purport| 1 ]] [[books:sb:3:9:42#purport| 2 ]]
+  * [[books:sb:1:11:2#purport|swan & paramahaṁsa]] [[books:sb:10:13:2#purport| 1 ]]
+  * [[books:sb:4:28:15#purport|swan & mind]]
+  * **[[books:sb:6:5:6-8#translation|swan & transcendentalist]]** **[[books:sb:6:5:18#translation| 1 ]]**
+  * **[[books:sb:5:2:13#translation|swans & Pūrvacitti’s teeth]]**
+  * **[[books:sb:4:28:64#translation|swans & soul and Supersoul]]**
+  * [[books:sb:2:7:6#purport|sweetmeats & women]]
+</card>
+<card line-spacing="lg">
+===== T =====
+
+  * [[books:sb:3:10:12#purport|tape recording & time]]
+  * [[books:sb:3:32:33#purport|tasting milk & appreciating Lord]]
+  * [[books:sb:4:21:34#purport|tax collector(s) & demigods]] [[books:sb:5:20:17#purport| 1 ]]
+  * **[[books:sb:5:18:8#translation|thunderbolts & Nṛsiṁhadeva’s nails and teeth]]**
+  * **[[books:sb:4:29:53#translation|tiger & time]]**
+  * [[books:sb:5:14:3#purport|tigress & wife]]
+  * **[[books:sb:4:27:19#translation|Time’s daughter & old age]]**
+  * [[books:sb:2:3:20#purport|tongue & prostitute]]
+  * [[books:sb:1:6:28#purport|touchstone & devotional service to Lord]]
+  * **[[books:sb:5:19:3#translation|touchstone & Lord]]**
+  * [[books:sb:2:9:35#purport|touchstone & pure devotee]]
+  * [[books:sb:2:3:9#purport|travel ticket & demigod worship]]
+  * **[[books:sb:2:8:6#translation|traveler & devotee]]** [[books:sb:2:8:6#purport| 1 ]]
+  * **[[books:sb:10:2:27#translation|tree & body]]** **[[books:sb:5:14:32#translation| 1 ]]** **[[books:sb:8:19:39#translation| 2 ]]** **[[books:sb:8:19:40#translation| 3 ]]**
+  * [[books:sb:4:21:5#purport|tree & great person]]
+  * [[books:sb:5:13:18#purport|tree & household life]]
+  * [[books:sb:1:5:20#purport|tree & Lord]] [[books:sb:6:16:36#purport| 1 ]]
+  * [[books:sb:5:13:20#purport|tree & material world]]
+  * [[books:sb:4:30:12#purport|tree & son]]
+  * **[[books:sb:7:14:36#translation|tree & universe]]**
+  * [[books:sb:1:1:4#purport|tree & Viṣṇu]]
+  * [[books:sb:2:3:17#purport|tree fructifying & hearing about Lord]]
+  * [[books:sb:2:1:29#purport|tree root & Lord]] [[books:sb:2:5:15#purport| 1 ]] [[books:sb:2:9:36#purport| 2 ]]
+  * **[[books:sb:2:3:22#translation|tree trunks & legs]]**
+  * [[books:sb:3:16:9#purport|tree upside down & material world]]
+  * **[[books:sb:7:7:18#translation|tree’s fruits and flowers & body]]** [[books:sb:7:7:24#purport| 1 ]]
+  * **[[books:sb:7:2:23#translation|tree’s reflection & soul accepting bodies]]**
+  * **[[books:sb:4:31:14#translation|tree’s root & Kṛṣṇa]]**
+  * [[books:sb:1:5:14#purport|tree’s root & Lord]] [[books:sb:3:18:5#purport| 1 ]]
+  * [[books:sb:2:3:21#purport|turban & material advancement]]
+</card>
+<card line-spacing="lg">
+===== U =====
+
+  * [[books:sb:5:11:12#purport|unconscious sleeping person & eternally conditioned soul]]
+  * [[books:sb:3:16:23#purport|upper body & twice-born]]
+  * **[[books:sb:7:2:9#translation|uprooted tree & demigod mourning]]**
+  * **[[books:sb:9:10:15#translation|urine & Rāvaṇa]]**
+  * [[books:sb:6:11:4#purport|useless sons & urine]]
+</card>
+<card line-spacing="lg">
+===== V =====
+
+  * **[[books:sb:4:28:47#translation|Vaidarbhī & disciple of spiritual master]]** [[books:sb:4:28:65#purport| 1 ]]
+  * [[books:sb:4:28:34#purport|vānaprastha & nirjana-bhajana]]
+  * **[[books:sb:3:15:8#translation|Vedic law & bull’s rope]]**
+  * **[[books:sb:5:14:29#translation|vultures & man-made gods]]**
+</card>
+<card line-spacing="lg">
+===== W =====
+
+  * [[books:sb:3:26:20#purport|waking & creation of mahat-tattva]]
+  * **[[books:sb:3:27:25#translation|waking & self-realiātion]]**
+  * **[[books:sb:2:5:3#translation|walnut & creation]]**
+  * [[books:sb:2:8:21#purport|war & preaching]]
+  * [[books:sb:10:4:1#purport|watchdogs & politicians]] [[books:sb:10:4:3#purport| 1 ]]
+  * **[[books:sb:5:7:12#translation|water & Bharata’s love for Lord]]**
+  * **[[books:sb:3:26:22#translation|water & consciousness]]**
+  * **[[books:sb:4:31:15#translation|water & living entities]]**
+  * [[books:sb:4:25:12#purport|water drop & sense gratification]]
+  * **[[books:sb:6:12:22#translation|water in small ditches & material happiness]]**
+  * [[books:sb:4:25:18#purport|waterfall & taste-sense]]
+  * **[[books:sb:4:31:14#translation|watering root & devotional service]]**
+  * [[books:sb:3:31:43#purport|watering seed of devotional service]]
+  * **[[books:sb:8:9:29#translation|watering tree root & worship to Lord]]** [[books:sb:8:3:30#purport| 1 ]] [[books:sb:8:5:49#purport| 2 ]]
+  * [[books:sb:9:11:1#purport|watering tree’s root & worshiping God]] [[books:sb:9:14:48#purport| 1 ]]
+  * [[books:sb:7:14:34#purport|watering tree’s root & worshiping Kṛṣṇa]] [[books:sb:7:14:36#purport| 1 ]]
+  * **[[books:sb:3:27:18#translation|water’s taste & soul’s intelligence]]**
+  * [[books:sb:2:4:10#purport|waves & Lord’s incarnations]] [[books:sb:2:6:46#purport| 1 ]]
+  * [[books:sb:2:2:3#purport|waves & world of names]]
+  * [[books:sb:5:10:12#purport|waves of ocean & laws of nature]]
+  * **[[books:sb:6:17:20#translation|waves of river & material world]]**
+  * **[[books:sb:4:26:1-3#translation|weapons & working senses]]** [[books:sb:4:26:1-3#purport| 1 ]] **[[books:sb:4:29:18-20#translation| 2 ]]**
+  * **[[books:sb:5:14:4#translation|weeds & desire for family life]]**
+  * [[books:sb:2:2:30#purport|weeds & materialists]]
+  * [[books:sb:4:25:6#purport|well & family life]] [[books:sb:4:29:54#purport| 1 ]] [[books:sb:4:31:1#purport| 2 ]]
+  * **[[books:sb:5:1:37#translation|well & material enjoyment]]**
+  * [[books:sb:6:18:41#purport|well covered by grass & women]]
+  * **[[books:sb:5:21:2#translation|wheat grain & universe]]**
+  * **[[books:sb:3:21:18#translation|wheel & time]]**
+  * [[books:sb:4:28:17#purport|wife & body]]
+  * **[[books:sb:5:18:26#translation|wife & living entities]]**
+  * [[books:sb:2:3:11#purport|will-o’-the-wisp & material illusion]]
+  * **[[books:sb:2:10:43#translation|wind & Lord]]** [[books:sb:4:24:65#purport| 1 ]]
+  * **[[books:sb:1:11:34#translation|wind & Lord’s power]]**
+  * [[books:sb:4:29:11#purport|wind & mind]]
+  * **[[books:sb:3:30:1#translation|wind & time]]**
+  * [[books:sb:4:25:18#purport|wind & touch-sense]]
+  * [[books:sb:5:5:30#purport|winter and summer seasons & happiness and distress]]
+  * [[books:sb:5:14:3#purport|witch & wife]]
+  * [[books:sb:5:13:3#purport|witches & gold]]
+  * **[[books:sb:4:28:55#translation|woman & external creative energy]]**
+  * [[books:sb:1:3:2#purport|woman & material nature]]
+  * **[[books:sb:5:6:4#translation|woman & mind]]**
+  * [[books:sb:3:5:26#purport|womb & material nature]]
+  * [[books:sb:2:5:34#purport|womb & nature]]
+  * **[[books:sb:8:17:23#translation|wood & Kaśyapa and Aditi]]**
+  * **[[books:sb:6:12:10#translation|wooden dolls & living entities]]**
+  * [[books:sb:4:28:10#purport|worm in stool & materialist]]
+</card>
+<card line-spacing="lg">
+===== Y =====
+
+  * **[[books:sb:5:5:27#translation|Yamarāja’s rope & material existence]]**
+  * **[[books:sb:5:14:7#translation|yellow stool & gold]]** [[books:sb:5:14:13#purport| 1 ]]
+  * [[books:sb:4:30:24#purport|yogurt & Lord Śiva]]
+  * [[books:sb:9:9:7#purport|yogurt & Śiva]]
+</card>
+</masonry>

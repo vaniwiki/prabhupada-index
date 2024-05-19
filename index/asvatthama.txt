@@ -1,3 +1,10 @@
+---json
+{
+    "name":"Aśvatthāmā",
+    "description":"Arjuna. See: Arjuna, Aśvatthāmā & …; beheads Pāṇḍava children; as brāhmaṇa, unqualified; brahmāstra of; as degraded murderer; dilemma concerning; Draupadī’s respect for; driven away; as Droṇācārya’s representative; silent."
+}
+---
+
 ====== Aśvatthāmā ======
 
 **[[books:sb:1:8:11#translation|SB. 1.8.11]]**, [[books:sb:1:8:12#purport|SB. 1.8.12-13]], **[[books:sb:1:8:15#translation|SB. 1.8.15]]**, **[[books:sb:1:12:1#translation|SB. 1.12.1]]**, [[books:sb:1:13:16#purport|SB. 1.13.16]]

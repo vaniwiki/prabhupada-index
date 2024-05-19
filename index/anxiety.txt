@@ -1,3 +1,10 @@
+---json
+{
+    "name":"Anxiety",
+    "description":"in Arjuna; causes of; devotional service free of; in Kali-yuga; spiritual, vs. material; See also: Fear; Suffering. "
+}
+---
+
 ====== Anxiety ======
 
   * in Arjuna, **[[books:sb:1:14:23#translation|SB. 1.14.23-24]]**, **[[books:sb:1:14:39#translation|SB. 1.14.39-44]]**

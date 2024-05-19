@@ -1,3 +1,11 @@
+---json
+{
+    "name":"Brahmajyoti",
+    "title":"Brahmajyoti --- index",
+    "description":"defined; impersonalist aspires to; as impersonalist’s goal; impersonalists worship; Lord as; as Lord’s effulgence; as monist’s destination; planets within; Śiśupāla dazzled by; See also: Brahman."
+}
+---
+
 ====== Brahmajyoti ======
 
   * defined, [[books:sb:1:8:15#purport|SB. 1.8.15]], [[books:sb:1:9:44#purport|SB. 1.9.44]], [[books:sb:1:18:16#purport|SB. 1.18.16]]
