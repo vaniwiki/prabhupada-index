@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Annihilation of universe(s)",
-    "h1":"Annihilation of universe(s)",
+    "title":"Annihilation of universe(s) — index",
     "description":"at end of Brahmā’s day; fire at, compared to brahmāstras, . Kṛṣṇa basis of; Lord’s will determines; Lord unaffected by; after Manus; as periodic; by Śiva’s tāṇḍava-nṛtya."
 }
 ---

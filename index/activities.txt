@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Activities",
+    "title":"Activities — index",
     "description":"Acyuta, Kṛṣṇa’s forms as; absolute, compared with mundane; as gauge of character; as Lord’s potency; as selfish or selfless; as suffering; association with nature’s modes &; auspicious & inauspicious; body given according to; bondage to; bondage via material; by Viṣṇu via Śiva; caused by Lord; conditioned & liberated; contaminated by nature’s modes; desires determine; devotees transcendental to; devotional compared with fruitive; devotional service opposed by material; devotional service transforms; divisions of; energy source for; five forbidden, in Kali-yuga; for heavenly elevation; for sense gratification; for senses; freedom from reactions via; fruitful, compared with futile, fruitive; ..."
 }
 ---

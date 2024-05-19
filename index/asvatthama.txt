@@ -1,6 +1,7 @@
 ---json
 {
     "name":"Aśvatthāmā",
+    "title":"Aśvatthāmā — index",
     "description":"Arjuna. See: Arjuna, Aśvatthāmā & …; beheads Pāṇḍava children; as brāhmaṇa, unqualified; brahmāstra of; as degraded murderer; dilemma concerning; Draupadī’s respect for; driven away; as Droṇācārya’s representative; silent."
 }
 ---

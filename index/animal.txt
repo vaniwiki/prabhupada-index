@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Animal(s)",
-    "h1":"",
+    "title":"Animal(s) — index",
     "description":"activities of, four; as benefited via sacrifice; Caitanya enlightened; as citizens; demons degraded to; as emergency food; human beings compared with; in ignorance mode; in illusion; Kali-yuga as hell for; killing of. See: Animal slaughter. Lord incarnates in forms of; ominous signs in; protection for; sacrifice of; subsistence struggle among; See also: Species of life; specific animals."
 }
 ---
