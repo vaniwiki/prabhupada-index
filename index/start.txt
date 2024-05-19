@@ -1,3 +1,24 @@
-====== Index: Small Sample For Now ======
+---json
+{
+    "name":"Index",
+    "title":"General Index",
+    "description":"Indexes are designed to help the reader find information quickly and easily. A complete and truly useful index is not simply a list of the words and phrases used in a publication (which is properly called a concordance), but an organized map of its contents, including cross-references, grouping of like concepts, and other useful intellectual analysis."
+}
+---
 
-{{simplenavi>index}}
+====== General Index, small sample ======
+
+<text>Indexes are designed to help the reader find information quickly and easily. A complete and truly useful index is not simply a list of the words and phrases used in a publication (which is properly called a concordance), but an organized map of its contents, including cross-references, grouping of like concepts, and other useful intellectual analysis.</text>
+
+<iterator>
+    <data>select where path like '%:index:%' and path not like '%:start%' order by path asc</data>
+    <grid gutter="y-0">
+        <fragment>
+            <box><card clickable>
+            <header>$label</header>
+            <title>$h1</title>
+		<text font-size="smaller">${description | head(1024,'...')}[[$path?preview=false| ]]</text>
+            </card></box>
+        </fragment>
+    </grid>
+</iterator>
